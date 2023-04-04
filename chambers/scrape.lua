@@ -100,7 +100,7 @@ local fp=io.open("dict.csv","w")
 for i,line in ipairs( lines ) do
 	local words=wstr.split_words(line)
 	local class
-	for i=1,5 do class=class or classes[ words[i] ] end
+	for i=1,10 do class=class or classes[ words[i] ] end
 	class=class or ""
 	local word=string.sub(line,string.find(line,"^[A-Z %-]*"))
 	local escline=string.gsub(line,"\"","\"\"")
