@@ -16,6 +16,20 @@ local ignoreme={
 ["[Illustration]"]=true,
 }
 
+local classes={
+	["_v.i._"]		=	"verb intransitive",
+	["_v.t._"]		=	"verb transitive",
+	["_n.pl._"]		=	"noun plural",
+	["_n.sing._"]	=	"noun singular",
+	["_n._"]		=	"noun",
+	["_adj._"]		=	"adjective",
+	["_adv._"]		=	"adverb",
+	["_pron._"]		=	"pronoun",
+	["_conj._"]		=	"conjunction",
+	["_interj._"]	=	"interjection",
+	["_prep._"]		=	"preposition",
+}
+
 
 local letter=string.char(string.byte("A")-1)
 
@@ -82,9 +96,15 @@ for i,it in ipairs(files) do
 
 end
 
-local fp=io.open("dict.txt","w")
+local fp=io.open("dict.csv","w")
 for i,line in ipairs( lines ) do
-	fp:write(line.."\n")
+	local words=wstr.split_words(line)
+	local class
+	for i=1,5 do class=class or classes[ words[i] ] end
+	class=class or ""
+	local word=string.sub(line,string.find(line,"^[A-Z %-]*"))
+	local escline=string.gsub(line,"\"","\"\"")
+	fp:write(word..","..class..",".."\""..escline.."\"\n")
 end
 fp:close()
 
