@@ -102,7 +102,7 @@ for i,line in ipairs( lines ) do
 	local class
 	for i=1,10 do class=class or classes[ words[i] ] end
 	class=class or ""
-	local word=string.sub(line,string.find(line,"^[A-Z %-']*"))
+	local word=string.lower(string.sub(line,string.find(line,"^[A-Z %-']*")))
 	local escline=string.gsub(line,"\"","\"\"")
 	fp:write(word..","..class..",".."\""..escline.."\"\n")
 end
