@@ -346,7 +346,7 @@ for i,line in ipairs( lines ) do
 	local class
 	for i=1,10 do class=class or classes[ words[i] ] end
 	class=class or ""
-	local word=string.lower(string.sub(line,string.find(line,"^[^%,%=%.%:%(]*")))
+	local word=string.lower(string.sub(line,string.find(line,"^[^%,%=%.%:%(%;%[%!]*")))
 	word=wstr.trim(word)
 	if #word>20 then word="" end
 	if string.sub(word,2,2)==" " then word=string.sub(word,1,1) end -- catch single letters
