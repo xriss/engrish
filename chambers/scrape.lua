@@ -340,21 +340,22 @@ for i,it in ipairs(files) do
 
 end
 
-local fp=io.open("dict.csv","w")
+local fpt=io.open("dict.tsv","w")
 for i,line in ipairs( lines ) do
 	local words=wstr.split_words(line)
 	local class
 	for i=1,10 do class=class or classes[ words[i] ] end
 	class=class or ""
-	local word=string.lower(string.sub(line,string.find(line,"^[A-Z %-']*")))
+	local word=string.lower(string.sub(line,string.find(line,"^[^%,%=%.]*")))
+	if #word>20 then word="" end
+	if string.sub(word,2,2)==" " then word=string.sub(word,1,1) end -- catch single letters
 	local eline=line
 	for n,v in pairs( abbrevs ) do
 		if string.find( eline , n ) then
 			eline=string.gsub( eline , n , v )
 		end
 	end
-	local escline=string.gsub(eline,"\"","\"\"")
-	fp:write(word..","..class..",".."\""..escline.."\"\n")
+	fpt:write(word.."\t"..class.."\t"..eline.."\n")
 end
-fp:close()
+fpt:close()
 
