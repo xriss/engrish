@@ -4,20 +4,20 @@ local wstr=require("wetgenes.string")
 
 
 local classes={
-	["noun plural"]       = "np",
-	["noun singular"]     = "ns",
-	["noun"]              = "n",
-	["pronoun"]           = "pn",
+	["noun plural"]           = "np",
+	["noun singular"]         = "ns",
+	["noun"]                  = "n",
+	["pronoun"]               = "pn",
 
-	["verb intransitive"] = "vi",
-	["verb transitive"]   = "vt",
-	["adverb"]            = "av",
+	["verb intransitive"]     = "vi",
+	["verb transitive"]       = "vt",
+	["adverb"]                = "av",
 
-	["participial adjective"]         = "pa",
-	["adjective"]         = "a",
-	["conjunction"]       = "c",
-	["interjection"]      = "i",
-	["preposition"]       = "p",
+	["participial adjective"] = "pa",
+	["adjective"]             = "a",
+	["conjunction"]           = "c",
+	["interjection"]          = "i",
+	["preposition"]           = "p",
 }
 
 
@@ -110,11 +110,17 @@ for word,val in pairs(freqs) do
 	end
 	table.sort(classes)
 	classes=table.concat(classes," ")
-	tab[#tab+1]={word,classes,val}
+	tab[#tab+1]={word,val,classes}
 end
-table.sort(tab,function(a,b) return a[3]>b[3] end)
+table.sort(tab,function(a,b)
+	if a[2] == b[2] then
+		return a[1]<b[1]
+	end
+	return a[2]>b[2]
+end)
 
 local fp=io.open("words.tsv","w")
+fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do
 	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
 end

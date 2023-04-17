@@ -223,6 +223,7 @@ local abbrevs={
   ["_v.t._"]=                   "verb transitive.",
   ["_vul._"]=                   "vulgar.",
   ["_zool._"]=                  "zoology.",
+--[[
   [" Amer."]=      " American.",
   [" Ar."]=        " Arabic.",
   [" A.S."]=       " Anglo-Saxon.",
@@ -285,6 +286,7 @@ local abbrevs={
   [" Turk."]=      " Turkish.",
   [" U.S."]=       " United States.",
   [" W."]=         " Welsh.",
+]]
 }
 for n,v in pairs(classes) do
 	abbrevs[n]=v
