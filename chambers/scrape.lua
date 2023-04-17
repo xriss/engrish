@@ -18,16 +18,28 @@ local ignoreme={
 
 local classes={
 	["_v.i._"]		=	"verb intransitive",
+	["_v.i_."]		=	"verb intransitive",
 	["_v.t._"]		=	"verb transitive",
+	["_v.t_."]		=	"verb transitive",
 	["_n.pl._"]		=	"noun plural",
 	["_n.sing._"]	=	"noun singular",
+	["_n.sing_."]	=	"noun singular",
 	["_n._"]		=	"noun",
+	["_n_."]		=	"noun",
 	["_adj._"]		=	"adjective",
+	["_adj_."]		=	"adjective",
+	["_p.adj._"]    =   "participial adjective",
+	["_p.adj_."]    =   "participial adjective",
 	["_adv._"]		=	"adverb",
+	["_adv_."]		=	"adverb",
 	["_pron._"]		=	"pronoun",
+	["_pron_."]		=	"pronoun",
 	["_conj._"]		=	"conjunction",
+	["_conj_."]		=	"conjunction",
 	["_interj._"]	=	"interjection",
+	["_interj_."]	=	"interjection",
 	["_prep._"]		=	"preposition",
+	["_prep_."]		=	"preposition",
 }
 
 local abbrevs={
@@ -274,6 +286,9 @@ local abbrevs={
   [" U.S."]=       " United States.",
   [" W."]=         " Welsh.",
 }
+for n,v in pairs(classes) do
+	abbrevs[n]=v
+end
 
 local letter=string.char(string.byte("A")-1)
 

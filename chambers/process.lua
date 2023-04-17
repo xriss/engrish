@@ -2,6 +2,26 @@
 
 local wstr=require("wetgenes.string")
 
+
+local classes={
+	["noun plural"]       = "np",
+	["noun singular"]     = "ns",
+	["noun"]              = "n",
+	["pronoun"]           = "pn",
+
+	["verb intransitive"] = "vi",
+	["verb transitive"]   = "vt",
+	["adverb"]            = "av",
+
+	["participial adjective"]         = "pa",
+	["adjective"]         = "a",
+	["conjunction"]       = "c",
+	["interjection"]      = "i",
+	["preposition"]       = "p",
+}
+
+
+
 local words={}
 local lines={}
 
@@ -9,9 +29,13 @@ local fp=io.open("dict.tsv","r")
 for line in fp:lines() do
 	local cols=wstr.split(line,"\t")
 	local word=cols[1]
+	local class=classes[ cols[2] ] or ""
 	word=word:gsub("[^a-z]","")
 	if word~="" and word==cols[1] then -- good word
-		words[word]=true
+		if not words[word] then words[word]={} end
+		if class~="" then
+			words[word][class]=true
+		end
 	else -- bad word
 		print("IGNORE",cols[1])
 	end
@@ -80,14 +104,19 @@ end
 
 local tab={}
 for word,val in pairs(freqs) do
-	tab[#tab+1]={word,val}
+	local classes={}
+	for class in pairs( words[word] ) do
+		classes[#classes+1]=class
+	end
+	table.sort(classes)
+	classes=table.concat(classes," ")
+	tab[#tab+1]={word,classes,val}
 end
-table.sort(tab,function(a,b) return a[2]>b[2] end)
+table.sort(tab,function(a,b) return a[3]>b[3] end)
 
 local fp=io.open("words.tsv","w")
 for i,v in ipairs(tab) do
-	local freq=("%f"):format(100*v[2]/freqt)
-	fp:write(v[1].."\t"..freq.."\n")
+	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
 end
 fp:close()
 
