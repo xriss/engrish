@@ -27,7 +27,8 @@ local dwords=function(word,maxdepth,words)
 	maxdepth=maxdepth or #word
 	local depth=1
 	local new={[word]=true}
-	if ( not words[word] ) or ( 1 > words[word] ) then words[word]=1 end
+	if ( not words[word] ) or ( depth < words[word] ) then words[word]=depth end
+	depth=depth+1
 	while depth<maxdepth do
 		local weight=depth -- (maxdepth-depth)/maxdepth
 		local newnew={}
@@ -64,17 +65,22 @@ for line in fp:lines() do
 end
 fp:close()
 
+
+local addletters=4		-- lower this numnber, faster we can go
+local subletters=4		-- no real speed incentive but reduces pointless hits
 local args={...}
 for i,w in ipairs(args) do
 	print(w)
 	local m={}
-	local ws=dwords(w)
+	local ws=dwords(w,subletters)
 	for v,n in pairs(words) do
-		for t,f in pairs( dwords(v,4) ) do
-			if ws[t] then -- hit
-				local weight=(n+1000000)/(f+ws[t])
-				if ( not m[v] ) or ( m[v]<weight ) then
-					m[v]=weight
+		if #v+1-addletters <= #w then -- must be this long for possible match
+			for t,f in pairs( dwords(v,addletters) ) do
+				if ws[t] then -- hit
+					local weight=(n+10000)/(f+ws[t])
+					if ( not m[v] ) or ( m[v]<weight ) then
+						m[v]=weight
+					end
 				end
 			end
 		end
@@ -87,7 +93,7 @@ for i,w in ipairs(args) do
 	local oo={}
 	for i=1,10 do
 		if t[i] then
-			oo[#oo+1]=t[i][1]
+			oo[#oo+1]=t[i][1] -- ..":"..t[i][2]
 --			print( "" , t[i][1] ) -- , t[i][2] )
 		end
 	end
