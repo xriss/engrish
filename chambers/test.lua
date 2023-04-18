@@ -23,7 +23,6 @@ local classes={
 
 local dwords=function(word,maxdepth,words)
 	words=words or {}
-	if #word<2 then return words end -- nothing to split
 	maxdepth=maxdepth or #word
 	local depth=1
 	local new={[word]=true}
@@ -77,7 +76,7 @@ for i,w in ipairs(args) do
 		if #v+1-addletters <= #w then -- must be this long for possible match
 			for t,f in pairs( dwords(v,addletters) ) do
 				if ws[t] then -- hit
-					local weight=(n+10000)/(f+ws[t])
+					local weight=(n+100000)/(f+ws[t])	-- we add a big number to n so the number of transforms is most important
 					if ( not m[v] ) or ( m[v]<weight ) then
 						m[v]=weight
 					end
