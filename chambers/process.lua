@@ -120,7 +120,7 @@ table.sort(tab,function(a,b)
 end)
 
 local fp=io.open("words.tsv","w")
-fp:write("eng".."\t".."weight".."\t".."class".."\n")
+--fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do
 	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
 end
