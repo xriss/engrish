@@ -1939,6 +1939,7 @@ household	62
 mail	62	n
 partly	62	
 plaster	62	n
+pre	62	
 remains	62	
 she	62	
 steep	62	a vt
@@ -2302,6 +2303,7 @@ surgery	52
 travel	52	vi
 valve	52	n
 winding	52	
+anglo	51	
 apparent	51	a
 ate	51	n
 bass	51	n
@@ -2377,6 +2379,7 @@ purse	50	n
 rad	50	a n
 reward	50	n
 scent	50	vt
+semi	50	
 shadow	50	n
 silly	50	a
 sow	50	n vt
@@ -3105,6 +3108,7 @@ rake	36	n vi
 scrape	36	vt
 shark	36	n
 slate	36	n vt
+spinning	36	
 spleen	36	n
 spoil	36	vt
 spore	36	n
@@ -4583,6 +4587,7 @@ inverted	22
 investigation	22	
 itch	22	n
 jam	22	n vt
+jim	22	
 kindred	22	n
 latch	22	n vt
 laurel	22	n
@@ -5040,6 +5045,7 @@ alliance	19	n
 aperture	19	n
 apostles	19	
 apostolic	19	
+aqua	19	
 arabic	19	
 arsenic	19	n
 athletic	19	
@@ -5094,6 +5100,7 @@ drudge	19	vi
 earthy	19	
 echo	19	n
 effeminate	19	a
+emp	19	
 enable	19	vt
 enamel	19	n
 etching	19	
@@ -5290,6 +5297,7 @@ defensive	18
 deter	18	vt
 determination	18	
 digit	18	n
+dont	18	
 doric	18	a
 downy	18	
 drunken	18	
@@ -5848,6 +5856,7 @@ literal	16	a
 liturgy	16	n
 loin	16	n
 luxury	16	n
+mackerel	16	
 madder	16	n
 magpie	16	n
 majority	16	
@@ -6452,6 +6461,7 @@ leaven	14	n
 ledge	14	n
 legacy	14	n
 legend	14	n
+lingua	14	
 loathing	14	
 loiter	14	vi
 lowering	14	
@@ -7131,6 +7141,7 @@ generate	12	vt
 glassy	12	
 glycerine	12	n
 goblin	12	n
+gras	12	
 grove	12	n
 grum	12	a
 guarantee	12	n
@@ -7527,6 +7538,7 @@ emerald	11	n
 enchant	11	vt
 encouragement	11	
 enmity	11	n
+equilibrium	11	
 erection	11	
 errant	11	a
 escheat	11	n
@@ -7648,6 +7660,7 @@ neuron	11	n
 nib	11	n
 nigh	11	a
 nub	11	n vt
+nux	11	
 obsequious	11	a
 officious	11	a
 onset	11	n
@@ -7932,10 +7945,12 @@ cloy	10	vt
 cochineal	10	n
 combinations	10	
 comely	10	a
+compos	10	
 compression	10	
 conclusive	10	
 condescend	10	vi
 confirmed	10	
+coniferous	10	
 conjugate	10	vt
 conservative	10	
 contemporary	10	
@@ -8087,6 +8102,7 @@ keyboard	10
 khan	10	n
 kink	10	n vi
 knotty	10	
+kri	10	
 labium	10	
 laced	10	
 laity	10	n
@@ -8243,6 +8259,7 @@ scallop	10	n
 scapula	10	n
 scrag	10	n
 seaman	10	
+semitone	10	
 sessile	10	a
 shaken	10	
 shifting	10	
@@ -8486,6 +8503,8 @@ crayfish	9	n
 crease	9	n
 crinoid	9	
 crocodile	9	n
+crucifer	9	
+cruciferous	9	
 crystallisation	9	
 cups	9	
 czar	9	n
@@ -8503,6 +8522,7 @@ despot	9	n
 detest	9	vt
 detract	9	vt
 deuce	9	n
+devonshire	9	
 diagonal	9	a
 diary	9	n
 dictum	9	n
@@ -8763,6 +8783,7 @@ prostitute	9	vt
 prostrate	9	a
 protuberant	9	
 prowl	9	vi
+pseudo	9	
 puck	9	n
 puffed	9	
 purely	9	
@@ -9192,6 +9213,7 @@ ebony	8
 eccentric	8	a
 economic	8	
 eighty	8	
+electrotype	8	
 elemental	8	
 ellipse	8	n
 embalm	8	vt
@@ -9471,6 +9493,7 @@ prattle	8	vi
 precipitate	8	vt
 predict	8	vt
 prefect	8	n
+prima	8	
 prodigy	8	n
 promenade	8	n
 propagate	8	vt
@@ -9486,6 +9509,7 @@ quadrat	8	n
 quadrille	8	n
 quake	8	vi
 quell	8	vt
+qui	8	
 quince	8	n
 ragg	8	n
 raging	8	
@@ -9770,6 +9794,7 @@ bailey	7	n
 bairn	7	n
 baker	7	
 banishment	7	
+barbary	7	
 barium	7	n
 barnacle	7	n
 basil	7	n
@@ -10042,11 +10067,13 @@ headland	7
 helix	7	n
 hemispheres	7	
 herdsman	7	
+hocus	7	
 hoot	7	vi
 horde	7	n
 hottentot	7	n
 hulk	7	n
 humus	7	n
+hundreds	7	
 hurricane	7	n
 hydrocarbon	7	n
 hydrostatic	7	
@@ -10183,6 +10210,7 @@ nightmare	7	n
 nimbus	7	n
 nonpareil	7	n
 novels	7	
+novus	7	
 oblate	7	a n
 obligatory	7	
 obliterate	7	vt
@@ -10428,6 +10456,7 @@ thermal	7	a
 thievish	7	
 threadbare	7	
 thrive	7	vi
+thro	7	
 thursday	7	n
 thy	7	
 thyroid	7	a
@@ -10828,6 +10857,7 @@ editor	6
 effrontery	6	n
 elate	6	a
 elderly	6	
+electrolysis	6	
 electuary	6	n
 elixir	6	n
 embar	6	vt
@@ -11414,6 +11444,7 @@ sedate	6	a
 seeded	6	
 seel	6	n vi vt
 seer	6	n
+semper	6	
 sera	6	n
 serenade	6	n
 serge	6	n
@@ -11922,6 +11953,7 @@ confining	5
 confute	5	vt
 congenital	5	a
 congest	5	vt
+conifer	5	
 conjoined	5	
 conjugation	5	
 conqueror	5	
@@ -12649,6 +12681,7 @@ providence	5	n
 provincialism	5	
 provoking	5	
 prunella	5	n
+pseudopodia	5	
 ptolemaic	5	a
 puffy	5	
 pulsation	5	
@@ -12673,6 +12706,7 @@ queue	5	n
 quicklime	5	
 quietly	5	
 quilted	5	
+quo	5	
 quote	5	vt
 quoth	5	vt
 rabbis	5	
@@ -12787,6 +12821,7 @@ seethe	5	vt
 segmentation	5	
 selenium	5	n
 selvage	5	n
+semicircle	5	
 senators	5	
 sensualism	5	
 sentient	5	a
@@ -12937,6 +12972,7 @@ throstle	5	n
 thug	5	n
 tickle	5	a
 ticklish	5	
+tiers	5	
 tinker	5	n
 tiptoe	5	n
 tiro	5	
@@ -13148,6 +13184,7 @@ aggress	4	vi
 agility	4	
 agio	4	n
 aglet	4	n
+agnus	4	
 agrarian	4	a
 aground	4	av
 ail	4	vi
@@ -13253,6 +13290,7 @@ bantam	4	n
 bantu	4	n
 barbel	4	n
 barrack	4	n
+baseball	4	
 bashaw	4	n
 basinet	4	n
 basset	4	n
@@ -13372,6 +13410,7 @@ cantus	4
 capric	4	a
 captivate	4	vt
 caravansary	4	
+carbolic	4	
 cardiac	4	a
 caribbean	4	
 carmelite	4	n
@@ -13825,6 +13864,7 @@ forte	4	a n
 fractional	4	
 fragile	4	a
 framing	4	
+franco	4	
 frantic	4	a
 fratch	4	n
 fraught	4	n
@@ -13872,6 +13912,7 @@ genre	4	n
 gentile	4	n
 gestation	4	n
 giggle	4	vi
+giz	4	
 glade	4	n
 glanders	4	n
 glean	4	vt
@@ -14145,6 +14186,7 @@ leprosy	4	n
 levee	4	n
 lew	4	a
 lexicon	4	n
+leyden	4	
 lias	4	n
 liberate	4	
 liberation	4	
@@ -14208,6 +14250,7 @@ masse	4	n
 massorah	4	n
 mastery	4	
 masticate	4	vt
+materia	4	
 maze	4	n
 meander	4	n
 meanness	4	
@@ -14310,6 +14353,7 @@ obtund	4	vt
 obverse	4	a
 obviate	4	vt
 ocellus	4	
+och	4	
 octosyllabic	4	a
 offal	4	n
 offertory	4	
@@ -14347,10 +14391,12 @@ overshadow	4	vt
 overt	4	a
 overwork	4	vt
 oyer	4	n
+pachy	4	
 pagus	4	n
 palanquin	4	n
 palatable	4	
 palea	4	n
+paleography	4	
 palisade	4	n
 pallet	4	n
 palmyra	4	n
@@ -14375,6 +14421,7 @@ paths	4
 pathway	4	n
 patiently	4	
 patois	4	n
+patria	4	
 patrician	4	n
 patriot	4	n
 patronise	4	
@@ -14440,6 +14487,7 @@ pleistocene	4	n
 plenary	4	a
 plodding	4	
 plumbago	4	n
+plymouth	4	
 pneuma	4	n
 podgy	4	a
 podium	4	n
@@ -14498,6 +14546,7 @@ proximity	4
 prying	4	
 psalmody	4	
 psalterium	4	n
+pseudonym	4	
 ptarmigan	4	n
 pubis	4	n
 publicity	4	
@@ -14687,6 +14736,7 @@ seacoast	4
 secant	4	a
 sectarian	4	
 sedative	4	
+sedes	4	
 sedition	4	n
 seeker	4	
 seep	4	vi
@@ -14709,6 +14759,7 @@ sextant	4	n
 sexton	4	n
 sforzando	4	a
 shah	4	n
+shant	4	
 shawm	4	n
 shebeen	4	n
 sheen	4	n
@@ -15350,6 +15401,7 @@ aureola	3	n
 aurochs	3	n
 auster	3	n
 austral	3	a
+australis	3	
 autopsy	3	n
 avalanche	3	n
 avaunt	3	i vi
@@ -15660,6 +15712,7 @@ clary	3	n
 clasping	3	
 classis	3	n
 clatch	3	n vt
+claude	3	
 claustrum	3	n
 clavecin	3	n
 cleat	3	n
@@ -15787,6 +15840,7 @@ coulisse	3	n
 coulomb	3	n
 counterplot	3	
 countess	3	
+couped	3	
 coupler	3	
 courtly	3	
 courtyard	3	
@@ -15989,6 +16043,7 @@ donjon	3	n
 donum	3	
 doorkeeper	3	
 dotard	3	
+douay	3	
 doubleness	3	
 doubted	3	
 doughy	3	
@@ -16045,7 +16100,10 @@ eightfold	3
 ejaculation	3	
 electioneer	3	
 elective	3	
+electrolyte	3	
+electroscope	3	
 elemi	3	n
+elgin	3	
 eligible	3	a
 eloin	3	vt
 elongate	3	vt
@@ -16104,6 +16162,9 @@ epigraph	3	n
 episcopacy	3	n
 equatorial	3	
 equestrian	3	a
+equi	3	
+equidistant	3	
+equipoise	3	
 eradicated	3	
 erased	3	
 erbium	3	n
@@ -16149,6 +16210,7 @@ explicit	3	a n
 exportation	3	
 extortionate	3	
 eyeglass	3	
+facie	3	
 factitious	3	a
 faience	3	n
 faintness	3	
@@ -16439,6 +16501,7 @@ heliostat	3	n
 hellenistic	3	
 helminth	3	n
 helpless	3	
+hemal	3	
 hemiptera	3	n
 herbage	3	
 herbalist	3	
@@ -16694,6 +16757,7 @@ kaiser	3	n
 kaleidoscope	3	n
 kali	3	n
 kantian	3	a
+kauri	3	
 keech	3	n
 keek	3	vi
 kersey	3	n
@@ -16717,6 +16781,7 @@ lacertilia	3
 lackey	3	n
 lacquered	3	
 lacuna	3	n
+lager	3	
 lain	3	
 lakh	3	n
 lambent	3	a
@@ -16767,6 +16832,7 @@ linsey	3	n
 lintie	3	
 lipogram	3	n
 lire	3	
+lisle	3	
 lithotypy	3	n
 littoral	3	a
 liturgics	3	
@@ -16796,11 +16862,13 @@ lurking	3
 lustrum	3	
 lym	3	n
 lynx	3	n
+lyon	3	
 macaque	3	n
 macassar	3	
 madden	3	
 madhouse	3	
 magdalen	3	n
+magdeburg	3	
 magenta	3	n
 magnanimous	3	
 magnific	3	
@@ -16818,6 +16886,7 @@ mallemuck	3	n
 malvaceous	3	a
 mammee	3	n
 mammoth	3	n
+manchester	3	
 mandrill	3	n
 maned	3	
 mango	3	n
@@ -16832,6 +16901,7 @@ marchioness	3	n
 marge	3	
 margrave	3	n
 marigold	3	n
+marm	3	
 marmoset	3	n
 marquise	3	
 martinmas	3	n
@@ -17002,6 +17072,7 @@ nowel	3	n
 nuclei	3	
 nudibranch	3	n
 numbles	3	np
+nunc	3	
 nyctalopia	3	n
 nympha	3	
 oaf	3	n
@@ -17029,6 +17100,7 @@ ogee	3	n
 olein	3	n
 oligarchy	3	n
 olympiad	3	n
+omnipresence	3	
 onym	3	n
 ope	3	vt
 operatic	3	
@@ -17136,6 +17208,7 @@ password	3
 paten	3	n
 paternoster	3	n
 patin	3	n
+patres	3	
 patriarchal	3	
 patriotic	3	
 patter	3	vi
@@ -17262,6 +17335,7 @@ popish	3
 porphyritic	3	
 posit	3	
 posse	3	n
+poste	3	
 posterity	3	
 postman	3	
 posy	3	n
@@ -17279,6 +17353,7 @@ prefigure	3	vt
 prepense	3	a
 presently	3	
 preserver	3	
+prester	3	
 presuming	3	
 preternatural	3	a
 primate	3	n
@@ -17362,6 +17437,7 @@ radiation	3
 radicle	3	
 raffle	3	n
 rainfall	3	
+raison	3	
 raj	3	
 rajah	3	n
 ramed	3	a
@@ -17512,6 +17588,7 @@ sanctorum	3
 sanctum	3	
 sanitation	3	
 sanity	3	n
+santa	3	
 sapodilla	3	n
 sappho	3	
 sarcastically	3	
@@ -17576,6 +17653,7 @@ seemly	3
 seghol	3	n
 seidlitz	3	a
 seismometer	3	
+semiquaver	3	
 semita	3	n
 senility	3	
 seniority	3	
@@ -18166,6 +18244,7 @@ veld	3
 vellum	3	n
 velours	3	
 venery	3	n
+veni	3	
 venison	3	n
 venite	3	n
 ventilation	3	
@@ -18683,6 +18762,7 @@ awned	2
 axolotl	2	n
 ayenbite	2	n
 azalea	2	n
+azo	2	
 baa	2	n
 babbler	2	
 babiroussa	2	n
@@ -18826,6 +18906,7 @@ bimonthly	2	a
 binate	2	
 binnacle	2	n
 binocular	2	
+biogenesis	2	
 bipartite	2	a
 biped	2	n
 bipinnate	2	a
@@ -18873,6 +18954,7 @@ bolled	2
 bolting	2	
 bombardier	2	
 bombasine	2	n
+bona	2	
 bonder	2	
 bondman	2	
 bonfire	2	n
@@ -19017,6 +19099,7 @@ caltrop	2	n
 calvered	2	pa
 calyptra	2	n
 camber	2	n
+camberwell	2	
 cambium	2	n
 cambrian	2	a
 camelopard	2	n
@@ -19304,6 +19387,7 @@ coenobite	2	n
 coequal	2	a
 coercion	2	
 coercive	2	
+coexist	2	
 cogent	2	a
 cognac	2	n
 cognisant	2	
@@ -20377,6 +20461,7 @@ gazetteer	2
 gecko	2	n
 gehenna	2	n
 gelid	2	a
+gemel	2	
 gemma	2	
 genappe	2	n
 gendarme	2	n
@@ -20401,6 +20486,7 @@ giaour	2	n
 gibbe	2	n
 giblets	2	np
 gigot	2	n
+gila	2	
 gilder	2	
 gilravage	2	n
 gimmal	2	n
@@ -20470,6 +20556,7 @@ gradgrind	2	n
 gradin	2	
 graff	2	n
 graffito	2	n
+grallatorial	2	
 gramercy	2	i
 grangerism	2	n
 granulate	2	
@@ -20618,6 +20705,7 @@ heretofore	2
 hermetic	2	a
 heronshaw	2	n
 hesperus	2	
+hetaira	2	
 heteroblastic	2	a
 heterocercal	2	a
 heterogonous	2	a
@@ -20959,6 +21047,7 @@ isosceles	2	a
 isthmian	2	
 istle	2	n
 jaconet	2	n
+jacquard	2	
 jacqueminot	2	n
 jactation	2	n
 jaghir	2	n
@@ -21112,6 +21201,7 @@ landau	2	n
 lande	2	n
 landmark	2	
 langsyne	2	
+languedoc	2	
 laniard	2	
 lanolin	2	n
 lanterloo	2	n
@@ -21184,6 +21274,7 @@ limbus	2
 limy	2	
 lingel	2	n
 lingering	2	
+linnean	2	
 linotype	2	n
 liquate	2	vt
 liquefaction	2	
@@ -21276,6 +21367,7 @@ maladministration	2	n
 malaga	2	n
 malfeasance	2	n
 malformation	2	n
+malines	2	
 mallard	2	n
 mallemaroking	2	n
 malleolus	2	n
@@ -21291,6 +21383,7 @@ mandarin	2	n
 mandoline	2	n
 mandrake	2	n
 mangrove	2	n
+manichean	2	
 manille	2	n
 manis	2	n
 manlike	2	
@@ -21596,6 +21689,7 @@ napping	2
 narrowing	2	
 narthex	2	n
 nasturtium	2	n
+nata	2	
 natch	2	n
 nates	2	
 nathless	2	a
@@ -21711,6 +21805,7 @@ oilskin	2
 oleander	2	n
 oligarch	2	
 omega	2	n
+omnipotent	2	
 omphalos	2	n
 onager	2	n
 onanism	2	n
@@ -22032,6 +22127,7 @@ pharmacopoeia	2	n
 pharyngitis	2	
 phasma	2	n
 phenix	2	
+phi	2	
 philibeg	2	
 philistinism	2	
 phlegmatic	2	
@@ -22132,6 +22228,7 @@ plunger	2
 pluperfect	2	a
 pluralist	2	
 pneumatics	2	
+poa	2	
 podocarpus	2	n
 poe	2	n
 poesy	2	n
@@ -22298,6 +22395,7 @@ prototype	2	n
 provable	2	a
 provider	2	
 psaltery	2	
+pseudonymous	2	
 psychic	2	a
 psychrometer	2	n
 pteris	2	n
@@ -22362,6 +22460,7 @@ querquedula	2	n
 quetzal	2	n
 quicunque	2	n
 quiddity	2	n
+quien	2	
 quiescent	2	a
 quietism	2	
 quietist	2	
@@ -22414,6 +22513,7 @@ rapine	2	n
 rapport	2	n
 raptores	2	np
 raptorial	2	
+rara	2	
 rascally	2	
 ratable	2	a
 ratany	2	n
@@ -22823,6 +22923,7 @@ scincus	2
 scintillation	2	
 sciolism	2	n
 sciomachy	2	n
+scire	2	
 scissel	2	n
 sclave	2	
 sclerosis	2	
@@ -22892,6 +22993,7 @@ selenography	2
 seljuk	2	n
 selves	2	
 semeion	2	n
+semibreve	2	
 semis	2	n
 semolina	2	n
 senator	2	
@@ -23089,6 +23191,7 @@ soldo	2	n
 solecism	2	n
 solenostomous	2	a
 soleus	2	
+solfa	2	
 solferino	2	n
 solidarity	2	
 solidification	2	
@@ -23149,6 +23252,7 @@ spikenard	2	n
 spile	2	n
 spilth	2	n
 spined	2	
+spinneret	2	
 spiracle	2	n
 spirant	2	n
 spirt	2	
@@ -23271,6 +23375,7 @@ stunning	2
 stupa	2	n
 stupefaction	2	
 stuprum	2	n
+sturnus	2	
 sturt	2	n
 stygian	2	a
 stylite	2	n
@@ -23429,6 +23534,7 @@ tannic	2
 tantony	2	n
 tantra	2	n
 tantrum	2	n
+tantum	2	
 tappet	2	n
 tarantula	2	
 tarot	2	n
@@ -23693,6 +23799,7 @@ twinning	2
 twire	2	vi vt
 twirk	2	n
 twittering	2	
+twixt	2	
 twyer	2	n
 tyburn	2	n
 tycoon	2	n
@@ -24000,6 +24107,7 @@ utilitarian	2	a
 utilitarianism	2	
 utricle	2	n
 utriculus	2	
+vacans	2	
 vaccine	2	
 vaccinia	2	
 vade	2	vi
@@ -24064,6 +24172,7 @@ vignette	2	n
 vild	2	a
 villeinage	2	
 vinaigrette	2	n
+vinaya	2	
 vincible	2	a
 vintner	2	n
 violone	2	n
@@ -24120,6 +24229,7 @@ waster	2	n
 watercourse	2	
 watertight	2	
 waterway	2	
+watteau	2	
 waxen	2	
 wayfarer	2	
 waygoose	2	n
@@ -24201,6 +24311,7 @@ xanthochroi	2	np
 xanthoma	2	n
 xanthoxylum	2	n
 xenogenesis	2	n
+xxx	2	
 xylography	2	n
 xylonite	2	n
 xylophone	2	n
@@ -24222,6 +24333,7 @@ younker	2	n
 yourself	2	pn
 yourselves	2	
 yufts	2	n
+ywis	2	
 zamia	2	n
 zamindar	2	
 zareba	2	n
@@ -24359,6 +24471,7 @@ acetopathy	1	n
 acetous	1	
 acetylene	1	n
 acharnement	1	n
+achean	1	
 achene	1	
 achenium	1	n
 achievable	1	
@@ -24728,6 +24841,7 @@ ananas	1	n
 anandrous	1	a
 anantherous	1	a
 ananthous	1	a
+anapest	1	
 anaphora	1	n
 anaphrodisiac	1	a
 anaplasty	1	n
@@ -25130,6 +25244,7 @@ athanor	1	n
 atheism	1	n
 atheistic	1	
 atheling	1	n
+atheneum	1	
 atheology	1	n
 athermancy	1	n
 atheroma	1	n
@@ -25678,7 +25793,9 @@ bingo	1	n
 bink	1	n
 binocle	1	n
 binturong	1	n
+bio	1	
 biographer	1	
+bioplasm	1	
 biotaxy	1	n
 biotic	1	a
 biparous	1	a
@@ -25766,6 +25883,7 @@ bodge	1	vi
 bodikin	1	n
 bodle	1	n
 bodrages	1	np
+bodraging	1	
 boeotian	1	a
 bogus	1	a
 boiar	1	
@@ -25851,6 +25969,7 @@ braird	1	n
 braised	1	
 brame	1	n
 brancard	1	n
+branchial	1	
 branchlet	1	
 branks	1	n
 brankursine	1	n
@@ -26052,6 +26171,7 @@ caboodle	1	n
 caboose	1	n
 cabriole	1	
 caccia	1	
+cachemia	1	
 cachexy	1	n
 cacholong	1	n
 cacholot	1	
@@ -26161,6 +26281,7 @@ campanology	1	n
 campbellite	1	n
 campestral	1	a
 camphine	1	n
+campo	1	
 campylospermous	1	a
 campylotropal	1	a
 camstairy	1	a
@@ -26451,6 +26572,7 @@ championship	1
 chancy	1	
 changeful	1	
 chantage	1	n
+chantant	1	
 chanterelle	1	n
 chaparral	1	n
 chapeau	1	n
@@ -26545,6 +26667,7 @@ chiromancy	1
 chiropodist	1	n
 chirrup	1	vi
 chirt	1	n
+chirurgeon	1	
 chiselled	1	
 chisleu	1	n
 chitchat	1	n
@@ -26559,6 +26682,7 @@ chode	1
 choker	1	
 choky	1	n
 cholagogue	1	n
+cholemia	1	
 cholesterine	1	n
 choliamb	1	n
 chondrify	1	vt
@@ -26724,6 +26848,7 @@ clinic	1	a
 clinkstone	1	
 clinometer	1	n
 clinquant	1	a
+clishmaclaver	1	
 clistogamy	1	n
 clitellum	1	n
 clithral	1	a
@@ -26781,10 +26906,12 @@ codilla	1	n
 codille	1	n
 codling	1	n
 coehorn	1	n
+coelanaglyphic	1	
 coemption	1	n
 coenesthesis	1	n
 coetaneous	1	a
 coeval	1	a
+coextensive	1	
 coffle	1	n
 coft	1	
 coggie	1	n
@@ -27081,6 +27208,7 @@ coolie	1	n
 coolly	1	
 coolth	1	
 coontie	1	n
+coopt	1	
 coost	1	
 copaiba	1	n
 copartner	1	n
@@ -27419,6 +27547,7 @@ cyar	1	n
 cyathiform	1	a
 cyclamen	1	n
 cyclonic	1	
+cyclopedia	1	
 cyclorama	1	n
 cyclosis	1	n
 cyclostyle	1	n
@@ -27917,6 +28046,7 @@ didynamia	1	n
 diegesis	1	n
 dielectric	1	a
 dielytra	1	n
+dieresis	1	
 diesis	1	n
 dietary	1	
 dietetic	1	
@@ -28401,6 +28531,7 @@ drabbet	1	n
 drabble	1	vt
 drabbler	1	n
 dracanth	1	n
+dracine	1	
 draconian	1	a
 dracontium	1	n
 dracunculus	1	n
@@ -28580,6 +28711,7 @@ edematose	1
 edgeways	1	
 educe	1	vt
 edulcorate	1	vt
+eer	1	
 effeir	1	n
 effendi	1	n
 efferent	1	a
@@ -28627,7 +28759,11 @@ eldritch	1	a
 eleatic	1	a
 electorate	1	
 electrify	1	
+electrometer	1	
+electrometry	1	
+electromotive	1	
 electron	1	
+electrophorus	1	
 electrum	1	
 eleemosynary	1	a
 elegante	1	
@@ -28777,6 +28913,7 @@ encratite	1	n
 encrease	1	
 encrimson	1	vt
 encurtain	1	vt
+encyclopedia	1	
 endamage	1	vt
 endecagon	1	n
 endeictic	1	a
@@ -29043,6 +29180,7 @@ eprouvette	1	n
 epulotic	1	a
 equalise	1	
 equanimity	1	n
+equilateral	1	
 equinal	1	
 equine	1	a
 equipollence	1	
@@ -29110,6 +29248,7 @@ estray	1	n
 estrich	1	n
 estridge	1	
 esurient	1	a
+etc	1	
 etesian	1	a
 ethe	1	a
 ethic	1	a
@@ -29612,9 +29751,11 @@ forelie	1	vt
 forelift	1	vt
 foremean	1	vt
 forename	1	n
+forenamed	1	
 forenenst	1	p
 forenight	1	n
 forenotice	1	n
+foreordain	1	
 forepast	1	pa
 forepayment	1	n
 forepeak	1	n
@@ -29872,6 +30013,7 @@ galage	1
 galago	1	n
 galangal	1	
 galantine	1	n
+galanty	1	
 galatian	1	a
 galbanum	1	n
 galeate	1	a
@@ -29948,6 +30090,7 @@ gastronomic	1
 gastronomy	1	
 gastrostomy	1	n
 gastrotomy	1	n
+gateau	1	
 gatekeeper	1	
 gaucho	1	n
 gaucie	1	a
@@ -30125,6 +30268,7 @@ glower	1	vi
 gloxinia	1	n
 glumaceous	1	
 glumps	1	
+gluteus	1	
 glutinate	1	vt
 glycocoll	1	n
 glycol	1	n
@@ -30205,10 +30349,12 @@ gradino	1
 graffiti	1	
 graip	1	n
 grakle	1	
+grallatores	1	
 gralloch	1	vt
 gramary	1	n
 gramarye	1	
 grame	1	
+graminivorous	1	
 gramophone	1	n
 granadilla	1	n
 grandisonian	1	a
@@ -30317,6 +30463,7 @@ gymnosophist	1	n
 gymnosperm	1	n
 gynarchy	1	n
 gynecian	1	a
+gynecium	1	
 gynecocracy	1	n
 gynecology	1	n
 gyneolatry	1	n
@@ -30329,6 +30476,7 @@ gytrash	1	n
 gyve	1	vt
 habble	1	vt
 habenaria	1	n
+habendum	1	
 haberdine	1	n
 hability	1	n
 habituation	1	
@@ -30359,6 +30507,7 @@ hahnemannian	1	a
 haick	1	
 haikh	1	n
 hained	1	
+haint	1	
 hairbreadth	1	
 hairless	1	
 hairst	1	
@@ -30598,6 +30747,8 @@ hesperornis	1	n
 hesternal	1	a
 hesvan	1	n
 hesychast	1	n
+hetairism	1	
+hetairist	1	
 heterarchy	1	n
 heterauxesis	1	n
 heterocarpous	1	a
@@ -31053,6 +31204,7 @@ illiquation	1	n
 illiteral	1	a
 illume	1	
 illuminator	1	
+imaum	1	
 imbank	1	
 imbar	1	vt
 imbark	1	vi
@@ -32005,6 +32157,7 @@ kantikoy	1	n
 kanuck	1	n
 kapnography	1	n
 kapok	1	n
+kappa	1	
 karaite	1	n
 karmathian	1	n
 karob	1	n
@@ -32397,6 +32550,7 @@ ligatured	1
 ligger	1	n
 lightship	1	
 lignage	1	n
+lignaloes	1	
 ligneous	1	
 ligniform	1	
 ligular	1	
@@ -32596,6 +32750,7 @@ lychnic	1	n
 lyddite	1	n
 lydian	1	a
 lyencephalous	1	a
+lykewake	1	
 lymphad	1	n
 lymphangitis	1	
 lyra	1	
@@ -32688,6 +32843,7 @@ maladaptation	1	n
 maladdress	1	n
 maladjustment	1	n
 malagash	1	
+malaguetta	1	
 malapert	1	a
 malappropriate	1	vt
 malapropism	1	n
@@ -32896,6 +33052,7 @@ mede	1
 mediastinum	1	n
 medicament	1	
 medicean	1	a
+medio	1	
 mediocrity	1	
 medism	1	n
 medjidie	1	n
@@ -33108,6 +33265,7 @@ mimography	1	n
 minaret	1	n
 minauderie	1	n
 mindedness	1	
+mindererus	1	
 mineralogical	1	
 minever	1	n
 minibus	1	n
@@ -33957,6 +34115,7 @@ noiance	1	n
 noils	1	np
 noisette	1	n
 nokes	1	n
+nolens	1	
 noll	1	n
 nombril	1	n
 nomenclator	1	n
@@ -33976,6 +34135,7 @@ nonconformity	1
 nondescript	1	a
 nonesuch	1	n
 nonet	1	n
+nonfeasance	1	
 nonillion	1	n
 nonplus	1	n
 nonsensical	1	
@@ -34233,6 +34393,11 @@ ombrometer	1	n
 omelet	1	n
 omicron	1	n
 omlah	1	n
+omni	1	
+omniform	1	
+omnipotence	1	
+omnipresent	1	
+omniscience	1	
 omnium	1	n
 omohyoid	1	a
 omophagous	1	a
@@ -34534,6 +34699,8 @@ ouvrage	1	n
 ouvrier	1	
 ovation	1	n
 overact	1	vt
+overall	1	
+overalls	1	
 overbalance	1	vt
 overbattle	1	a
 overbid	1	vt
@@ -34757,6 +34924,8 @@ pabouche	1	n
 pabulum	1	n
 paca	1	n
 pacable	1	a
+pachydermatous	1	
+pachytylus	1	
 pacifical	1	
 pacification	1	
 packer	1	
@@ -34840,6 +35009,7 @@ panada	1	n
 panaritium	1	n
 panarthritis	1	n
 panary	1	a
+panathenaic	1	
 pancheon	1	n
 panclastite	1	n
 pancratium	1	n
@@ -35112,6 +35282,7 @@ payee	1
 paynise	1	vt
 paysage	1	n
 payse	1	vi
+peanut	1	
 pearlaceous	1	
 pearmain	1	n
 peaseweep	1	n
@@ -35424,6 +35595,7 @@ phenacetin	1	n
 phenakistoscope	1	n
 phenogam	1	
 phenogamia	1	
+phenogamous	1	
 phenology	1	n
 phenomenalism	1	
 phenomenology	1	
@@ -35457,6 +35629,7 @@ phlegmasia	1
 phleme	1	
 phloeum	1	n
 phlogistic	1	
+phlyctena	1	
 phobanthropy	1	n
 phocine	1	a
 phonation	1	
@@ -36040,6 +36213,7 @@ premonstrant	1	n
 premorse	1	a
 premosaic	1	a
 premotion	1	n
+premunire	1	
 prenasal	1	a
 prenatal	1	a
 prenominate	1	pa
@@ -36114,6 +36288,7 @@ primage	1	n
 primal	1	
 primigenial	1	a
 primsie	1	a
+primum	1	
 primy	1	a
 princesse	1	a
 princock	1	n
@@ -36126,6 +36301,7 @@ proa	1	n
 probang	1	n
 probationer	1	
 probative	1	
+probatum	1	
 procacity	1	n
 procathedral	1	n
 proceleusmatic	1	a
@@ -36212,6 +36388,7 @@ propodite	1	n
 propodium	1	n
 propolis	1	n
 proponent	1	a
+propretor	1	
 proproctor	1	n
 propterygium	1	n
 propugnation	1	n
@@ -36394,6 +36571,7 @@ pycnometer	1	n
 pycnon	1	n
 pycnostyle	1	a
 pyelitis	1	n
+pyemia	1	
 pyengadu	1	n
 pygal	1	a
 pygopus	1	n
@@ -36513,6 +36691,7 @@ quatch	1	a
 quatercentenary	1	n
 quaterfoil	1	n
 quaternion	1	
+quatrefoil	1	
 quattrocento	1	n
 quayd	1	a
 queachy	1	a
@@ -36534,6 +36713,7 @@ querk	1	vt
 querulous	1	a
 questioner	1	
 questor	1	
+questorship	1	
 quey	1	n
 quhilk	1	pn
 quib	1	
@@ -36666,6 +36846,7 @@ ranching	1
 rancour	1	n
 rangia	1	n
 rangifer	1	n
+ranine	1	
 rankle	1	
 rankly	1	
 ranula	1	n
@@ -37628,6 +37809,7 @@ roburite	1	n
 rocambole	1	n
 roccella	1	n
 rochea	1	n
+roches	1	
 rochet	1	n
 rockel	1	n
 rocker	1	
@@ -37713,6 +37895,7 @@ rotalian	1
 rotator	1	
 rotche	1	n
 rother	1	a
+rothesay	1	
 rotl	1	n
 rotonde	1	n
 rotor	1	n
@@ -37991,6 +38174,7 @@ sankhya	1	n
 sannup	1	n
 sansa	1	n
 sansevieria	1	n
+santalum	1	
 santir	1	n
 santolina	1	n
 santonine	1	n
@@ -38278,6 +38462,7 @@ scirpus	1	n
 scirtopod	1	a
 sciscitation	1	n
 scise	1	
+sciurus	1	
 scizophora	1	np
 sclate	1	n
 sclera	1	n
@@ -38520,6 +38705,10 @@ semele	1	n
 semencine	1	n
 semese	1	a
 semester	1	n
+semicolon	1	
+semicylindrical	1	
+semidome	1	
+semidouble	1	
 seminific	1	
 seminole	1	n
 semiography	1	
@@ -38528,6 +38717,7 @@ semiotics	1
 semispata	1	n
 semitaur	1	n
 semite	1	
+semivowel	1	
 semmit	1	n
 semola	1	
 semoted	1	a
@@ -39105,6 +39295,7 @@ solen	1	n
 solenoid	1	n
 solert	1	a
 solfatara	1	n
+solfeggio	1	
 solidago	1	
 solidare	1	
 solidum	1	n
@@ -39279,6 +39470,7 @@ speechmaking	1
 speiss	1	n
 spekboom	1	n
 spelding	1	n
+spelean	1	
 spelin	1	n
 spencerian	1	a
 spenserian	1	a
@@ -39426,6 +39618,7 @@ squinny	1	vi
 squireen	1	
 squitch	1	n
 sraddha	1	n
+stabat	1	
 stablish	1	vt
 stackyard	1	
 stacte	1	n
@@ -40257,6 +40450,7 @@ tasimeter	1	n
 taslet	1	n
 tasselled	1	
 tassie	1	n
+tata	1	
 tater	1	n
 tattersalls	1	n
 tatting	1	
@@ -40298,6 +40492,7 @@ tedium	1	n
 teens	1	np
 teeter	1	n
 teethe	1	
+teetotum	1	
 teff	1	n
 tegmentum	1	n
 tegulated	1	a
@@ -40347,6 +40542,7 @@ temulence	1	n
 tenaille	1	n
 tenaillon	1	
 tenancy	1	
+tenantry	1	
 tenebrous	1	a
 tenesmus	1	n
 tenioid	1	
@@ -40624,6 +40820,7 @@ toff	1	n
 toge	1	
 togue	1	n
 toho	1	i
+tohu	1	
 toilinet	1	
 tola	1	n
 tole	1	vt
@@ -40649,6 +40846,7 @@ tonite	1	n
 tonsile	1	a
 tontine	1	n
 tooart	1	n
+tooley	1	
 tooling	1	
 toom	1	a
 toothsome	1	
@@ -43090,6 +43288,7 @@ vermuth	1	n
 vernation	1	
 veronese	1	n
 verrel	1	n
+verrey	1	
 verricule	1	n
 verrucose	1	
 verrugas	1	n
@@ -43179,6 +43378,7 @@ viridigenous	1
 virile	1	a
 virtuose	1	
 virtuoso	1	
+visa	1	
 visaged	1	
 viscachera	1	
 viscidity	1	
@@ -43291,6 +43491,7 @@ wallach	1
 wallflower	1	
 walloon	1	a
 walloper	1	
+walpurgis	1	
 walty	1	a
 wamble	1	vi
 wammus	1	n
@@ -43337,6 +43538,7 @@ watcher	1
 watchet	1	a
 watchmaker	1	
 watchmaking	1	
+watling	1	
 waugh	1	
 waukrife	1	
 waul	1	vt
@@ -43694,6 +43896,7 @@ zincotype	1
 zingano	1	
 zingel	1	n
 zinke	1	n
+ziphiiform	1	
 zirconium	1	n
 zither	1	n
 zizania	1	n
@@ -43964,6 +44167,7 @@ adamantean	0
 adamantine	0	
 adamitic	0	
 adamitism	0	
+adamsapple	0	
 adaptable	0	
 addable	0	
 adderstongue	0	
@@ -44079,6 +44283,9 @@ affrightment	0
 affronted	0	
 affrontiveto	0	
 africander	0	
+afterdamp	0	
+afterhands	0	
+afterimage	0	
 aftermorn	0	
 agapemone	0	
 agatiferous	0	
@@ -44106,9 +44313,12 @@ agued	0
 aguish	0	
 aidance	0	
 aidant	0	
+aidedecamp	0	
+aidesdecamp	0	
 aidful	0	
 ailantus	0	
 aimworthiness	0	
+aint	0	
 airbath	0	
 airbed	0	
 airbladder	0	
@@ -44135,6 +44345,7 @@ airtight	0
 airvessel	0	
 airwards	0	
 alabastrian	0	
+alackaday	0	
 alamodality	0	
 alarmist	0	
 alary	0	
@@ -44147,6 +44358,7 @@ alburnous	0
 alcoholise	0	
 alcoholism	0	
 alcoholometry	0	
+alderliefest	0	
 aldermanly	0	
 aleberry	0	
 aleconner	0	
@@ -44177,12 +44389,24 @@ allegorization	0
 allegretto	0	
 alleys	0	
 allfather	0	
+allfired	0	
+allfoolsday	0	
+allfours	0	
+allhail	0	
+allhallow	0	
+allhallowmass	0	
+allhallown	0	
+allhallows	0	
+allhallowtide	0	
 alliterate	0	
 allocation	0	
 allopathist	0	
 alloverish	0	
 alloyage	0	
 alls	0	
+allsaints	0	
+allsaintsday	0	
+allsoulsday	0	
 alluringly	0	
 allusivelyallusive	0	
 almandin	0	
@@ -44255,6 +44479,7 @@ ambitionist	0
 ambitiousness	0	
 amblyopsis	0	
 ambrosial	0	
+ambsace	0	
 ambulancier	0	
 ambulant	0	
 ambulate	0	
@@ -44288,6 +44513,7 @@ ampassy	0
 amperzand	0	
 amphibolous	0	
 amphictyony	0	
+amphisbenic	0	
 amphitheatrical	0	
 amphitheatrically	0	
 amphoric	0	
@@ -44361,6 +44587,7 @@ anelectric	0
 anelectrode	0	
 anelectrotonic	0	
 anemometry	0	
+anend	0	
 aneurismal	0	
 anfractuosity	0	
 angelfish	0	
@@ -44378,6 +44605,8 @@ anglocatholic	0
 angloman	0	
 anglomaniac	0	
 anglophobic	0	
+anglosaxon	0	
+anglosaxondom	0	
 anguishment	0	
 angulated	0	
 anhydrides	0	
@@ -44420,6 +44649,9 @@ antcow	0
 antefixal	0	
 antefixes	0	
 antenati	0	
+antenicene	0	
+antennal	0	
+antenniform	0	
 anteriority	0	
 anteriorly	0	
 anthelia	0	
@@ -44444,6 +44676,7 @@ anthropophagi	0
 anthropophaginian	0	
 anthropophagous	0	
 anthroposophist	0	
+antiattrition	0	
 antichristianly	0	
 anticipant	0	
 anticipatively	0	
@@ -44452,8 +44685,15 @@ anticize	0
 anticyclonic	0	
 antidotal	0	
 antifebrific	0	
+antifederal	0	
+antifederalism	0	
+antigallican	0	
+antigallicanism	0	
+antijacobin	0	
+antijacobinism	0	
 antimonarchist	0	
 antimonial	0	
+antinational	0	
 antinomic	0	
 antiochianism	0	
 antipathetic	0	
@@ -44473,6 +44713,8 @@ antiquation	0
 antiquish	0	
 antiquitarian	0	
 antiscii	0	
+antisemites	0	
+antisemitic	0	
 antiseptically	0	
 antispastic	0	
 antistrophic	0	
@@ -44483,6 +44725,7 @@ antitoxic	0
 antitrinitarianism	0	
 antitypal	0	
 antlered	0	
+antlion	0	
 antthrush	0	
 anxiousness	0	
 anythingarian	0	
@@ -44592,6 +44835,10 @@ apsidal	0
 apsidiole	0	
 apteral	0	
 apyrexia	0	
+aquafortis	0	
+aquafortist	0	
+aquamirabilis	0	
+aquaregia	0	
 aquarellist	0	
 aquariums	0	
 aquatics	0	
@@ -44727,6 +44974,7 @@ artificialise	0
 artillerist	0	
 artilleryman	0	
 artistry	0	
+artunion	0	
 artunions	0	
 arundineous	0	
 asbestic	0	
@@ -44748,6 +44996,7 @@ ashlarwork	0
 ashleach	0	
 ashpan	0	
 ashplant	0	
+ashwednesday	0	
 asiaticism	0	
 asinico	0	
 asininity	0	
@@ -44899,6 +45148,7 @@ auricled	0
 auriculate	0	
 aurify	0	
 aurorally	0	
+auroras	0	
 auscultator	0	
 auscultatory	0	
 auspicate	0	
@@ -44913,6 +45163,7 @@ authorless	0
 authorling	0	
 autobiographer	0	
 autobiographic	0	
+autocar	0	
 autochthons	0	
 autochthony	0	
 autocracy	0	
@@ -44959,12 +45210,16 @@ awardment	0
 awaredom	0	
 awareness	0	
 awearied	0	
+aweather	0	
+aweek	0	
+aweigh	0	
 aweless	0	
 awesome	0	
 awestrike	0	
 awestruck	0	
 awfully	0	
 awfulness	0	
+awing	0	
 awny	0	
 axillar	0	
 axiomatic	0	
@@ -44972,6 +45227,7 @@ axiomatically	0
 axled	0	
 axletree	0	
 axoid	0	
+ayeaye	0	
 ayi	0	
 azimuthal	0	
 azotise	0	
@@ -45087,6 +45343,7 @@ ballotage	0
 ballotbox	0	
 ballproof	0	
 ballroomto	0	
+balmcricket	0	
 balmy	0	
 balsamic	0	
 balsamy	0	
@@ -45142,18 +45399,22 @@ baregnawn	0
 bareheaded	0	
 barelegged	0	
 bargainerbargain	0	
+bargeboard	0	
 bargee	0	
 bargemaster	0	
 bariron	0	
 barish	0	
 barkbed	0	
 barken	0	
+barkers	0	
 barkless	0	
+barleybrake	0	
 barleybree	0	
 barleysugar	0	
 barleywater	0	
 barmagnet	0	
 barmaid	0	
+barmcloth	0	
 barmy	0	
 barnabite	0	
 barnacled	0	
@@ -45182,6 +45443,8 @@ barristershiprevising	0
 barrowtram	0	
 barsinister	0	
 barterer	0	
+bartholomewtide	0	
+bartlemyblack	0	
 barwood	0	
 barytic	0	
 baseborn	0	
@@ -45193,6 +45456,7 @@ basespirited	0
 basestring	0	
 baseviol	0	
 bashawism	0	
+bashibazouk	0	
 bashless	0	
 basify	0	
 basketful	0	
@@ -45200,9 +45464,13 @@ baskethilt	0
 basketmaker	0	
 basnet	0	
 basquine	0	
+basrelief	0	
 bassethorn	0	
 basshorn	0	
 bassoonist	0	
+bassorilievo	0	
+bassrelief	0	
+bassviol	0	
 bastardbar	0	
 bastardise	0	
 bastardly	0	
@@ -45238,6 +45506,7 @@ bawdstrot	0
 bawdyhouse	0	
 bawler	0	
 bayberry	0	
+baysalt	0	
 baywindow	0	
 baywindowed	0	
 bcarchimedean	0	
@@ -45328,6 +45597,7 @@ beeriness	0
 beery	0	
 beeswinged	0	
 beetfly	0	
+beetlebrowed	0	
 beetlehead	0	
 beetleheaded	0	
 beetroot	0	
@@ -45344,6 +45614,7 @@ behoveful	0
 behovefully	0	
 beingness	0	
 beinness	0	
+belaccoyle	0	
 belatedness	0	
 belayingpin	0	
 beleaguerment	0	
@@ -45354,6 +45625,9 @@ belittling	0
 bellcare	0	
 bellcote	0	
 bellcrank	0	
+belleslettres	0	
+belletrist	0	
+belletristic	0	
 bellfounder	0	
 bellglass	0	
 bellhanger	0	
@@ -45433,6 +45707,7 @@ bewitchingly	0
 biasdrawing	0	
 biasing	0	
 bibation	0	
+bibblebabble	0	
 biblicism	0	
 biblicist	0	
 bibliographer	0	
@@ -45465,6 +45740,7 @@ billbook	0
 billbrokers	0	
 billchamber	0	
 billdiscounters	0	
+billetdoux	0	
 billethead	0	
 billhook	0	
 billiardmarker	0	
@@ -45478,9 +45754,15 @@ bimetallic	0
 bimetallist	0	
 bindery	0	
 binocularly	0	
+biobibliographical	0	
+bioblast	0	
+biodynamics	0	
+biogenist	0	
 biographic	0	
 biographically	0	
 biologist	0	
+biomagnetism	0	
+biometry	0	
 bipartition	0	
 birdbolt	0	
 birdcage	0	
@@ -45518,8 +45800,10 @@ bitein	0
 bitingto	0	
 bituminate	0	
 bivalvular	0	
+biweekly	0	
 bizarrerie	0	
 blackandtan	0	
+blackart	0	
 blackavised	0	
 blackballing	0	
 blackband	0	
@@ -45553,6 +45837,7 @@ blackwash	0
 bladdered	0	
 bladebone	0	
 blameful	0	
+blancmange	0	
 blandishment	0	
 blandness	0	
 blankcartridge	0	
@@ -45601,6 +45886,7 @@ blockprinting	0
 blockship	0	
 blocksystem	0	
 blocktin	0	
+blondlace	0	
 bloodbespotted	0	
 bloodboltered	0	
 bloodbought	0	
@@ -45712,6 +45998,7 @@ boisterousness	0
 bolden	0	
 boldfaced	0	
 boldnessto	0	
+bolletrie	0	
 bolognese	0	
 bolstered	0	
 bolstering	0	
@@ -45722,9 +46009,11 @@ boltsprit	0
 boltupright	0	
 boltuprightness	0	
 bombardment	0	
+bombayduck	0	
 bombketch	0	
 bombproof	0	
 bonapartist	0	
+bonaroba	0	
 bonboniere	0	
 bondholder	0	
 bonding	0	
@@ -45745,6 +46034,7 @@ boneless	0
 bonesetter	0	
 boneshaker	0	
 bonespavin	0	
+bonnebouche	0	
 bonnetpiece	0	
 bonnetrouge	0	
 bonnily	0	
@@ -45787,9 +46077,11 @@ bootikin	0
 bootlace	0	
 bootlast	0	
 bootlessnessto	0	
+bopeep	0	
 boracite	0	
 borate	0	
 borderless	0	
+bordraging	0	
 boroughenglish	0	
 boroughmonger	0	
 boroughreeve	0	
@@ -45802,6 +46094,7 @@ botanomancy	0
 botchwork	0	
 botchy	0	
 bothersome	0	
+botree	0	
 bottlechart	0	
 bottleglass	0	
 bottlegourd	0	
@@ -45836,6 +46129,7 @@ bowdlerism	0
 bowerbird	0	
 bowery	0	
 bowhand	0	
+bowieknife	0	
 bowleg	0	
 bowlegged	0	
 bowlingalley	0	
@@ -45875,12 +46169,15 @@ brakeman	0
 brakevan	0	
 brakewheel	0	
 braky	0	
+bramahlock	0	
+bramahpress	0	
 brambleberry	0	
 bramblefinch	0	
 brambly	0	
 branchbank	0	
 brancher	0	
 branchery	0	
+branchiopoda	0	
 branchpilot	0	
 branchwork	0	
 branchyroot	0	
@@ -45896,6 +46193,8 @@ brandreth	0
 brandypawnee	0	
 brangling	0	
 branky	0	
+brannew	0	
+brantgoose	0	
 brashy	0	
 brassarts	0	
 brassband	0	
@@ -45951,9 +46250,11 @@ breedbate	0
 breezeless	0	
 breezy	0	
 bregmatic	0	
+brentgoose	0	
 brevetcy	0	
 brewage	0	
 brewster	0	
+briarroot	0	
 briber	0	
 briberyoath	0	
 brickbat	0	
@@ -45981,6 +46282,7 @@ briefnessin	0
 briery	0	
 brigademajor	0	
 brigandine	0	
+brightsdisease	0	
 brightsome	0	
 briguing	0	
 brimfulness	0	
@@ -45991,6 +46293,10 @@ brinepit	0
 brineshrimp	0	
 brinish	0	
 briskish	0	
+bristolboard	0	
+bristolbrick	0	
+bristoldiamond	0	
+britanniametal	0	
 britisher	0	
 briton	0	
 broacher	0	
@@ -46010,6 +46316,9 @@ brokenmeat	0
 brokenwinded	0	
 brokerage	0	
 brokery	0	
+bromegrass	0	
+bronchic	0	
+bronchitis	0	
 bronzesteel	0	
 bronzewing	0	
 bronzify	0	
@@ -46096,6 +46405,7 @@ bulldance	0
 bulldose	0	
 bullethead	0	
 bulletheaded	0	
+bullettree	0	
 bullfaced	0	
 bullfight	0	
 bullfighter	0	
@@ -46112,9 +46422,16 @@ bullwhack	0
 bullwort	0	
 bullyrag	0	
 bullyragging	0	
+bullytree	0	
 bulrushy	0	
 bumbailiff	0	
+bumblebee	0	
+bumblefoot	0	
+bumblefooted	0	
+bumblepuppist	0	
+bumblepuppy	0	
 bumboat	0	
+bumclock	0	
 bummaloti	0	
 bumpkinish	0	
 bumpology	0	
@@ -46177,6 +46494,7 @@ bushwhacker	0
 bushwhacking	0	
 businesslike	0	
 buskined	0	
+bussupalm	0	
 busted	0	
 buster	0	
 bustler	0	
@@ -46186,6 +46504,7 @@ butcherbird	0
 butcherly	0	
 butchermeat	0	
 butchersbroom	0	
+butend	0	
 butlership	0	
 butlery	0	
 buttend	0	
@@ -46245,6 +46564,7 @@ bytime	0
 byway	0	
 bywork	0	
 byzantinism	0	
+caaingwhale	0	
 caballer	0	
 cabbagebutterfly	0	
 cabbagemoth	0	
@@ -46266,6 +46586,7 @@ cabman	0
 cabstand	0	
 cabtout	0	
 cachectic	0	
+cachemic	0	
 cachepot	0	
 cachinnatory	0	
 cackler	0	
@@ -46282,6 +46603,7 @@ cadetshipcadet	0
 caducean	0	
 caducibranchiata	0	
 caducity	0	
+caenstone	0	
 cageling	0	
 cagework	0	
 caincoloured	0	
@@ -46290,6 +46612,7 @@ cairngormstone	0
 caitive	0	
 cajolement	0	
 cakycakes	0	
+calabarbean	0	
 calamitously	0	
 calamitousness	0	
 calcaneal	0	
@@ -46397,6 +46720,7 @@ campmeeting	0
 campshedding	0	
 campstool	0	
 campylotropous	0	
+camwood	0	
 canalboat	0	
 canalicular	0	
 canaliculate	0	
@@ -46406,6 +46730,7 @@ canalise	0
 canarybird	0	
 canarygrass	0	
 canarywood	0	
+cancan	0	
 cancellate	0	
 cancellous	0	
 cancerate	0	
@@ -46486,6 +46811,7 @@ canvaswork	0
 capacitate	0	
 capcase	0	
 capelline	0	
+capellmeister	0	
 capercaillie	0	
 caperer	0	
 capernaitically	0	
@@ -46506,6 +46832,8 @@ capitularly	0
 capitulatory	0	
 caplin	0	
 caponise	0	
+cappaghbrown	0	
+cappahbrown	0	
 capriccioso	0	
 capriform	0	
 capsicine	0	
@@ -46582,8 +46910,10 @@ carreplacer	0
 carriagecompany	0	
 carriagedrive	0	
 carriagehorse	0	
+carrickbend	0	
 carrioncrow	0	
 carriwitchet	0	
+carronoil	0	
 carroty	0	
 carryall	0	
 carrytale	0	
@@ -46643,6 +46973,7 @@ castlebuilding	0
 castled	0	
 castleguard	0	
 castoff	0	
+castoroil	0	
 castrati	0	
 castration	0	
 caststeel	0	
@@ -46687,6 +47018,7 @@ categorise	0
 categorist	0	
 catenate	0	
 catenation	0	
+catercousin	0	
 catering	0	
 caterwauling	0	
 cateyed	0	
@@ -46699,6 +47031,8 @@ cathedraled	0
 cathedralic	0	
 cathedralism	0	
 cathedratic	0	
+catherinewheel	0	
+catherinewheels	0	
 catheterism	0	
 cathetus	0	
 cathodal	0	
@@ -46711,6 +47045,7 @@ catilinarian	0
 catlap	0	
 catlike	0	
 catling	0	
+catlog	0	
 catmint	0	
 catoninetails	0	
 catrigged	0	
@@ -46759,6 +47094,7 @@ cavicornia	0
 cavillation	0	
 caving	0	
 cavitied	0	
+cavorilievo	0	
 cawing	0	
 cayennepepper	0	
 ceasingwithout	0	
@@ -46768,6 +47104,7 @@ cedary	0
 cedrelaceous	0	
 cedrine	0	
 cedry	0	
+ceespring	0	
 celebrator	0	
 celestiallythe	0	
 celestite	0	
@@ -46908,6 +47245,7 @@ champart	0
 chancecomer	0	
 chanceful	0	
 chancellorship	0	
+chancemedley	0	
 chancroid	0	
 chandlery	0	
 changeability	0	
@@ -46941,24 +47279,29 @@ chargehouse	0
 charismatic	0	
 charitablycold	0	
 charlatanism	0	
+charless	0	
 charleypitcher	0	
 charmful	0	
 charmless	0	
 charnelhouse	0	
 charry	0	
 chartaceous	0	
+charterparty	0	
 chartist	0	
 chaseport	0	
 chasteness	0	
 chastenment	0	
 chatterbox	0	
 chaucerism	0	
+chaudmedley	0	
 chauvinistic	0	
 chawbacon	0	
+chayaroot	0	
 cheapnesscheap	0	
 cheaptripper	0	
 cheatery	0	
 checkclerk	0	
+checkerberry	0	
 checkerboard	0	
 checkkey	0	
 checkrein	0	
@@ -47008,6 +47351,9 @@ cherubin	0
 chessmen	0	
 chested	0	
 chestnote	0	
+chevaldefrise	0	
+chevalglass	0	
+chevauxdefrise	0	
 chevin	0	
 chewinggum	0	
 chiasmus	0	
@@ -47029,9 +47375,11 @@ chiefless	0
 chiefry	0	
 chieftainess	0	
 chieftainship	0	
+chiffchaff	0	
 childbearing	0	
 childcrowing	0	
 childed	0	
+childermasday	0	
 childing	0	
 childlike	0	
 childwife	0	
@@ -47070,6 +47418,8 @@ chirologist	0
 chirper	0	
 chirpingcup	0	
 chirpy	0	
+chirurgeonly	0	
+chirurgical	0	
 chiseltooth	0	
 chittering	0	
 chitty	0	
@@ -47112,12 +47462,15 @@ chophouse	0
 choplogic	0	
 choppingchop	0	
 choppingknife	0	
+chopsticks	0	
 chorally	0	
 choreus	0	
 choriambic	0	
 chorist	0	
 chorographic	0	
 chorologist	0	
+chowchow	0	
+choyroot	0	
 chrematistics	0	
 chrestomathic	0	
 chrismal	0	
@@ -47162,6 +47515,7 @@ chubbiness	0
 chubblock	0	
 chubfaced	0	
 chuckfarthing	0	
+chuckfull	0	
 chuckies	0	
 chucklehead	0	
 chuckling	0	
@@ -47202,6 +47556,7 @@ cicisbeism	0
 ciderand	0	
 cidercup	0	
 ciderkin	0	
+cidevant	0	
 cilicious	0	
 ciliiform	0	
 cimbrian	0	
@@ -47303,6 +47658,7 @@ clackbox	0
 clackdish	0	
 claimable	0	
 clairaudient	0	
+clairobscure	0	
 clairvoyant	0	
 clamancy	0	
 clamorousness	0	
@@ -47318,6 +47674,7 @@ clapperclaw	0
 clapsill	0	
 claptrappishclap	0	
 claqueur	0	
+clareobscure	0	
 claretcup	0	
 claretjug	0	
 clarification	0	
@@ -47374,6 +47731,7 @@ clearsightedness	0
 clearstarching	0	
 clearstory	0	
 clecking	0	
+cleftpalate	0	
 clemence	0	
 clemently	0	
 clerestoryclear	0	
@@ -47390,6 +47748,7 @@ clerkless	0
 clerklike	0	
 clerkling	0	
 clerkly	0	
+clerstory	0	
 cleverality	0	
 cleverish	0	
 clewgarnet	0	
@@ -47420,6 +47779,7 @@ clinometry	0
 clipper	0	
 cliquish	0	
 cliquishness	0	
+clishclash	0	
 clistogamous	0	
 clitella	0	
 clitorism	0	
@@ -47536,6 +47896,8 @@ coadjacency	0
 coadjutorship	0	
 coadjutress	0	
 coadunative	0	
+coagency	0	
+coagent	0	
 coagulant	0	
 coagulative	0	
 coagulum	0	
@@ -47567,11 +47929,14 @@ coastwaiter	0
 coastwise	0	
 coatarmour	0	
 coatcard	0	
+coaxial	0	
+coaxially	0	
 coaxingly	0	
 cobaltic	0	
 cobaltite	0	
 cobblers	0	
 cobblestone	0	
+cobelligerent	0	
 cobloaf	0	
 cobnut	0	
 cobwall	0	
@@ -47583,6 +47948,7 @@ cochinchina	0
 cochinchinese	0	
 cochleariform	0	
 cochleate	0	
+cockabondy	0	
 cockade	0	
 cockahoop	0	
 cockalorum	0	
@@ -47632,6 +47998,12 @@ coenobitism	0
 coenobium	0	
 coequally	0	
 coerciveness	0	
+coessential	0	
+coessentiality	0	
+coeternal	0	
+coeternity	0	
+coexistent	0	
+coextend	0	
 coffeebean	0	
 coffeeberry	0	
 coffeebug	0	
@@ -47659,6 +48031,8 @@ cognoscible	0
 cogwheel	0	
 cohabitant	0	
 cohabitation	0	
+coheir	0	
+coheiress	0	
 coherer	0	
 cohesible	0	
 cohesive	0	
@@ -47666,6 +48040,13 @@ cohesiveness	0
 coiffeur	0	
 coiffure	0	
 coincidently	0	
+coinhere	0	
+coinherence	0	
+coinheritance	0	
+coinheritor	0	
+coinstantaneity	0	
+coinstantaneous	0	
+coinstantaneously	0	
 colation	0	
 coldblooded	0	
 coldbloodedness	0	
@@ -47749,6 +48130,7 @@ combustious	0
 combustive	0	
 combwise	0	
 comeatable	0	
+comeddle	0	
 comedietta	0	
 cometary	0	
 cometfinder	0	
@@ -48033,6 +48415,7 @@ connotation	0
 connubially	0	
 connumeration	0	
 conoidic	0	
+conominee	0	
 conqueress	0	
 consciencein	0	
 conscienceproof	0	
@@ -48180,17 +48563,22 @@ contractedness	0
 contractible	0	
 contractive	0	
 contractualcontract	0	
+contradance	0	
 contradictiously	0	
 contradictive	0	
 contradictoriness	0	
 contradistinctive	0	
 contradistinguish	0	
+contraindicant	0	
+contraindicate	0	
 contrapositive	0	
 contraries	0	
 contrarious	0	
 contrariously	0	
 contrariwise	0	
+contrarotation	0	
 contrastive	0	
+contratenor	0	
 contravention	0	
 contributary	0	
 contributive	0	
@@ -48256,13 +48644,25 @@ coolish	0
 cooltankard	0	
 coomceiled	0	
 cooperage	0	
+cooperate	0	
+cooperation	0	
+cooperative	0	
+cooperatorcooperating	0	
 coopering	0	
+cooptation	0	
+cooptative	0	
+coordinance	0	
+coordinate	0	
+coordinateness	0	
+coordination	0	
+coordinative	0	
 cootie	0	
 copaiva	0	
 coparcener	0	
 copartnership	0	
 copesmate	0	
 copestone	0	
+coportion	0	
 copperbottomed	0	
 coppercaptain	0	
 copperfaced	0	
@@ -48277,6 +48677,9 @@ coppersmith	0
 copperwork	0	
 copperworm	0	
 copplecrowned	0	
+copplestone	0	
+copresence	0	
+copresent	0	
 coprolitic	0	
 coprophagist	0	
 coprophagous	0	
@@ -48289,6 +48692,7 @@ copyholder	0
 copyingpress	0	
 copyism	0	
 coquettishness	0	
+coradicate	0	
 corallaceous	0	
 coralliferous	0	
 coralliform	0	
@@ -48313,12 +48717,17 @@ cording	0
 cordite	0	
 cordwainery	0	
 cordwood	0	
+coregent	0	
 coregonine	0	
+corelation	0	
 coreless	0	
 coreligionist	0	
 corer	0	
+corespondent	0	
 corianderseed	0	
 corinthianise	0	
+corival	0	
+corivalship	0	
 corkage	0	
 corkcutter	0	
 corker	0	
@@ -48403,6 +48812,7 @@ correctable	0
 correctional	0	
 correctioner	0	
 correctory	0	
+corregidor	0	
 correlativeness	0	
 corresponsive	0	
 corridortrain	0	
@@ -48436,8 +48846,12 @@ corymbiferous	0
 corymbous	0	
 coseismic	0	
 cosenage	0	
+cosentient	0	
 cosherer	0	
+cosignatory	0	
+cosignificative	0	
 cosily	0	
+cosine	0	
 cosmeticism	0	
 cosmism	0	
 cosmist	0	
@@ -48457,13 +48871,20 @@ cosmoramic	0
 cosmosphere	0	
 cosmotheism	0	
 cosmothetic	0	
+cosphered	0	
 costardmonger	0	
 costbook	0	
 costeaning	0	
 costfree	0	
 costumer	0	
+cosupreme	0	
+cosurety	0	
+cotangent	0	
+cotenancy	0	
+cotenant	0	
 cotfolk	0	
 cothouse	0	
+cotidal	0	
 cotland	0	
 cotquean	0	
 cottaged	0	
@@ -48636,6 +49057,7 @@ cowboy	0
 cowcalf	0	
 cowcatcher	0	
 cowchervil	0	
+cowdiegum	0	
 coweringly	0	
 cowfeeder	0	
 cowgrass	0	
@@ -48644,8 +49066,10 @@ cowhouse	0
 cowish	0	
 cowleech	0	
 cowlick	0	
+cowlstaff	0	
 cowparsnip	0	
 cowplant	0	
+cowriepine	0	
 cowslipd	0	
 cowtree	0	
 cowwheat	0	
@@ -48659,6 +49083,7 @@ crabfaced	0
 crabite	0	
 crablike	0	
 crablouse	0	
+craboil	0	
 crabseyes	0	
 crabsidle	0	
 crabstick	0	
@@ -48707,6 +49132,7 @@ craniotomy	0
 crankness	0	
 cranksided	0	
 crannied	0	
+crappithead	0	
 crapulous	0	
 crassamentum	0	
 crassitude	0	
@@ -48800,12 +49226,14 @@ crinkumcrankum	0
 crinoidal	0	
 crinolette	0	
 crinolined	0	
+criosphinx	0	
 crippledom	0	
 crispate	0	
 crispation	0	
 crisper	0	
 crispingiron	0	
 crispy	0	
+crisscross	0	
 cristiform	0	
 criteria	0	
 criticalness	0	
@@ -48878,6 +49306,8 @@ crotcheted	0
 crotcheteer	0	
 crotonate	0	
 crotonoil	0	
+crouchedfriars	0	
+crouchware	0	
 croupon	0	
 croupous	0	
 crousely	0	
@@ -48956,6 +49386,7 @@ cubicalness	0
 cubiform	0	
 cubital	0	
 cubless	0	
+cuckingstool	0	
 cuckoldise	0	
 cuckoldly	0	
 cuckoldmaker	0	
@@ -48970,7 +49401,12 @@ cucurbital	0
 cucurbitive	0	
 cudgeller	0	
 cudgelproof	0	
+cuirbouilli	0	
+cuirbouilly	0	
 cuisinier	0	
+culdefour	0	
+culdelampe	0	
+culdesac	0	
 culiciform	0	
 culler	0	
 cullionly	0	
@@ -48989,6 +49425,7 @@ culturable	0
 cultureless	0	
 culverineer	0	
 culverkey	0	
+culvers	0	
 culvertailed	0	
 cumberer	0	
 cumberless	0	
@@ -49051,7 +49488,9 @@ cursoriness	0
 curstness	0	
 curtailment	0	
 curtainlecture	0	
+curtalax	0	
 curtalfriar	0	
+curtaxe	0	
 curtness	0	
 curvate	0	
 curvicostate	0	
@@ -49100,6 +49539,7 @@ cyclograph	0
 cycloidian	0	
 cyclometer	0	
 cyclopean	0	
+cyclopedic	0	
 cyclorn	0	
 cylindraceous	0	
 cylindriform	0	
@@ -49148,6 +49588,7 @@ daintiness	0
 dairyfarm	0	
 daisied	0	
 daisycutter	0	
+dalailama	0	
 dalesman	0	
 dalliance	0	
 dallier	0	
@@ -49221,6 +49662,7 @@ daughterly	0
 dauntless	0	
 daunton	0	
 dauphiness	0	
+davenporttrick	0	
 davylamp	0	
 dawdler	0	
 dawish	0	
@@ -49239,6 +49681,7 @@ daysman	0
 dayspring	0	
 daystar	0	
 daywearied	0	
+daywoman	0	
 dayworkday	0	
 dazzlement	0	
 dazzler	0	
@@ -49497,6 +49940,7 @@ defrayment	0
 deftness	0	
 defunction	0	
 defunctive	0	
+degarnish	0	
 degender	0	
 degenerationist	0	
 degenerative	0	
@@ -49510,6 +49954,7 @@ dehortation	0
 dehortative	0	
 dehorter	0	
 deictically	0	
+deidthraw	0	
 deiform	0	
 deism	0	
 deistic	0	
@@ -49544,6 +49989,8 @@ deliration	0
 delirifacient	0	
 deliriousness	0	
 delitescence	0	
+dellacruscan	0	
+dellarobbia	0	
 delphic	0	
 deltafication	0	
 deluder	0	
@@ -49559,13 +50006,29 @@ demarcate	0
 dementate	0	
 demersion	0	
 demesmerisation	0	
+demibastion	0	
+demicadence	0	
+demicannon	0	
+demiculverin	0	
+demideify	0	
+demidevil	0	
+demidistance	0	
+demiditone	0	
 demigoddess	0	
+demigorge	0	
+demijohn	0	
+demilance	0	
+demilune	0	
+demimonde	0	
 demirepdom	0	
 demisable	0	
 demisarceled	0	
+demisemiquaver	0	
 demissive	0	
 demissly	0	
 demiurgic	0	
+demivolt	0	
+demiwolf	0	
 demobilisation	0	
 democratifiable	0	
 democratist	0	
@@ -49654,6 +50117,7 @@ deputise	0
 derailment	0	
 derbyshireneck	0	
 derbyshirespar	0	
+derdoing	0	
 dereliction	0	
 deridingly	0	
 derisiveness	0	
@@ -49668,6 +50132,7 @@ dermatoskeleton	0
 dermogastric	0	
 dernful	0	
 derogately	0	
+derringdoe	0	
 descendent	0	
 describer	0	
 descriptiveness	0	
@@ -49858,6 +50323,7 @@ dibranchiate	0
 dibstones	0	
 dicacious	0	
 dicastery	0	
+dicecoal	0	
 diceplay	0	
 dicer	0	
 dichastic	0	
@@ -49880,6 +50346,7 @@ diddler	0
 didelphian	0	
 didynamian	0	
 dieaway	0	
+diereses	0	
 diesinker	0	
 diestock	0	
 dietarian	0	
@@ -49925,7 +50392,10 @@ dilatator	0
 dilative	0	
 dilettanti	0	
 dilettantism	0	
+dilli	0	
 dillwater	0	
+dillybag	0	
+dillydally	0	
 dilogical	0	
 dilucidation	0	
 diluent	0	
@@ -49946,6 +50416,7 @@ dinerout	0
 dinful	0	
 dingdong	0	
 dinginess	0	
+dingledangle	0	
 dininghall	0	
 diningtabledine	0	
 dinnerservice	0	
@@ -50265,6 +50736,8 @@ ditheistic	0
 dithyrambic	0	
 ditriglyphic	0	
 ditrochean	0	
+dittybag	0	
+dittybox	0	
 diuresis	0	
 diurnalist	0	
 diurnally	0	
@@ -50288,6 +50761,8 @@ dividuous	0
 divinator	0	
 divinatorial	0	
 divineness	0	
+divingbell	0	
+divingdress	0	
 divinise	0	
 divisive	0	
 divisiveness	0	
@@ -50301,6 +50776,8 @@ dizzying	0
 doall	0	
 doatingpiece	0	
 docetic	0	
+dochandorach	0	
+dochandoris	0	
 docibleness	0	
 docimastes	0	
 docimology	0	
@@ -50326,6 +50803,7 @@ dodecandrous	0
 dodecasyllabic	0	
 dodger	0	
 dodgy	0	
+dodonian	0	
 doeskin	0	
 dogaressa	0	
 dogate	0	
@@ -50347,9 +50825,11 @@ doggish	0
 doggoned	0	
 doggrass	0	
 doggrel	0	
+doghead	0	
 dogheaded	0	
 doghole	0	
 doghouse	0	
+doglatin	0	
 dogleech	0	
 dogletter	0	
 doglouse	0	
@@ -50363,6 +50843,7 @@ dogsear	0
 dogseared	0	
 dogsfennel	0	
 dogship	0	
+dogshores	0	
 dogskin	0	
 dogsleep	0	
 dogsmeat	0	
@@ -50372,10 +50853,12 @@ dogstailgrass	0
 dogstones	0	
 dogstongue	0	
 dogtired	0	
+dogtooth	0	
 dogtrick	0	
 dogtrot	0	
 dogvane	0	
 dogviolet	0	
+dogwatches	0	
 dogwheat	0	
 doitkin	0	
 dolabriform	0	
@@ -50392,6 +50875,7 @@ dolldom	0
 dollier	0	
 dolliness	0	
 dollship	0	
+dollyshop	0	
 dolomitic	0	
 doloriferous	0	
 doloroso	0	
@@ -50422,10 +50906,13 @@ donkeypump	0
 donnerd	0	
 donnish	0	
 donnism	0	
+donothing	0	
+donothingism	0	
 donship	0	
 donzella	0	
 dooltree	0	
 doomful	0	
+doompalm	0	
 doomsdaybook	0	
 doorbell	0	
 doorcheek	0	
@@ -50437,6 +50924,7 @@ doorstead	0
 doorstep	0	
 dooryard	0	
 dordre	0	
+dorhawk	0	
 doricism	0	
 dorloch	0	
 dormerwindow	0	
@@ -50460,6 +50948,7 @@ dosimeter	0
 dosiology	0	
 dosology	0	
 dossel	0	
+dosshouse	0	
 dotal	0	
 dotant	0	
 doter	0	
@@ -50512,6 +51001,8 @@ doughfaced	0
 doughkneaded	0	
 doughnut	0	
 doughtiness	0	
+doui	0	
+doumpalm	0	
 doupion	0	
 dovecolour	0	
 dovedrawn	0	
@@ -50519,6 +51010,7 @@ doveeyed	0
 dovehouse	0	
 dovelet	0	
 dovelike	0	
+dovers	0	
 dovesfoot	0	
 doveship	0	
 dowable	0	
@@ -50557,6 +51049,7 @@ dozy	0
 drabber	0	
 drabbish	0	
 drabbling	0	
+dracina	0	
 draconic	0	
 draffish	0	
 draftbar	0	
@@ -50708,6 +51201,7 @@ drudgism	0
 druidic	0	
 druidism	0	
 drummajor	0	
+drummondlight	0	
 drupel	0	
 drusian	0	
 dryasdust	0	
@@ -50787,6 +51281,7 @@ dumbbells	0
 dumbcane	0	
 dumbly	0	
 dumbwaiter	0	
+dumdum	0	
 dummerer	0	
 dumminess	0	
 dumosity	0	
@@ -50896,6 +51391,7 @@ earhole	0
 earkissing	0	
 earlap	0	
 earldom	0	
+earlespenny	0	
 earless	0	
 earlinessearly	0	
 earlmarshal	0	
@@ -51074,6 +51570,7 @@ egression	0
 egyptologist	0	
 eiderdown	0	
 eidola	0	
+eiffeltower	0	
 eighteenmo	0	
 eightfoil	0	
 eighthly	0	
@@ -51100,7 +51597,35 @@ electorshipthe	0
 electress	0	
 electriceel	0	
 electrise	0	
+electroballistic	0	
+electrobiologist	0	
+electrobiology	0	
+electrocute	0	
+electrocution	0	
+electrodynamics	0	
+electrodynamometer	0	
+electroengraving	0	
+electrogilding	0	
+electrokinetics	0	
 electrolier	0	
+electrology	0	
+electrolyse	0	
+electromagnet	0	
+electromagnetism	0	
+electrometallurgy	0	
+electrometric	0	
+electromotion	0	
+electromotor	0	
+electronegative	0	
+electrophone	0	
+electrophysiology	0	
+electroplate	0	
+electropolar	0	
+electropositive	0	
+electrostatics	0	
+electrotint	0	
+electrotypist	0	
+electrovital	0	
 elegiast	0	
 elegise	0	
 elementalism	0	
@@ -51163,6 +51688,9 @@ embassade	0
 embattlement	0	
 embayment	0	
 embedment	0	
+emberdays	0	
+embergoose	0	
+emberweek	0	
 embezzlement	0	
 embezzler	0	
 embittered	0	
@@ -51257,6 +51785,7 @@ enactor	0
 enacture	0	
 enameller	0	
 enarthrodial	0	
+encenia	0	
 encephalic	0	
 encephalitis	0	
 encephalocele	0	
@@ -51404,6 +51933,7 @@ entophytous	0
 entozoal	0	
 entozoologist	0	
 entozootic	0	
+entracte	0	
 entrancement	0	
 entrancing	0	
 entrant	0	
@@ -51428,6 +51958,7 @@ enviousness	0
 envisagement	0	
 envoyship	0	
 enzymotic	0	
+eozoic	0	
 eparchy	0	
 epencephalic	0	
 epenthetic	0	
@@ -51500,13 +52031,23 @@ equanimously	0
 equate	0	
 equatorially	0	
 equestrianism	0	
+equiangular	0	
+equibalance	0	
+equidifferent	0	
+equilibrate	0	
+equilibration	0	
+equimultiple	0	
 equinia	0	
 equinoctially	0	
+equipedal	0	
+equipendency	0	
 equiponderant	0	
 equisetaceous	0	
 equisetiform	0	
+equisonance	0	
 equitant	0	
 equivalently	0	
+equivalve	0	
 equivocatory	0	
 equivoke	0	
 equivorous	0	
@@ -51527,6 +52068,7 @@ erethitic	0
 ergotine	0	
 ergotise	0	
 eriach	0	
+erlking	0	
 ermined	0	
 erodent	0	
 erosive	0	
@@ -51919,6 +52461,8 @@ exuberate	0
 exulceration	0	
 exultance	0	
 exultant	0	
+exuviate	0	
+exuviation	0	
 eyasmusket	0	
 eyebeam	0	
 eyebrowless	0	
@@ -51943,6 +52487,7 @@ eyetooth	0
 eyewater	0	
 eyewink	0	
 eyewitness	0	
+faard	0	
 fabler	0	
 fabliaux	0	
 fabricant	0	
@@ -51961,6 +52506,8 @@ facetoface	0
 faciallyfacial	0	
 facilitation	0	
 facinorousness	0	
+facsimile	0	
+facsimilist	0	
 factionary	0	
 factiousness	0	
 factitive	0	
@@ -51973,10 +52520,13 @@ facultative	0
 faddisnness	0	
 faddist	0	
 fady	0	
+fagend	0	
 faggery	0	
 faggoting	0	
 fagottist	0	
 faildike	0	
+faineance	0	
+faineancy	0	
 fainly	0	
 fainness	0	
 faintheart	0	
@@ -52009,6 +52559,7 @@ faithworthy	0
 faitour	0	
 fakement	0	
 fakirism	0	
+fala	0	
 falcation	0	
 falconer	0	
 falconet	0	
@@ -52087,6 +52638,7 @@ farcify	0
 farcing	0	
 farcybud	0	
 fardelbound	0	
+fardingbag	0	
 farfetched	0	
 farforth	0	
 faringee	0	
@@ -52190,10 +52742,12 @@ feedheater	0
 feedingbottle	0	
 feedpipe	0	
 feedpump	0	
+feefawfum	0	
 feegrief	0	
 feeingmarket	0	
 feeler	0	
 feelinglyfeel	0	
+feesimple	0	
 feetail	0	
 feetless	0	
 feignedness	0	
@@ -52241,6 +52795,7 @@ fenny	0
 fensucked	0	
 feoffment	0	
 feracity	0	
+ferdelance	0	
 ferity	0	
 fermentable	0	
 fermentative	0	
@@ -52386,6 +52941,7 @@ finallyfinal	0
 financialist	0	
 finback	0	
 finchbacked	0	
+findonhaddock	0	
 finedraw	0	
 finedrawn	0	
 fineish	0	
@@ -52411,6 +52967,7 @@ finicality	0
 finicalness	0	
 finingpot	0	
 finiteless	0	
+finnanhaddock	0	
 finny	0	
 finray	0	
 fintoed	0	
@@ -52628,11 +53185,14 @@ fleshworm	0
 fleshwound	0	
 fletcher	0	
 fleurdelis	0	
+fleuret	0	
+fleury	0	
 flexanimous	0	
 flexuous	0	
 flichter	0	
 flickeringly	0	
 flighted	0	
+flimflam	0	
 flimsily	0	
 flimsiness	0	
 flincher	0	
@@ -52882,20 +53442,37 @@ forcingpit	0
 forcipated	0	
 forcipation	0	
 fordable	0	
+foreadmonish	0	
+foreadvise	0	
 foreandaft	0	
 forebodement	0	
 foreboder	0	
 forebodingly	0	
+forebody	0	
+forebrace	0	
+foreby	0	
 forecaster	0	
+forecited	0	
 foreclosure	0	
+foreend	0	
 foregoer	0	
 foregonenessforegone	0	
 forehanded	0	
+forehorse	0	
 foreignbuilt	0	
 forejudgment	0	
 foremastman	0	
 foremeant	0	
 foremen	0	
+forementioned	0	
+foreordination	0	
+forequoted	0	
+forerank	0	
+foreread	0	
+forereading	0	
+forerecited	0	
+forerent	0	
+foresay	0	
 foreseeingly	0	
 foreshorten	0	
 foresighted	0	
@@ -52926,6 +53503,7 @@ forkchuck	0
 forkedness	0	
 forker	0	
 forktail	0	
+forlornhope	0	
 forlornness	0	
 formiate	0	
 formicant	0	
@@ -52957,6 +53535,7 @@ fortunetell	0
 fortuneteller	0	
 fortunise	0	
 forwarder	0	
+fossetseller	0	
 fossicker	0	
 fossicking	0	
 fossilification	0	
@@ -53039,6 +53618,7 @@ framesaw	0
 frampel	0	
 franchisement	0	
 franchiser	0	
+franctireur	0	
 frangibility	0	
 frangipani	0	
 frankfee	0	
@@ -53334,6 +53914,7 @@ furtively	0
 furuncular	0	
 furzy	0	
 fusarol	0	
+fuseloil	0	
 fusile	0	
 fusillation	0	
 fusingpoint	0	
@@ -53359,6 +53940,7 @@ gabioned	0
 gableend	0	
 gablet	0	
 gablewindow	0	
+gabriels	0	
 gaddishness	0	
 gadean	0	
 gadrooning	0	
@@ -53367,6 +53949,8 @@ gaelicism	0
 gafftopsail	0	
 gagger	0	
 gaggling	0	
+gagtooth	0	
+gagtoothed	0	
 gainlessnessgain	0	
 gainsayer	0	
 gainstrive	0	
@@ -53416,6 +54000,7 @@ galvanograph	0
 galvanography	0	
 galvanoplasty	0	
 galvanoscope	0	
+gamagrass	0	
 gambir	0	
 gambison	0	
 gamblinghouse	0	
@@ -53447,12 +54032,14 @@ ganglioncell	0
 ganglionic	0	
 gangrenate	0	
 gangrenescent	0	
+gangsaw	0	
 ganoidian	0	
 gantletthrow	0	
 gapingly	0	
 gappy	0	
 gaptoothed	0	
 garbler	0	
+garboardstrake	0	
 gardenparty	0	
 gargantuism	0	
 gargarise	0	
@@ -53516,6 +54103,9 @@ gastrophile	0
 gastrophilite	0	
 gastrosoph	0	
 gastrosopher	0	
+gastrovascular	0	
+gastrula	0	
+gastrular	0	
 gaswater	0	
 gasworks	0	
 gated	0	
@@ -53544,6 +54134,7 @@ gauzewinged	0
 gavelman	0	
 gawkihood	0	
 gaysome	0	
+gayyou	0	
 gazeful	0	
 gazehound	0	
 gazer	0	
@@ -53562,6 +54153,8 @@ gelation	0
 geldersrose	0	
 gelidness	0	
 gemcutting	0	
+gemelliparous	0	
+gemelring	0	
 gemengraving	0	
 gemination	0	
 geminous	0	
@@ -53674,6 +54267,7 @@ gibingly	0
 giblet	0	
 giddyheaded	0	
 giddypaced	0	
+giereagle	0	
 gifthorse	0	
 giftling	0	
 giganticide	0	
@@ -53689,6 +54283,7 @@ gilthead	0
 gimcrackery	0	
 gimleteyed	0	
 ginfizz	0	
+gingellyoil	0	
 gingercordial	0	
 gingernut	0	
 gingerous	0	
@@ -53700,6 +54295,7 @@ ginglymi	0
 ginhorse	0	
 ginhouse	0	
 ginkin	0	
+ginnycarriage	0	
 ginpalace	0	
 ginsling	0	
 gipsydom	0	
@@ -53746,6 +54342,7 @@ glassware	0
 glasswork	0	
 glassyheaded	0	
 glaubers	0	
+glaubersalt	0	
 glaucescent	0	
 glaucomatous	0	
 glauconitic	0	
@@ -53809,6 +54406,7 @@ glumiferous	0
 glumous	0	
 glumpish	0	
 glumpy	0	
+gluteal	0	
 glutinative	0	
 glutinosity	0	
 gluttonise	0	
@@ -53837,10 +54435,13 @@ goatee	0
 goatherd	0	
 goatsbeard	0	
 goatsthorn	0	
+gobang	0	
 gobbing	0	
 gobbler	0	
 gobetween	0	
+gocart	0	
 godamercy	0	
+godden	0	
 goddessship	0	
 godfearing	0	
 godforsaken	0	
@@ -53884,6 +54485,7 @@ goldthread	0
 goldwasher	0	
 goldwire	0	
 goliathbeetle	0	
+goloeshoes	0	
 gombeenman	0	
 gomphosis	0	
 gomuto	0	
@@ -53926,6 +54528,7 @@ goodspeed	0
 goodstrain	0	
 goodtempered	0	
 goody	0	
+gooseberryfool	0	
 goosecap	0	
 goosecorn	0	
 gooseegg	0	
@@ -53940,6 +54543,7 @@ goosestep	0
 goosewing	0	
 goosewinged	0	
 goosey	0	
+gorbellied	0	
 gorgeousness	0	
 gorgoneion	0	
 gorgonise	0	
@@ -53990,6 +54594,10 @@ grainage	0
 grainer	0	
 grainy	0	
 graithly	0	
+grallic	0	
+graminaceous	0	
+gramineous	0	
+graminifolious	0	
 grammarschool	0	
 grammatic	0	
 grammaticaster	0	
@@ -54134,6 +54742,7 @@ gripingly	0
 gripper	0	
 gripple	0	
 gripsack	0	
+grisamber	0	
 grisliness	0	
 gristmill	0	
 groanful	0	
@@ -54277,6 +54886,7 @@ gustative	0
 gustful	0	
 gustiness	0	
 gutscraper	0	
+guttapercha	0	
 guttate	0	
 gutterblood	0	
 guttersnipe	0	
@@ -54300,11 +54910,13 @@ gypsiferous	0
 gyra	0	
 gyral	0	
 gyration	0	
+gyrecarlin	0	
 gyroidal	0	
 gyronnetty	0	
 gyroscopic	0	
 gyrostatic	0	
 haaffishing	0	
+habeascorpus	0	
 haberdashery	0	
 habilable	0	
 habilatory	0	
@@ -54339,6 +54951,7 @@ hagridden	0
 hagseed	0	
 hagship	0	
 hagweed	0	
+haha	0	
 hailfellow	0	
 hailshot	0	
 hailstone	0	
@@ -54428,7 +55041,9 @@ hallage	0
 hallanshaker	0	
 halldoor	0	
 hallian	0	
+hallmark	0	
 halloween	0	
+hallowmass	0	
 hallucinate	0	
 hallucinative	0	
 halogenous	0	
@@ -54484,6 +55099,7 @@ handstaves	0
 handsturn	0	
 handwork	0	
 handwrought	0	
+handydandy	0	
 hangable	0	
 hangdog	0	
 hangeron	0	
@@ -54491,11 +55107,16 @@ hangingbuttress	0
 hangingwall	0	
 hangnests	0	
 hankering	0	
+hankypanky	0	
 hansardise	0	
+hansomcab	0	
+hant	0	
 hapless	0	
 haply	0	
+haporth	0	
 happify	0	
 happygolucky	0	
+harakiri	0	
 haranguer	0	
 harbourage	0	
 harbourdues	0	
@@ -54538,6 +55159,7 @@ hareandhounds	0
 harebrained	0	
 harefoot	0	
 haresear	0	
+harikari	0	
 harish	0	
 harkback	0	
 harlequinade	0	
@@ -54563,6 +55185,7 @@ harshen	0
 harslet	0	
 hartshorn	0	
 hartstongue	0	
+harumscarum	0	
 haruspication	0	
 haruspices	0	
 harvestbug	0	
@@ -54865,6 +55488,8 @@ helotism	0
 helotry	0	
 helplessness	0	
 helpmeet	0	
+helterskelter	0	
+helterskelteriness	0	
 helvehammer	0	
 helvetianhelvetic	0	
 hemianopia	0	
@@ -54985,6 +55610,7 @@ hesitative	0
 hesitator	0	
 hesitatory	0	
 hesychasm	0	
+hetairistic	0	
 heterocercy	0	
 heterochronistic	0	
 heteroclitic	0	
@@ -55042,6 +55668,7 @@ hidebound	0
 hideosity	0	
 hideously	0	
 hiemation	0	
+hierapicra	0	
 hierarchal	0	
 hierarchism	0	
 hierocracy	0	
@@ -55055,6 +55682,7 @@ hierologist	0
 hieronymite	0	
 hierophantic	0	
 hierurgical	0	
+higgledypiggledy	0	
 higglehaggle	0	
 higgler	0	
 highadmiral	0	
@@ -55114,6 +55742,7 @@ hightide	0
 hightoned	0	
 hightop	0	
 hightreason	0	
+hightytighty	0	
 highviced	0	
 highwater	0	
 highwatermark	0	
@@ -55138,6 +55767,8 @@ hipgout	0
 hipjoint	0	
 hipknob	0	
 hiplock	0	
+hippetyhop	0	
+hippetyhoppety	0	
 hippiatrist	0	
 hippic	0	
 hipping	0	
@@ -55157,6 +55788,7 @@ hippuritic	0
 hipshot	0	
 hircocervus	0	
 hircosity	0	
+hirdygirdy	0	
 hirmologion	0	
 hispanicise	0	
 hispanicism	0	
@@ -55191,6 +55823,7 @@ hoactzin	0
 hoarfrost	0	
 hoarheaded	0	
 hoaxing	0	
+hobanob	0	
 hobbinoll	0	
 hobbish	0	
 hobbist	0	
@@ -55203,6 +55836,9 @@ hobbyless	0
 hobgoblinism	0	
 hobjobber	0	
 hobnobby	0	
+hobsonjobson	0	
+hockday	0	
+hocktide	0	
 hocuspocus	0	
 hodden	0	
 hodgepudding	0	
@@ -55227,6 +55863,8 @@ hogshouther	0
 hogskin	0	
 hogslard	0	
 hogwash	0	
+hoitytoity	0	
+hokypoky	0	
 holdall	0	
 holdback	0	
 holdbeam	0	
@@ -55244,6 +55882,7 @@ holographic	0
 holophotal	0	
 holophrasis	0	
 holstered	0	
+holusbolus	0	
 holycruel	0	
 holyday	0	
 holyoffice	0	
@@ -55318,6 +55957,7 @@ hooky	0
 hoopash	0	
 hoopedpot	0	
 hooper	0	
+hoopingcough	0	
 hooven	0	
 hopbind	0	
 hopflea	0	
@@ -55367,6 +56007,7 @@ horrific	0
 horripilate	0	
 horrisonant	0	
 horrorstricken	0	
+horsdoeuvre	0	
 horseartillery	0	
 horsebean	0	
 horseblock	0	
@@ -55471,6 +56112,7 @@ housesteward	0
 housesurgeon	0	
 housewifeskephouse	0	
 housling	0	
+houttout	0	
 hovas	0	
 hoveller	0	
 hoveringly	0	
@@ -55478,6 +56120,7 @@ howbe	0
 howdydo	0	
 howsomdever	0	
 howsomever	0	
+hubblebubble	0	
 hubbly	0	
 hucklebacked	0	
 hucklebone	0	
@@ -55486,6 +56129,8 @@ hueless	0
 huffish	0	
 huffishness	0	
 hugeness	0	
+huggermugger	0	
+huiabird	0	
 hulking	0	
 humaneness	0	
 humanisation	0	
@@ -55495,6 +56140,7 @@ humanitarianism	0
 humanities	0	
 humankind	0	
 humanly	0	
+humblebee	0	
 humblemouthed	0	
 humblepie	0	
 humblingly	0	
@@ -55521,6 +56167,7 @@ humoristic	0
 humorless	0	
 humoursome	0	
 humous	0	
+humptydumpty	0	
 humpy	0	
 hunchbacked	0	
 hungbeef	0	
@@ -55546,8 +56193,11 @@ huntress	0
 huntsmanship	0	
 huntsup	0	
 huntthegowk	0	
+huonpine	0	
 hurden	0	
 hurdlerace	0	
+hurdygurdy	0	
+hurlyburly	0	
 hurlyhacket	0	
 hurricanedeck	0	
 hurricanohurricane	0	
@@ -55605,6 +56255,8 @@ hydrophytology	0
 hydropic	0	
 hydrosomal	0	
 hydrostaticallyhydrostatic	0	
+hydrotherapeutic	0	
+hydrotherapeutics	0	
 hydrotropic	0	
 hyetographic	0	
 hyetography	0	
@@ -55685,6 +56337,7 @@ hypsometric	0
 hysonskin	0	
 hysteroid	0	
 hysteromania	0	
+hysteronproteron	0	
 iambically	0	
 iambise	0	
 iambographer	0	
@@ -55786,8 +56439,10 @@ idoloclast	0
 idolographical	0	
 idylist	0	
 ignescent	0	
+ignesfatui	0	
 igniferous	0	
 ignigenous	0	
+ignisfatuus	0	
 ignitible	0	
 ignobility	0	
 ignobly	0	
@@ -56136,6 +56791,8 @@ incontinently	0
 incontrollably	0	
 incontrovertibly	0	
 inconvertibly	0	
+incoordinate	0	
+incoordination	0	
 incorporative	0	
 incorporealism	0	
 incorporeally	0	
@@ -56221,8 +56878,10 @@ individualism	0
 individuate	0	
 individuation	0	
 indivisibly	0	
+indochinese	0	
 indocility	0	
 indoctrination	0	
+indoeuropean	0	
 indolence	0	
 indolently	0	
 indomitably	0	
@@ -56239,6 +56898,7 @@ indusia	0
 indusial	0	
 industrialism	0	
 industriouslyindustrial	0	
+induvial	0	
 indweller	0	
 indwelling	0	
 inebriant	0	
@@ -56371,6 +57031,7 @@ inkhornmate	0
 inkiness	0	
 inkingroller	0	
 inkingtable	0	
+inkneed	0	
 inkstone	0	
 inlander	0	
 inlandrevenue	0	
@@ -56402,6 +57063,7 @@ inorganicinorganic	0
 inorganisation	0	
 inorganised	0	
 inosculation	0	
+inpatient	0	
 inquiet	0	
 inquilinous	0	
 inquiration	0	
@@ -56491,6 +57153,7 @@ insusceptibility	0
 intactable	0	
 intactness	0	
 intagliated	0	
+intagliorilievo	0	
 intangibleness	0	
 intangibly	0	
 integrate	0	
@@ -56655,6 +57318,7 @@ inventer	0
 inventiveness	0	
 inventorially	0	
 inventressinvention	0	
+invernesscape	0	
 inversive	0	
 invertedly	0	
 investigable	0	
@@ -56826,6 +57490,7 @@ isopoda	0
 isothere	0	
 isotherm	0	
 isotropic	0	
+ispy	0	
 israelitic	0	
 issuable	0	
 issuance	0	
@@ -56884,6 +57549,8 @@ jacktowel	0
 jacobinic	0	
 jacobinism	0	
 jacobitism	0	
+jacobsladder	0	
+jacobsstaff	0	
 jacquardloom	0	
 jaculate	0	
 jaculatory	0	
@@ -56898,6 +57565,7 @@ jailfever	0
 jainism	0	
 jalapin	0	
 jamadar	0	
+jamaicapepper	0	
 jambeaus	0	
 janissary	0	
 janitrix	0	
@@ -56927,6 +57595,7 @@ jealousness	0
 jebusitic	0	
 jeerer	0	
 jeeringly	0	
+jehoiadabox	0	
 jehovistic	0	
 jejuneness	0	
 jellied	0	
@@ -56938,6 +57607,8 @@ jeopard	0
 jeopardous	0	
 jeopardously	0	
 jerkinhead	0	
+jerrybuilder	0	
+jerryshop	0	
 jestbook	0	
 jestful	0	
 jestingstock	0	
@@ -56959,7 +57630,9 @@ jibdoor	0
 jickajog	0	
 jiggish	0	
 jiggumbob	0	
+jimcrow	0	
 jimpy	0	
+jimsonweed	0	
 jinglejangle	0	
 jinglet	0	
 jobation	0	
@@ -56998,6 +57671,7 @@ jolliment	0
 jolterhead	0	
 joltingly	0	
 jonquill	0	
+jossblock	0	
 josshouse	0	
 jossstick	0	
 jotter	0	
@@ -57044,12 +57718,14 @@ junglefowl	0
 jungly	0	
 juniority	0	
 juniorright	0	
+junkbottle	0	
 junkdealer	0	
 junkerism	0	
 junkring	0	
 junkshop	0	
 junonian	0	
 juntos	0	
+jupatipalm	0	
 jurally	0	
 juratory	0	
 juridically	0	
@@ -57080,6 +57756,8 @@ kantianism	0
 kantist	0	
 kapnographic	0	
 karmic	0	
+kaurigum	0	
+kauripine	0	
 kcb	0	
 kebbuck	0	
 keckling	0	
@@ -57097,6 +57775,8 @@ keepingroom	0
 kellaut	0	
 kelter	0	
 kemper	0	
+kendalgreen	0	
+kennelcoal	0	
 kenning	0	
 kenoticist	0	
 kenspeck	0	
@@ -57125,6 +57805,7 @@ khotbah	0
 kibblechain	0	
 kicker	0	
 kickoff	0	
+kicksywicksy	0	
 kickup	0	
 kidfox	0	
 kidling	0	
@@ -57132,6 +57813,7 @@ kidneybean	0
 kidneypotato	0	
 kidneyvetch	0	
 kidneywort	0	
+kiekie	0	
 killcourtesy	0	
 killcrop	0	
 killjoy	0	
@@ -57225,6 +57907,8 @@ kneestop	0
 kneetimber	0	
 kneetribute	0	
 knickers	0	
+knickknack	0	
+knickknackery	0	
 knifeandfork	0	
 knifeboard	0	
 knifeboy	0	
@@ -57265,6 +57949,7 @@ koban	0
 koftgari	0	
 koftwork	0	
 koranic	0	
+kthibh	0	
 kyley	0	
 kymographic	0	
 labefy	0	
@@ -57300,6 +57985,7 @@ laciniate	0
 laciniform	0	
 laciniolate	0	
 lackadaisylackaday	0	
+lackaday	0	
 lackall	0	
 lackbrain	0	
 lacklinen	0	
@@ -57344,6 +58030,7 @@ ladysslipper	0
 ladyssmock	0	
 lagbellied	0	
 lagend	0	
+lagerbeer	0	
 laggard	0	
 laggingly	0	
 lagophthalmic	0	
@@ -57351,6 +58038,8 @@ lagopodous	0
 lagostoma	0	
 lagotic	0	
 lairdship	0	
+laisserfaire	0	
+laissezfaire	0	
 lakebasin	0	
 lakelawyer	0	
 lakelet	0	
@@ -57420,7 +58109,9 @@ landjobber	0
 landjobbing	0	
 landlock	0	
 landlocked	0	
+landloper	0	
 landlordism	0	
+landlouper	0	
 landlubber	0	
 landmeasure	0	
 landmeasuring	0	
@@ -57476,6 +58167,7 @@ lapillus	0
 lapislazuli	0	
 lapjointed	0	
 laplandish	0	
+lappermilk	0	
 lappethead	0	
 lapsablethe	0	
 lapstone	0	
@@ -57592,6 +58284,8 @@ laxness	0
 laybaptism	0	
 laybrother	0	
 laycommunion	0	
+layday	0	
+layfigure	0	
 layimpropriator	0	
 layout	0	
 layreader	0	
@@ -57723,6 +58417,7 @@ leperous	0
 lepidopteral	0	
 leprose	0	
 leprousness	0	
+lesemajestie	0	
 lethargicness	0	
 lethargise	0	
 lethean	0	
@@ -57767,6 +58462,7 @@ lexical	0
 lexicographic	0	
 lexicographist	0	
 lexigraphic	0	
+lezemajesty	0	
 liableness	0	
 libant	0	
 libate	0	
@@ -57896,9 +58592,11 @@ limbate	0
 limberness	0	
 limbmeal	0	
 limeburner	0	
+limehound	0	
 limejuice	0	
 limekiln	0	
 limelight	0	
+limetree	0	
 limetwig	0	
 limewash	0	
 limewater	0	
@@ -57915,6 +58613,7 @@ limpidity	0
 limpidly	0	
 limpingly	0	
 linchet	0	
+lincolngreen	0	
 linctus	0	
 lineate	0	
 lineation	0	
@@ -58050,6 +58749,7 @@ livewell	0
 lividity	0	
 lixivial	0	
 lizardstone	0	
+lloyds	0	
 loadingmachine	0	
 loadingtray	0	
 loadline	0	
@@ -58089,6 +58789,8 @@ locomotorylocomotor	0
 loculament	0	
 locular	0	
 loculose	0	
+locumtenency	0	
+locumtenens	0	
 locustbean	0	
 locutory	0	
 lodesman	0	
@@ -58348,8 +59050,10 @@ lychnidiate	0
 lychnobite	0	
 lychnomancy	0	
 lychnoscope	0	
+lycopode	0	
 lyingin	0	
 lyingly	0	
+lymegrass	0	
 lymhound	0	
 lymphy	0	
 lyncean	0	
@@ -58357,10 +59061,12 @@ lynchlaw	0
 lyrebird	0	
 lyrism	0	
 lyrist	0	
+maam	0	
 macadamisation	0	
 macarian	0	
 macarism	0	
 macaronis	0	
+macassaroil	0	
 macebearer	0	
 machiavellianism	0	
 machicolated	0	
@@ -58373,6 +59079,7 @@ machineshop	0
 machinetool	0	
 machinework	0	
 machinist	0	
+mackerelsky	0	
 macled	0	
 macrobiosis	0	
 macrobiote	0	
@@ -58388,6 +59095,7 @@ macrural	0
 maculate	0	
 maculation	0	
 madams	0	
+madapple	0	
 madbrain	0	
 madbred	0	
 madcap	0	
@@ -58541,9 +59249,12 @@ manfulness	0
 manganesian	0	
 manganic	0	
 manganite	0	
+mangelwurzel	0	
 manginess	0	
 mangler	0	
+mangoldwurzel	0	
 maniacally	0	
+manicheism	0	
 manifestable	0	
 manifestness	0	
 manifolded	0	
@@ -58561,6 +59272,7 @@ manometric	0
 manorhouse	0	
 manoscopy	0	
 manqueller	0	
+mansardroof	0	
 mansionhouse	0	
 mansionry	0	
 manslayer	0	
@@ -58651,6 +59363,7 @@ marshharrier	0
 marshiness	0	
 marshmarigold	0	
 marsipobranch	0	
+martext	0	
 martialism	0	
 martiallymartial	0	
 martinetism	0	
@@ -58669,6 +59382,7 @@ mashlum	0
 maskedball	0	
 masonic	0	
 masonried	0	
+masoolahboat	0	
 masquerader	0	
 massagist	0	
 massbell	0	
@@ -58705,6 +59419,7 @@ mastology	0
 masturbate	0	
 masturbator	0	
 masty	0	
+masulaboat	0	
 matchboard	0	
 matchbox	0	
 matchjoint	0	
@@ -58916,6 +59631,7 @@ mentorial	0
 mephistophelean	0	
 mephitic	0	
 mercantilism	0	
+mercators	0	
 mercenarily	0	
 mercery	0	
 merchand	0	
@@ -59009,6 +59725,7 @@ metopism	0
 metoposcopic	0	
 metoposcopist	0	
 metrician	0	
+metricmetric	0	
 metrics	0	
 metrification	0	
 metrifier	0	
@@ -59019,6 +59736,8 @@ metronomy	0
 metropolitic	0	
 mettled	0	
 mettlesomeness	0	
+mezzorilievo	0	
+mezzosoprano	0	
 mezzotinto	0	
 miasmal	0	
 miasmatist	0	
@@ -59171,6 +59890,7 @@ minutejack	0
 minuteman	0	
 minutewatch	0	
 minutewhile	0	
+minutiose	0	
 miny	0	
 miraclemonger	0	
 miracleplay	0	
@@ -59245,6 +59965,7 @@ misreckoning	0
 misrelation	0	
 misseeming	0	
 misselbird	0	
+misseltree	0	
 misshapenness	0	
 missingly	0	
 missionarybishop	0	
@@ -59311,6 +60032,7 @@ modiolar	0
 modishness	0	
 modular	0	
 modulator	0	
+moesogothic	0	
 mohammedanise	0	
 mohock	0	
 moistify	0	
@@ -59413,6 +60135,7 @@ monocerous	0
 monochromy	0	
 monochronous	0	
 monoclinate	0	
+monocompound	0	
 monocrat	0	
 monoculous	0	
 monodelphian	0	
@@ -59548,6 +60271,7 @@ morphosis	0
 morphotic	0	
 morrisdance	0	
 morrisdancer	0	
+morsinghorn	0	
 morsure	0	
 mortalise	0	
 mortcloth	0	
@@ -59559,6 +60283,7 @@ mosaismmosaic	0
 moslemism	0	
 mosquitoesmosquito	0	
 mossback	0	
+mossbunker	0	
 mosscheeper	0	
 mossgrown	0	
 mosshag	0	
@@ -59744,6 +60469,7 @@ mumblement	0
 mumblenews	0	
 mumbler	0	
 mumblingly	0	
+mumbojumbo	0	
 mumbudget	0	
 mumchance	0	
 mummery	0	
@@ -59917,6 +60643,7 @@ mytiliform	0
 myxopoda	0	
 myxopodous	0	
 myxosarcomata	0	
+nabathean	0	
 nagger	0	
 naiades	0	
 nailbrush	0	
@@ -59927,6 +60654,7 @@ nailrod	0
 nakednessnaked	0	
 namable	0	
 namation	0	
+nambypamby	0	
 nameless	0	
 nameplate	0	
 namer	0	
@@ -59938,6 +60666,7 @@ naphthalic	0
 naphthol	0	
 napifolious	0	
 napkinring	0	
+naplesyellow	0	
 napmeter	0	
 napoleonism	0	
 narcosis	0	
@@ -60025,6 +60754,7 @@ neatherd	0
 neathouse	0	
 neats	0	
 nebby	0	
+nebneb	0	
 nebulose	0	
 nebulosity	0	
 necessarian	0	
@@ -60077,6 +60807,8 @@ needlewoman	0
 needly	0	
 needment	0	
 needyhoodthe	0	
+neer	0	
+neerdowell	0	
 neesberry	0	
 neesing	0	
 nefast	0	
@@ -60094,13 +60826,18 @@ negrocorn	0
 negrohead	0	
 negroism	0	
 neighbourstained	0	
+neivienicknack	0	
 nemathelminth	0	
 nematoidea	0	
 nemesic	0	
 nemophilous	0	
 nemorose	0	
 nemorous	0	
+neocatholic	0	
+neochristian	0	
 neogrammatical	0	
+neokantian	0	
+neolatin	0	
 neologic	0	
 neologise	0	
 neologism	0	
@@ -60108,6 +60845,8 @@ neologist	0
 neologistic	0	
 neonomian	0	
 neontologist	0	
+neopaganise	0	
+neopaganism	0	
 neophytism	0	
 neoplastic	0	
 neoplatonist	0	
@@ -60129,6 +60868,7 @@ neptunist	0
 nereis	0	
 nereite	0	
 neritacean	0	
+neroantico	0	
 neronian	0	
 nervecell	0	
 nervecentre	0	
@@ -60218,6 +60958,7 @@ nictation	0
 nidamental	0	
 nidamentum	0	
 niddering	0	
+niddlenoddle	0	
 nidering	0	
 nidget	0	
 nidificate	0	
@@ -60305,6 +61046,7 @@ nimbiferous	0
 nimblefingered	0	
 nimblefooted	0	
 nimblewitted	0	
+niminypiminy	0	
 nineeyes	0	
 ninefold	0	
 nineholes	0	
@@ -60314,6 +61056,7 @@ ninthly	0
 niobean	0	
 nipcheese	0	
 nipperkin	0	
+nippertytipperty	0	
 nippinglynip	0	
 nippleshield	0	
 nitency	0	
@@ -60369,8 +61112,10 @@ noiseful	0
 noiselessnessmake	0	
 noisiness	0	
 noisomeness	0	
+nolimetangere	0	
 nomadise	0	
 nomadism	0	
+nomansland	0	
 nomarchy	0	
 nomenclatorial	0	
 nominalistic	0	
@@ -60520,6 +61265,7 @@ notopodial	0
 notopodous	0	
 notoriousness	0	
 nototrematous	0	
+nottheaded	0	
 noumenal	0	
 nounal	0	
 nourishable	0	
@@ -60554,6 +61300,7 @@ nudifolious	0
 nudirostrate	0	
 nudities	0	
 nuisancer	0	
+nullanulla	0	
 nullification	0	
 nullifier	0	
 nulliparous	0	
@@ -60811,6 +61558,9 @@ oenomancy	0
 oenomania	0	
 oenometer	0	
 oenophilist	0	
+oer	0	
+oercome	0	
+oerlay	0	
 oesophagalgia	0	
 oesophagectomy	0	
 oesophagismus	0	
@@ -60909,7 +61659,17 @@ omissible	0
 omissive	0	
 omittance	0	
 omnibuses	0	
+omnifarious	0	
+omniferous	0	
+omnific	0	
+omnify	0	
+omnigenous	0	
+omniparity	0	
+omniparous	0	
+omnipatient	0	
+omniscient	0	
 omniumgatherum	0	
+omnivorous	0	
 omoideum	0	
 omophagia	0	
 omoplatoscopy	0	
@@ -61052,6 +61812,7 @@ orangery	0
 orangetawny	0	
 orangewife	0	
 orangoutang	0	
+orangutan	0	
 oratiuncle	0	
 oratorial	0	
 oratress	0	
@@ -61087,6 +61848,7 @@ ordurous	0
 oreades	0	
 oreads	0	
 oreide	0	
+oreographyorography	0	
 organa	0	
 organbuilder	0	
 organgrinder	0	
@@ -61149,6 +61911,8 @@ orthognathism	0
 orthogonal	0	
 orthogonally	0	
 orthographic	0	
+orthopedics	0	
+orthopedist	0	
 orthopnic	0	
 orthopter	0	
 orthotonesis	0	
@@ -61219,6 +61983,7 @@ ottomite	0
 oughtlings	0	
 oughtness	0	
 oulong	0	
+ourangoutang	0	
 ouster	0	
 outandouter	0	
 outatelbows	0	
@@ -61227,11 +61992,13 @@ outbreaking	0
 outbye	0	
 outdoors	0	
 outdweller	0	
+outedge	0	
 outfielder	0	
 outfitter	0	
 outfitting	0	
 outgoer	0	
 outhauler	0	
+outherod	0	
 outjutting	0	
 outlandish	0	
 outlandishness	0	
@@ -61239,14 +62006,19 @@ outlinear	0
 outliver	0	
 outofdoor	0	
 outoftheway	0	
+outparamour	0	
+outpensioner	0	
 outrageousness	0	
 outrider	0	
 outrunner	0	
+outscout	0	
+outsentry	0	
 outsetting	0	
 outsidecar	0	
 outsider	0	
 outspokenness	0	
 outspreading	0	
+outtravel	0	
 outwardbound	0	
 outwardsainted	0	
 ovally	0	
@@ -61258,13 +62030,23 @@ ovaritis	0
 ovenbird	0	
 oventit	0	
 ovenwood	0	
+overanxious	0	
+overanxiously	0	
 overbearingness	0	
 overboldly	0	
 overcoating	0	
+overconfident	0	
+overconfidently	0	
+overdevelop	0	
+overdevelopment	0	
 overdraft	0	
 overdraught	0	
 overestimation	0	
 overexcitement	0	
+overexertion	0	
+overexpose	0	
+overexposure	0	
+overexquisite	0	
 overflowinglyoverflow	0	
 overfondly	0	
 overforwardness	0	
@@ -61281,6 +62063,7 @@ overpopulate	0
 overpoweringly	0	
 overpraising	0	
 overpressure	0	
+overreckon	0	
 overrulingly	0	
 overrunner	0	
 overscrupulousness	0	
@@ -61317,6 +62100,7 @@ oxeye	0
 oxeyed	0	
 oxgate	0	
 oxgoad	0	
+oxhead	0	
 oxidable	0	
 oxidate	0	
 oxidator	0	
@@ -61343,6 +62127,19 @@ pabular	0
 pacation	0	
 pacemaker	0	
 pacer	0	
+pachydactyl	0	
+pachyderm	0	
+pachydermia	0	
+pachyderms	0	
+pachyemia	0	
+pachyma	0	
+pachymenia	0	
+pachymeter	0	
+pachyodont	0	
+pachyote	0	
+pachypod	0	
+pachypterous	0	
+pachytherium	0	
 pacifiable	0	
 pacificate	0	
 pacificator	0	
@@ -61385,6 +62182,7 @@ paddybird	0
 paddyfield	0	
 paddywhack	0	
 padelephant	0	
+padnag	0	
 padrone	0	
 padroni	0	
 padsaddle	0	
@@ -61450,6 +62248,7 @@ palliament	0
 palliatory	0	
 pallidity	0	
 pallidly	0	
+pallmall	0	
 palmaceous	0	
 palmarian	0	
 palmatifid	0	
@@ -61491,6 +62290,8 @@ pampean	0
 pamperedness	0	
 pamphleteering	0	
 panagiarion	0	
+panamerican	0	
+pananglican	0	
 pancakeice	0	
 panchin	0	
 pancratian	0	
@@ -61520,6 +62321,7 @@ panelworking	0
 panfuls	0	
 pangenetic	0	
 pangless	0	
+panhandle	0	
 panhellenion	0	
 panhellenist	0	
 panhellenium	0	
@@ -61533,7 +62335,12 @@ panjandarum	0
 panniered	0	
 panoplied	0	
 panoplist	0	
+panpresbyterian	0	
 pansied	0	
+panslavic	0	
+panslavism	0	
+panslavist	0	
+panslavonian	0	
 pansophic	0	
 panspermatist	0	
 panspermic	0	
@@ -61749,6 +62556,8 @@ partite	0
 partitive	0	
 partitively	0	
 partridgewood	0	
+partsinging	0	
+partsong	0	
 parturitive	0	
 partyism	0	
 partyjury	0	
@@ -61763,12 +62572,14 @@ paschegg	0
 pascual	0	
 pasigraphic	0	
 pasilaly	0	
+pasqueflower	0	
 pasquilant	0	
 pasquinade	0	
 pasquinader	0	
 passado	0	
 passbook	0	
 passcheck	0	
+passepartout	0	
 passerby	0	
 passibility	0	
 passibly	0	
@@ -61853,6 +62664,7 @@ patternwheel	0
 pattersong	0	
 pattypan	0	
 paulinist	0	
+paulopostfuture	0	
 paunchy	0	
 pauperise	0	
 pausal	0	
@@ -61889,11 +62701,16 @@ peachick	0
 peachstone	0	
 peachwater	0	
 peachyellows	0	
+peacoat	0	
 peacockfish	0	
+peacrab	0	
 peafowl	0	
+peagreen	0	
+peajacket	0	
 peaking	0	
 peakish	0	
 peaky	0	
+peamaggot	0	
 pearifle	0	
 peariform	0	
 pearlash	0	
@@ -62007,6 +62824,7 @@ pellagrous	0
 pelleted	0	
 pellicular	0	
 pellitoryofspain	0	
+pellmell	0	
 pellucidity	0	
 pellucidly	0	
 pelmatogram	0	
@@ -62023,6 +62841,7 @@ pemphigoid	0
 penalise	0	
 penallypenal	0	
 penandink	0	
+penanglawyer	0	
 pencase	0	
 pencilcase	0	
 pencilcompass	0	
@@ -62046,8 +62865,10 @@ penetrably	0
 penetrance	0	
 penetratively	0	
 penetrativeness	0	
+penfish	0	
 penful	0	
 penguinery	0	
+pengun	0	
 penholder	0	
 penial	0	
 penicillate	0	
@@ -62057,6 +62878,7 @@ peninsulate	0
 penitentlypenitential	0	
 pennaceous	0	
 pennalism	0	
+penname	0	
 pennatifid	0	
 penner	0	
 pennied	0	
@@ -62105,6 +62927,7 @@ pepperer	0
 peppergingerbread	0	
 pepperiness	0	
 pepperpot	0	
+peppers	0	
 peppertree	0	
 peppery	0	
 pepticity	0	
@@ -62314,6 +63137,7 @@ petaloid	0
 petaloideous	0	
 petalous	0	
 petaurine	0	
+petechial	0	
 peterspence	0	
 petiolar	0	
 petiolate	0	
@@ -62362,6 +63186,7 @@ phalangiform	0
 phalansterianism	0	
 phalanstery	0	
 phalanxes	0	
+phalenoid	0	
 phallicism	0	
 phalloid	0	
 phantasiast	0	
@@ -62416,6 +63241,7 @@ philhellenism	0
 philippise	0	
 philistian	0	
 philistim	0	
+phillhorse	0	
 philogynist	0	
 philologer	0	
 philologic	0	
@@ -62436,6 +63262,8 @@ phlegmagogue	0
 phlegmon	0	
 phlegmonoid	0	
 phlogisticate	0	
+phlyctenar	0	
+phlyctenous	0	
 phocacean	0	
 phocal	0	
 pholadite	0	
@@ -62471,7 +63299,10 @@ phosphuretted	0
 phossyjaw	0	
 photochemist	0	
 photochromotype	0	
+photoengraving	0	
 photogenic	0	
+photoglyphic	0	
+photoglyphy	0	
 photographically	0	
 photolithographic	0	
 photologic	0	
@@ -62480,8 +63311,11 @@ photometric	0
 photometry	0	
 photomicrographic	0	
 photophobic	0	
+photoprocess	0	
 photopsy	0	
+photorelief	0	
 phototypy	0	
+photoxylography	0	
 photozincograph	0	
 phrasebook	0	
 phraseless	0	
@@ -62583,6 +63417,7 @@ picturerod	0
 picturesqueness	0	
 picturewriting	0	
 piddler	0	
+pidginenglish	0	
 piecegoods	0	
 pieceless	0	
 piecener	0	
@@ -62598,6 +63433,7 @@ pierides	0
 piertable	0	
 pietism	0	
 pietistic	0	
+pietradura	0	
 pigeonbreasted	0	
 pigeonhearted	0	
 pigeonhole	0	
@@ -62633,6 +63469,7 @@ pileoli	0
 pileolus	0	
 pileworm	0	
 pileworn	0	
+pilewort	0	
 pilferingly	0	
 pilfery	0	
 pilgrimbottle	0	
@@ -62664,6 +63501,7 @@ pimping	0
 pimplike	0	
 pinbuttock	0	
 pincase	0	
+pincenez	0	
 pinchcommons	0	
 pincher	0	
 pinchfist	0	
@@ -62772,6 +63610,7 @@ pithecia	0
 pithecoid	0	
 pithpaper	0	
 pitier	0	
+pitmirk	0	
 pitting	0	
 pituital	0	
 pitvillage	0	
@@ -62838,6 +63677,7 @@ planetable	0
 planetarium	0	
 planetic	0	
 planetoidal	0	
+planetree	0	
 planetstruck	0	
 planetule	0	
 planigraph	0	
@@ -62970,6 +63810,7 @@ pleximetric	0
 pliably	0	
 plication	0	
 plighter	0	
+plimsolls	0	
 plodder	0	
 ploddingly	0	
 plotproof	0	
@@ -63028,6 +63869,7 @@ pluviometer	0
 pluviometric	0	
 pluvious	0	
 plyer	0	
+plymouthism	0	
 pneumatologist	0	
 pneumatometer	0	
 pneumogastric	0	
@@ -63062,6 +63904,8 @@ poetlaureate	0
 poignancy	0	
 poignantly	0	
 poinding	0	
+pointblank	0	
+pointdevice	0	
 pointedness	0	
 pointingstock	0	
 pointlace	0	
@@ -63182,6 +64026,7 @@ pomaceous	0
 pomecitron	0	
 pomeroy	0	
 pomewater	0	
+pomfretcake	0	
 pomiculture	0	
 pomiferous	0	
 pommeled	0	
@@ -63189,6 +64034,7 @@ pommetty	0
 pomologist	0	
 pompeianred	0	
 pompelmous	0	
+pompom	0	
 pomposo	0	
 pompousness	0	
 pondage	0	
@@ -63307,6 +64153,7 @@ possessory	0
 postagestamp	0	
 postbag	0	
 postbill	0	
+postcaptain	0	
 postcard	0	
 postchaise	0	
 postclassical	0	
@@ -63344,6 +64191,7 @@ postponement	0
 postponence	0	
 postposition	0	
 postpositive	0	
+postprandial	0	
 postscriptal	0	
 posttertiary	0	
 posttime	0	
@@ -63371,6 +64219,7 @@ potbellied	0
 potbelly	0	
 potboiler	0	
 potboy	0	
+potchingengine	0	
 potcompanion	0	
 potentiary	0	
 potentiate	0	
@@ -63390,6 +64239,7 @@ potliquor	0
 potluck	0	
 potman	0	
 potmetal	0	
+potpourri	0	
 potshard	0	
 potshop	0	
 potstick	0	
@@ -63400,12 +64250,16 @@ pottlebodied	0
 pottledeep	0	
 pottlepot	0	
 potvaliant	0	
+potwaller	0	
+potwalloper	0	
+potwalloping	0	
 poulter	0	
 poulterer	0	
 poultfoot	0	
 poultfooted	0	
 poultryyard	0	
 pouncebox	0	
+pouncedwork	0	
 poundage	0	
 poundal	0	
 poundcake	0	
@@ -63458,10 +64312,14 @@ preachingfriars	0
 preachment	0	
 preachy	0	
 preacquaintance	0	
+preadamic	0	
+preadamite	0	
+preadamitic	0	
 preadmonition	0	
 preambulary	0	
 preappointment	0	
 prearrangement	0	
+preaudience	0	
 prebendary	0	
 prebendaryship	0	
 precariousness	0	
@@ -63521,7 +64379,27 @@ prediscovery	0
 predisposition	0	
 predispositional	0	
 predomination	0	
+preelect	0	
+preelection	0	
+preeminence	0	
+preeminent	0	
+preeminently	0	
+preemploy	0	
+preempt	0	
+preemptible	0	
+preemption	0	
+preemptor	0	
+preengage	0	
+preengagement	0	
+preestablish	0	
 preestablished	0	
+preestablishmentpreestablished	0	
+preexamination	0	
+preexamine	0	
+preexilic	0	
+preexist	0	
+preexistence	0	
+preexistent	0	
 prefatorial	0	
 prefectship	0	
 prefecture	0	
@@ -63537,6 +64415,8 @@ prehensible	0
 prehension	0	
 prehensor	0	
 prehistory	0	
+preinstruct	0	
+preintimation	0	
 prejudicate	0	
 prejudication	0	
 prejudicative	0	
@@ -63634,6 +64514,9 @@ preteritive	0
 pretermission	0	
 preternaturalism	0	
 preternaturalness	0	
+pretorial	0	
+pretorian	0	
+pretorium	0	
 prettify	0	
 prettyish	0	
 prettypretty	0	
@@ -63666,11 +64549,13 @@ prickspur	0
 prickthegarter	0	
 prickthelouse	0	
 prideless	0	
+priedieu	0	
 priestlike	0	
 priestridden	0	
 prigger	0	
 priggishness	0	
 priggism	0	
+primadonna	0	
 primariness	0	
 primaryaccent	0	
 primarycolours	0	
@@ -63684,6 +64569,7 @@ primeness	0
 primevally	0	
 primigenous	0	
 primingpowder	0	
+primitias	0	
 primitivecolours	0	
 primitivefathers	0	
 primitivemethodists	0	
@@ -63731,6 +64617,7 @@ prisonfever	0
 prisonhouse	0	
 prisonment	0	
 prisonship	0	
+prittleprattle	0	
 privateering	0	
 privatenessprivate	0	
 privativeness	0	
@@ -63904,6 +64791,8 @@ proprietorship	0
 proprietress	0	
 propterygial	0	
 propulsive	0	
+propylon	0	
+prorate	0	
 prorsal	0	
 prosaicism	0	
 prosaism	0	
@@ -63944,6 +64833,7 @@ protectiveness	0
 protectoral	0	
 protectorate	0	
 protectorship	0	
+protemporaneous	0	
 protension	0	
 protensive	0	
 proteolysis	0	
@@ -63964,6 +64854,7 @@ protogine	0
 protophytic	0	
 protoplastic	0	
 prototypal	0	
+protovertebral	0	
 protraction	0	
 protractive	0	
 protractor	0	
@@ -64012,6 +64903,7 @@ proximally	0
 proximo	0	
 proxywedded	0	
 prudentially	0	
+prudhomme	0	
 prudishness	0	
 pruinous	0	
 prunello	0	
@@ -64034,6 +64926,29 @@ psalmtune	0
 psalterian	0	
 psaltress	0	
 psellismus	0	
+pseudepigrapha	0	
+pseudepigraphic	0	
+pseudepigraphy	0	
+pseudoapostle	0	
+pseudoarchaic	0	
+pseudoblepsis	0	
+pseudochristianity	0	
+pseudochromia	0	
+pseudoclassicism	0	
+pseudodont	0	
+pseudodox	0	
+pseudogeusia	0	
+pseudograph	0	
+pseudographise	0	
+pseudography	0	
+pseudology	0	
+pseudomartyr	0	
+pseudomembrane	0	
+pseudomorphous	0	
+pseudonymity	0	
+pseudopodium	0	
+pseudoscope	0	
+pseudoscopy	0	
 psilanthropist	0	
 psilanthropy	0	
 psittacine	0	
@@ -64083,6 +64998,8 @@ pterigraphy	0
 pterographic	0	
 pterology	0	
 pteroma	0	
+pterylographic	0	
+pterylography	0	
 pterylosis	0	
 ptochogony	0	
 ptolemaist	0	
@@ -64107,6 +65024,7 @@ puboiliac	0
 puboprostatic	0	
 pubovesical	0	
 pucelage	0	
+puckball	0	
 puckery	0	
 puckish	0	
 puddingfaced	0	
@@ -64149,6 +65067,7 @@ pullerpull	0
 pulletsperm	0	
 pulleyblock	0	
 pulleyshell	0	
+pullmancar	0	
 pullulation	0	
 pulmobranchiate	0	
 pulmometer	0	
@@ -64177,6 +65096,7 @@ pulvilio	0
 pulvilliform	0	
 pulvinate	0	
 pulviniform	0	
+pulzaoil	0	
 pumelo	0	
 pumiceous	0	
 pumicestone	0	
@@ -64292,6 +65212,7 @@ putage	0
 putanism	0	
 putation	0	
 putidness	0	
+putlog	0	
 putoff	0	
 putredinous	0	
 putrefacient	0	
@@ -64308,6 +65229,7 @@ puttyknife	0
 puttypowder	0	
 puttyroot	0	
 puttywork	0	
+putup	0	
 puzzledom	0	
 puzzlehead	0	
 puzzleheaded	0	
@@ -64320,6 +65242,7 @@ pycnogonoid	0
 pycnospore	0	
 pyelitic	0	
 pyelonephritis	0	
+pyemic	0	
 pygarg	0	
 pygmean	0	
 pygostyled	0	
@@ -64346,6 +65269,9 @@ pyritise	0
 pyritohedral	0	
 pyritology	0	
 pyritous	0	
+pyroacetic	0	
+pyroelectric	0	
+pyroelectricity	0	
 pyrogenetic	0	
 pyrogenic	0	
 pyrolater	0	
@@ -64477,6 +65403,7 @@ quatern	0
 quaternionist	0	
 quaternity	0	
 quatorzain	0	
+quatrefeuillequarterfoil	0	
 quattrocentist	0	
 quaveringly	0	
 quayage	0	
@@ -64501,11 +65428,13 @@ queenstitch	0
 queerish	0	
 queerity	0	
 queernessqueer	0	
+queezmadam	0	
 queller	0	
 quenchable	0	
 quencher	0	
 quenchless	0	
 quenchlessness	0	
+quenouilletraining	0	
 quercite	0	
 quercitin	0	
 querent	0	
@@ -64548,6 +65477,7 @@ quietise	0
 quietistic	0	
 quietive	0	
 quietsome	0	
+quihi	0	
 quilldriver	0	
 quilldriving	0	
 quilling	0	
@@ -64738,6 +65668,7 @@ raggedschool	0
 raggedstaff	0	
 raggery	0	
 ragging	0	
+ragmanroll	0	
 ragmoney	0	
 ragpicker	0	
 ragshop	0	
@@ -64841,8 +65772,12 @@ ranchman	0
 rancidness	0	
 rancorous	0	
 rancorously	0	
+randallgrass	0	
 randingmachine	0	
 randingtool	0	
+randlebalk	0	
+randlebar	0	
+randletree	0	
 randomly	0	
 rangefinder	0	
 rangelights	0	
@@ -64850,6 +65785,8 @@ rangerine	0
 rangers	0	
 rangership	0	
 rangy	0	
+raniform	0	
+ranivorous	0	
 ranker	0	
 rankness	0	
 rankriding	0	
@@ -64859,14 +65796,17 @@ ransomless	0
 ranter	0	
 rantingly	0	
 rantipole	0	
+rantletree	0	
 ranular	0	
 ranunculi	0	
+ranzdesvaches	0	
 rapaces	0	
 rapaciousness	0	
 rapecake	0	
 rapeful	0	
 rapeoil	0	
 rapeseed	0	
+rapfull	0	
 raphaelism	0	
 raphaelite	0	
 raphaelitism	0	
@@ -64878,6 +65818,7 @@ rapierfish	0
 raptorious	0	
 rapturist	0	
 rapturously	0	
+rareeshow	0	
 rarefaction	0	
 rarefiable	0	
 rarer	0	
@@ -64901,6 +65842,7 @@ raspingmachine	0
 raspingmill	0	
 raspy	0	
 ratability	0	
+ratatat	0	
 ratcatcher	0	
 ratcatching	0	
 ratchetcoupling	0	
@@ -64918,6 +65860,7 @@ ratepayer	0
 ratepaying	0	
 rater	0	
 ratetithe	0	
+ratgoose	0	
 ratherest	0	
 ratherish	0	
 rathly	0	
@@ -64931,6 +65874,7 @@ rationalistically	0
 rationality	0	
 rationals	0	
 rationmoney	0	
+ratite	0	
 ratlinestuff	0	
 ratling	0	
 ratpit	0	
@@ -64938,6 +65882,7 @@ ratpoison	0
 ratsbane	0	
 rattail	0	
 rattailed	0	
+rattat	0	
 ratter	0	
 rattery	0	
 rattlebrained	0	
@@ -64952,6 +65897,7 @@ rattrap	0
 raucid	0	
 raucously	0	
 ravager	0	
+ravehook	0	
 ravelling	0	
 ravellingengine	0	
 ravelment	0	
@@ -65298,6 +66244,9 @@ redstaff	0
 redstreak	0	
 redtail	0	
 redtailed	0	
+redtape	0	
+redtapism	0	
+redtapist	0	
 redthrush	0	
 redtop	0	
 redubber	0	
@@ -65307,12 +66256,14 @@ reducingscale	0
 reductive	0	
 redundantly	0	
 reduplicative	0	
+reduvius	0	
 redwater	0	
 redwatshod	0	
 redweed	0	
 redwing	0	
 redwood	0	
 redwud	0	
+reecho	0	
 reedband	0	
 reedbird	0	
 reedbunting	0	
@@ -65320,6 +66271,8 @@ reeded	0
 reeden	0	
 reeder	0	
 reedgrass	0	
+reedification	0	
+reedify	0	
 reediness	0	
 reeding	0	
 reedinstrument	0	
@@ -65347,13 +66300,55 @@ reeky	0
 reelable	0	
 reelclick	0	
 reelcotton	0	
+reelect	0	
+reelection	0	
 reeler	0	
+reelevate	0	
 reelholder	0	
+reeligibility	0	
+reeligible	0	
 reelingmachine	0	
 reelline	0	
 reelplate	0	
 reelrall	0	
 reelseat	0	
+reembark	0	
+reembarkation	0	
+reembattle	0	
+reembody	0	
+reembrace	0	
+reemerge	0	
+reemergence	0	
+reenact	0	
+reenactment	0	
+reencouragement	0	
+reendow	0	
+reenforce	0	
+reengage	0	
+reengagement	0	
+reengender	0	
+reengrave	0	
+reenjoy	0	
+reenlist	0	
+reenter	0	
+reentering	0	
+reenthrone	0	
+reenthronement	0	
+reentrance	0	
+reentrant	0	
+reentry	0	
+reerect	0	
+reestablish	0	
+reestablisher	0	
+reestablishment	0	
+reestate	0	
+reexamination	0	
+reexamine	0	
+reexchange	0	
+reexhibit	0	
+reexpel	0	
+reexport	0	
+reexportation	0	
 refashionment	0	
 refective	0	
 referencebible	0	
@@ -65749,11 +66744,13 @@ requisiteness	0
 requisitionist	0	
 requiteful	0	
 requitement	0	
+rereiterated	0	
 rescindment	0	
 rescissoryrescissory	0	
 rescribendary	0	
 rescription	0	
 rescriptively	0	
+rescuegrass	0	
 rescuer	0	
 rescussor	0	
 researchful	0	
@@ -65848,6 +66845,7 @@ restatement	0
 restcure	0	
 restfully	0	
 restfulness	0	
+restharrow	0	
 resthouse	0	
 restibrachial	0	
 restiness	0	
@@ -65901,6 +66899,7 @@ retinitis	0
 retinular	0	
 retiral	0	
 retiredness	0	
+retitelarian	0	
 retorted	0	
 retorter	0	
 retortsealer	0	
@@ -65928,6 +66927,8 @@ retrogression	0
 retrogressional	0	
 retrogressiveness	0	
 retromingently	0	
+retroocular	0	
+retrooperative	0	
 retropulsive	0	
 retrorsely	0	
 retrospection	0	
@@ -66031,16 +67032,19 @@ rhabdolithic	0
 rhabdomal	0	
 rhabdomantic	0	
 rhabdophoran	0	
+rhabdosteus	0	
 rhabdous	0	
 rhachiotomy	0	
 rhachischisis	0	
 rhadamantine	0	
 rhagonate	0	
+rhamnaceous	0	
 rhapsode	0	
 rhapsodise	0	
 rhapsodist	0	
 rhapsodomancy	0	
 rheal	0	
+rheinberry	0	
 rheine	0	
 rheometry	0	
 rheoscopic	0	
@@ -66055,6 +67059,7 @@ rhetorise	0
 rheumatismal	0	
 rheumophthalmia	0	
 rheumy	0	
+rhineberry	0	
 rhinencephalic	0	
 rhinocerial	0	
 rhinocerosauk	0	
@@ -66092,6 +67097,7 @@ rhizotaxy	0
 rhizote	0	
 rhodeoretinic	0	
 rhodeus	0	
+rhodiumwood	0	
 rhodophyllous	0	
 rhoeadine	0	
 rhombicosidodecahedron	0	
@@ -66106,12 +67112,15 @@ rhotacise	0
 rhubarbymonks	0	
 rhumbline	0	
 rhumbsailing	0	
+rhyacophilus	0	
 rhymeless	0	
 rhymeletter	0	
 rhymeroyal	0	
 rhymester	0	
 rhymic	0	
+rhyncheta	0	
 rhynchocoelan	0	
+rhynchocyon	0	
 rhynchophoran	0	
 rhynchote	0	
 rhynchotous	0	
@@ -66129,6 +67138,8 @@ ribaldry	0
 ribaudry	0	
 ribband	0	
 ribbing	0	
+ribblerabble	0	
+ribblerow	0	
 ribbonbrake	0	
 ribbonfish	0	
 ribbongrass	0	
@@ -66149,6 +67160,7 @@ ribnosed	0
 ribroast	0	
 ribroaster	0	
 ribroasting	0	
+ribstonpippin	0	
 ribvaulting	0	
 ricebird	0	
 ricebiscuit	0	
@@ -66166,6 +67178,7 @@ ricesoup	0
 ricestitch	0	
 ricewater	0	
 riceweevil	0	
+richelbird	0	
 richen	0	
 richer	0	
 richleft	0	
@@ -66214,9 +67227,11 @@ ridingskirt	0
 ridingspear	0	
 ridingsuit	0	
 ridingwhip	0	
+rieseliron	0	
 rifacimenti	0	
 rifeness	0	
 riffler	0	
+riffraff	0	
 riflebird	0	
 riflecorps	0	
 rifleman	0	
@@ -66323,6 +67338,7 @@ ripplemark	0
 rippler	0	
 ripplet	0	
 ripply	0	
+ripsaw	0	
 risala	0	
 risebush	0	
 risel	0	
@@ -66391,6 +67407,7 @@ rivingknife	0
 rivingmachine	0	
 rivulose	0	
 rixation	0	
+rixdollar	0	
 rizomed	0	
 roadagent	0	
 roadbed	0	
@@ -66441,6 +67458,8 @@ roboreous	0
 robustious	0	
 robustness	0	
 roccellic	0	
+rochellepowder	0	
+rochellesalt	0	
 rockalum	0	
 rockaway	0	
 rockbadger	0	
@@ -66523,6 +67542,7 @@ rodring	0
 rodster	0	
 roebuckberry	0	
 roedeer	0	
+roestone	0	
 rogationdays	0	
 rogationflower	0	
 rogationsunday	0	
@@ -66548,6 +67568,7 @@ rollingpin	0
 rollingpress	0	
 rollingstock	0	
 rollway	0	
+rolypoly	0	
 romaika	0	
 romancical	0	
 romanise	0	
@@ -66684,6 +67705,8 @@ rosesawfly	0
 rosetanager	0	
 rosetopaz	0	
 rosetree	0	
+rosettastone	0	
+rosettawood	0	
 rosettedred	0	
 rosevinegar	0	
 rosewater	0	
@@ -66742,6 +67765,8 @@ rotundious	0
 rotundness	0	
 rotundpointed	0	
 rouelleguard	0	
+rouencross	0	
+rouerie	0	
 rougeberry	0	
 rougedish	0	
 rougeetnoir	0	
@@ -66818,6 +67843,8 @@ routinary	0
 routinist	0	
 routish	0	
 routous	0	
+rovebeetle	0	
+roverbeetle	0	
 rovery	0	
 rovingframe	0	
 rovingmachine	0	
@@ -66903,7 +67930,9 @@ rudegrowing	0
 rudented	0	
 ruderation	0	
 rudest	0	
+rudgewash	0	
 rudimentation	0	
+rudmasday	0	
 rueanemone	0	
 ruebargain	0	
 ruefulness	0	
@@ -66984,6 +68013,7 @@ runridge	0
 runty	0	
 runway	0	
 ruperts	0	
+rupertsdrop	0	
 rupicoline	0	
 ruptile	0	
 ruption	0	
@@ -67039,6 +68069,7 @@ ryemoth	0
 ryewolf	0	
 ryeworm	0	
 ryotwar	0	
+sabal	0	
 sabbatarian	0	
 sabbatarianism	0	
 sabbathbreaking	0	
@@ -67053,8 +68084,11 @@ sabellianism	0
 sablestoled	0	
 sabrebill	0	
 sabrefish	0	
+sabretache	0	
+sabretash	0	
 sabretoothed	0	
 sabrewing	0	
+sabrinawork	0	
 sabulosity	0	
 saccharate	0	
 sacchariferous	0	
@@ -67078,6 +68112,7 @@ sachemdom	0
 sackage	0	
 sackbearer	0	
 sackcloth	0	
+sackdoodle	0	
 sackedfriar	0	
 sackfilter	0	
 sackful	0	
@@ -67137,6 +68172,8 @@ sadduceeism	0
 sadeyed	0	
 sadfaced	0	
 sadhearted	0	
+sadiron	0	
+sadtree	0	
 safeconduct	0	
 safedeposit	0	
 safekeeping	0	
@@ -67210,6 +68247,9 @@ saintism	0
 saintlike	0	
 saintseeming	0	
 saintship	0	
+saintsimonian	0	
+saintsimonianism	0	
+saintsimonism	0	
 sairing	0	
 sairly	0	
 saivism	0	
@@ -67222,6 +68262,7 @@ saladoil	0
 saladplate	0	
 saladrocket	0	
 saladspoon	0	
+salalberry	0	
 salalembroth	0	
 salamandriform	0	
 salammoniac	0	
@@ -67245,13 +68286,17 @@ salitral	0
 salival	0	
 salivapump	0	
 salivous	0	
+salleeman	0	
+salleerover	0	
 sallowish	0	
 sallowkitten	0	
 sallowmoth	0	
 sallowthorn	0	
 sallowy	0	
+sallylunn	0	
 sallypicker	0	
 sallyport	0	
+sallywood	0	
 salmagundy	0	
 salmoncolour	0	
 salmonet	0	
@@ -67330,11 +68375,13 @@ samoyedic	0
 samplary	0	
 sampleroom	0	
 samplescale	0	
+samsonpost	0	
 sanability	0	
 sanation	0	
 sanative	0	
 sanativeness	0	
 sanatory	0	
+sanchopedro	0	
 sanctanimity	0	
 sanctification	0	
 sanctifiedly	0	
@@ -67444,6 +68491,7 @@ sandylaverock	0
 sandyx	0	
 saneness	0	
 sangdeboeuf	0	
+sangfroid	0	
 sanglant	0	
 sangreal	0	
 sangsue	0	
@@ -67475,6 +68523,8 @@ sanpan	0
 sansappel	0	
 sansculottism	0	
 sanskritist	0	
+santalaceous	0	
+santalin	0	
 santur	0	
 sapbeetle	0	
 sapcolour	0	
@@ -67487,12 +68537,15 @@ sapidless	0
 sapidness	0	
 sapient	0	
 sapiently	0	
+sapioutan	0	
+sapiutan	0	
 sapless	0	
 saplingcup	0	
 saponaria	0	
 saponification	0	
 saponify	0	
 saporous	0	
+sappanwood	0	
 sapphicstanza	0	
 sapphirewing	0	
 sapphirine	0	
@@ -67500,9 +68553,14 @@ sapphism	0
 sappy	0	
 sapremic	0	
 saprogenic	0	
+saproller	0	
 saprophagan	0	
 saprophytic	0	
 saprophytism	0	
+saprot	0	
+sapshield	0	
+sapsucker	0	
+sapsucking	0	
 saptube	0	
 sapwood	0	
 saracenismsaracenic	0	
@@ -67595,6 +68653,7 @@ satyral	0
 satyriasis	0	
 satyric	0	
 satyrium	0	
+saubaant	0	
 saucealone	0	
 sauceboat	0	
 saucebox	0	
@@ -67610,11 +68669,15 @@ sauranodon	0
 sauria	0	
 saurichnite	0	
 saurodon	0	
+saurognathism	0	
+saurognathous	0	
 sauroid	0	
 sauromalus	0	
 sauropoda	0	
 sauropterygia	0	
 sauropterygian	0	
+saurothera	0	
+saururous	0	
 sausagepoisoning	0	
 saussuritic	0	
 savable	0	
@@ -67630,6 +68693,8 @@ savereverence	0
 savingly	0	
 savingness	0	
 savingsbank	0	
+savoirfaire	0	
+savoirvivre	0	
 savourly	0	
 savoyard	0	
 savoymedlar	0	
@@ -67667,6 +68732,7 @@ scabrities	0
 scabrousness	0	
 scaffoldage	0	
 scaffolder	0	
+scaffraff	0	
 scaithless	0	
 scalable	0	
 scalade	0	
@@ -67735,6 +68801,7 @@ scapewheel	0
 scapi	0	
 scapiform	0	
 scapigerous	0	
+scapnet	0	
 scapulimantic	0	
 scaraboid	0	
 scarcebearded	0	
@@ -67760,6 +68827,7 @@ scarlettiger	0
 scarletwoman	0	
 scarlimestone	0	
 scarmoge	0	
+scarnbee	0	
 scarring	0	
 scarry	0	
 scartfree	0	
@@ -67826,6 +68894,7 @@ schillerisation	0
 schillerite	0	
 schillerspar	0	
 schindyletic	0	
+schisel	0	
 schismatise	0	
 schistaceous	0	
 schistic	0	
@@ -67905,6 +68974,8 @@ scissortooth	0
 scissura	0	
 scissure	0	
 scissurella	0	
+sciurine	0	
+sciuropterus	0	
 sclavonic	0	
 scleragogy	0	
 scleranthus	0	
@@ -67956,6 +69027,7 @@ scoparious	0
 scopate	0	
 scopeful	0	
 scopeless	0	
+scopelus	0	
 scopiferous	0	
 scoppet	0	
 scopula	0	
@@ -67963,6 +69035,7 @@ scopularia	0
 scopulate	0	
 scopuliform	0	
 scopuliped	0	
+scopus	0	
 scorchedcarpet	0	
 scorcher	0	
 scorchingness	0	
@@ -68074,6 +69147,7 @@ screwy	0
 scribable	0	
 scribacious	0	
 scribal	0	
+scribblescrabble	0	
 scribblingmachine	0	
 scribism	0	
 scrimer	0	
@@ -68152,6 +69226,7 @@ scutigera	0
 scutiped	0	
 scuttlebutt	0	
 scuttlefish	0	
+scymnus	0	
 scyphiform	0	
 scytalina	0	
 scytheman	0	
@@ -68505,6 +69580,7 @@ seawoodlouse	0
 seaworm	0	
 seawormwood	0	
 seaworthy	0	
+sebaptist	0	
 sebate	0	
 sebestan	0	
 sebiferous	0	
@@ -68580,6 +69656,9 @@ seductiveness	0
 sedulity	0	
 sedulously	0	
 seeable	0	
+seebright	0	
+seecatchie	0	
+seecawk	0	
 seedbag	0	
 seedbed	0	
 seedbird	0	
@@ -68631,6 +69710,7 @@ seemlier	0
 seemliest	0	
 seemlyhed	0	
 seepy	0	
+seerfish	0	
 seership	0	
 seether	0	
 seggan	0	
@@ -68649,6 +69729,7 @@ seigniorise	0
 seineboat	0	
 seinegang	0	
 seiner	0	
+seirfish	0	
 seirosporic	0	
 seismal	0	
 seismogram	0	
@@ -68928,16 +70009,157 @@ semble	0
 semeiologic	0	
 semeiotic	0	
 semestral	0	
+semiacid	0	
+semiangle	0	
+semiannual	0	
+semiannually	0	
+semiannular	0	
+semianthracite	0	
+semiape	0	
+semiaquatic	0	
+semiarian	0	
+semiarticulate	0	
+semiattached	0	
+semibarbarian	0	
+semibituminous	0	
+semibull	0	
+semicalcareous	0	
+semicalcined	0	
+semicartilaginous	0	
+semicentennial	0	
+semichorus	0	
+semicircled	0	
+semicircumference	0	
+semicirque	0	
+semiclosure	0	
+semicolonbutterfly	0	
+semicolumn	0	
+semicolumnar	0	
+semicomplete	0	
+semiconfluent	0	
+semiconjugate	0	
+semiconscious	0	
+semiconvergent	0	
+semicope	0	
+semicorneous	0	
+semicoronet	0	
+semicostiferous	0	
+semicritical	0	
+semicrome	0	
+semicrustaceous	0	
+semicrystalline	0	
+semicubium	0	
+semidefinite	0	
+semidependent	0	
+semidesert	0	
+semidetached	0	
+semidiameter	0	
+semidiapason	0	
+semidiaphaneity	0	
+semidiaphanous	0	
+semidiurna	0	
+semidiurnal	0	
+semieffigy	0	
+semielliptical	0	
+semifable	0	
+semifaience	0	
+semifigure	0	
+semiflex	0	
+semifloscule	0	
+semiflosculose	0	
+semifluid	0	
+semiformed	0	
+semifrater	0	
+semifused	0	
+semiglobose	0	
+semigod	0	
+semiindependent	0	
+semiinfinite	0	
+semiligneous	0	
+semiliquid	0	
+semilogical	0	
+semilucent	0	
+semilunar	0	
+semilunate	0	
+semimalignant	0	
+semimature	0	
+semimembranosus	0	
+semimembranous	0	
+semimenstrual	0	
+semimetal	0	
+semimetallic	0	
+semimute	0	
 seminality	0	
 seminarist	0	
 seminate	0	
 semination	0	
 seminiferous	0	
 seminification	0	
+seminude	0	
+seminymph	0	
+semiobscure	0	
+semiofficial	0	
+semiopal	0	
+semiopaque	0	
+semioptera	0	
+semiorbicular	0	
+semiordinate	0	
+semiosseous	0	
+semioval	0	
+semioviparous	0	
+semipalmate	0	
+semipalmation	0	
+semiped	0	
+semipedal	0	
+semipellucid	0	
+semipenniform	0	
+semiperfect	0	
+semipiscine	0	
+semiplantigrade	0	
+semiplastic	0	
+semiplotina	0	
+semiplume	0	
+semiquadrate	0	
+semirecondite	0	
+semireflex	0	
+semiregular	0	
+semiretractile	0	
+semiring	0	
+semisagittate	0	
+semisavage	0	
+semisaxon	0	
+semiseptate	0	
+semisextile	0	
+semismile	0	
+semisolid	0	
+semispherical	0	
+semispinalis	0	
+semisquare	0	
+semisteel	0	
+semisupernatural	0	
+semisupinated	0	
 semital	0	
+semitangent	0	
+semitendinosus	0	
+semitendinous	0	
+semiterete	0	
+semitertian	0	
 semitise	0	
 semitism	0	
 semitist	0	
+semitransparent	0	
+semitropical	0	
+semitubular	0	
+semitychonic	0	
+semiuncial	0	
+semivitreous	0	
+semivitrified	0	
+semivive	0	
+semivocal	0	
+semiweekly	0	
+semnopithecine	0	
+semnopithecus	0	
+semostomous	0	
 sempiternise	0	
 sempiternum	0	
 semuncial	0	
@@ -68945,9 +70167,11 @@ senatehouse	0
 senatorially	0	
 senatorship	0	
 sendoff	0	
+senecaoil	0	
 senecioid	0	
 senescent	0	
 seneschalship	0	
+senggung	0	
 seniorise	0	
 seniory	0	
 sensate	0	
@@ -69015,6 +70239,7 @@ septenaries	0
 septennate	0	
 septenniumseptennial	0	
 septentriones	0	
+septfoil	0	
 septicidally	0	
 septicity	0	
 septole	0	
@@ -69286,6 +70511,7 @@ shearman	0
 shearsteel	0	
 shearstructure	0	
 shearwater	0	
+sheatfish	0	
 sheathknife	0	
 sheathless	0	
 sheathy	0	
@@ -69323,6 +70549,7 @@ sheepwalk	0
 sheepwash	0	
 sheerhulk	0	
 sheerleg	0	
+sheetanchor	0	
 sheetcopper	0	
 sheetglass	0	
 sheeting	0	
@@ -69350,6 +70577,7 @@ shellwork	0
 shelly	0	
 shelterless	0	
 shelvy	0	
+sheoak	0	
 shepherdism	0	
 shepherdling	0	
 shepherdscrook	0	
@@ -69375,11 +70603,15 @@ shiftiness	0
 shiitic	0	
 shikaree	0	
 shillelah	0	
+shillyshallier	0	
+shillyshally	0	
 shingled	0	
 shingler	0	
 shingly	0	
 shinpiece	0	
 shinplaster	0	
+shintigan	0	
+shintiyan	0	
 shipbiscuit	0	
 shipboy	0	
 shipbreaker	0	
@@ -69581,6 +70813,8 @@ shrivingtime	0
 shroffage	0	
 shroudless	0	
 shroudy	0	
+shrovecake	0	
+shrovetide	0	
 shrubberied	0	
 shrubbiness	0	
 shrubless	0	
@@ -69779,6 +71013,7 @@ silverstick	0
 silvertongued	0	
 silvervoiced	0	
 silverwhite	0	
+simarubaceous	0	
 simial	0	
 similia	0	
 similise	0	
@@ -69789,6 +71024,7 @@ simlin	0
 simoniac	0	
 simoniacal	0	
 simonist	0	
+simonpure	0	
 simosity	0	
 simperer	0	
 simperingly	0	
@@ -69861,6 +71097,7 @@ sinistration	0
 sinistrorsal	0	
 sinistrous	0	
 sinistrously	0	
+sinkapace	0	
 sinkhole	0	
 sinkingfund	0	
 sinkingripe	0	
@@ -69893,6 +71130,9 @@ siredones	0
 sirenise	0	
 siriasis	0	
 siroc	0	
+sirreverence	0	
+sisalgrass	0	
+sisalhemp	0	
 siskiwit	0	
 sissy	0	
 sisterhood	0	
@@ -69906,6 +71146,7 @@ sithence	0
 sitiology	0	
 sittine	0	
 sittingroom	0	
+sitzbath	0	
 sivaite	0	
 sixfooter	0	
 sixshooter	0	
@@ -69937,6 +71178,7 @@ skewgee	0
 skewwheel	0	
 skidder	0	
 skilless	0	
+skimbleskamble	0	
 skimington	0	
 skimitry	0	
 skimmilk	0	
@@ -70064,6 +71306,7 @@ sleevewaistcoat	0
 sleighbell	0	
 sleighing	0	
 sleightofhand	0	
+sleuthhound	0	
 slicer	0	
 slickensided	0	
 slidable	0	
@@ -70414,6 +71657,8 @@ softsawder	0
 softsoap	0	
 softspoken	0	
 softy	0	
+soho	0	
+soidisant	0	
 soilbound	0	
 soilcap	0	
 soiliness	0	
@@ -70426,6 +71671,8 @@ solacious	0
 solah	0	
 solanacean	0	
 solanaceous	0	
+soland	0	
+solangoose	0	
 solanoid	0	
 solarisation	0	
 solarise	0	
@@ -70473,7 +71720,9 @@ solipsistic	0
 solitariness	0	
 solivagant	0	
 soller	0	
+sollunar	0	
 solomonsseal	0	
+solong	0	
 solonic	0	
 solstitial	0	
 solubility	0	
@@ -70578,6 +71827,7 @@ sortes	0
 sortilege	0	
 sortition	0	
 sortment	0	
+soso	0	
 sossle	0	
 sotadic	0	
 soterial	0	
@@ -70658,12 +71908,14 @@ spanless	0
 spanlong	0	
 spanner	0	
 spannew	0	
+spanroof	0	
 spardeck	0	
 sparely	0	
 spareness	0	
 sparerib	0	
 sparganosis	0	
 sparger	0	
+sparhawk	0	
 sparkish	0	
 sparkler	0	
 sparkless	0	
@@ -70678,6 +71930,7 @@ spasmodist	0
 spasticity	0	
 spatangida	0	
 spatangoida	0	
+spatchcock	0	
 spathaceous	0	
 spathed	0	
 spathiform	0	
@@ -70696,6 +71949,7 @@ speakership	0
 speakingtrumpet	0	
 speakingtube	0	
 speakingvoice	0	
+spealbone	0	
 spearfish	0	
 spearfoot	0	
 speargrass	0	
@@ -70905,6 +72159,12 @@ spinigrade	0
 spinirector	0	
 spinispirular	0	
 spinitis	0	
+spinnerule	0	
+spinnery	0	
+spinninghouse	0	
+spinningjenny	0	
+spinningmill	0	
+spinningwheel	0	
 spinose	0	
 spinosity	0	
 spinozist	0	
@@ -70951,6 +72211,7 @@ spirophyton	0
 spirozooid	0	
 spissitude	0	
 spitbox	0	
+spitchcock	0	
 spitcurl	0	
 spitefulnessin	0	
 spitfire	0	
@@ -71141,6 +72402,7 @@ sprinter	0
 sprinting	0	
 sprintrunner	0	
 sprouted	0	
+sprucebeer	0	
 sprucefir	0	
 sprucify	0	
 spruehole	0	
@@ -71275,6 +72537,7 @@ stalactiform	0
 stalagmitic	0	
 stalagmitically	0	
 stalagmometer	0	
+stald	0	
 staleness	0	
 stalkeyed	0	
 stalkinghorse	0	
@@ -71510,6 +72773,11 @@ stenochromy	0
 stenotic	0	
 stenotype	0	
 stenotypic	0	
+stepbairn	0	
+stepbrother	0	
+stepchild	0	
+stepcountry	0	
+stepfather	0	
 stepper	0	
 steppingstone	0	
 stepstone	0	
@@ -71552,6 +72820,7 @@ sternutative	0
 sternway	0	
 sternwheeler	0	
 stertorousness	0	
+stethidium	0	
 stethographic	0	
 stethoscopic	0	
 stethoscopist	0	
@@ -71646,6 +72915,7 @@ stockepithet	0
 stockexchange	0	
 stockfarmer	0	
 stockfeeder	0	
+stockgillyflower	0	
 stockholder	0	
 stockily	0	
 stockinger	0	
@@ -71661,6 +72931,8 @@ stockrider	0
 stocksaddle	0	
 stockstation	0	
 stockstill	0	
+stocktackle	0	
+stocktaking	0	
 stockwhip	0	
 stockwork	0	
 stockyard	0	
@@ -71986,6 +73258,7 @@ sturdied	0
 sturdier	0	
 sturdiest	0	
 sturdiness	0	
+sturniform	0	
 stutterer	0	
 stutteringly	0	
 styletiform	0	
@@ -72175,6 +73448,8 @@ suggilation	0
 suicidal	0	
 suicidism	0	
 suicism	0	
+suiform	0	
+suilline	0	
 suitability	0	
 suitorcide	0	
 sulkily	0	
@@ -72289,6 +73564,7 @@ superparasite	0
 superparasitic	0	
 superposable	0	
 superposition	0	
+superroyal	0	
 supersaturation	0	
 superscript	0	
 supersedeas	0	
@@ -72342,6 +73618,7 @@ supposure	0
 suppresser	0	
 suppressionist	0	
 suppressive	0	
+supraorbital	0	
 suprascapulary	0	
 supraspinous	0	
 supremeness	0	
@@ -72368,6 +73645,7 @@ surfman	0
 surfy	0	
 surgeoncy	0	
 surgy	0	
+surinamtoad	0	
 surmisable	0	
 surmiser	0	
 surmounter	0	
@@ -72465,6 +73743,7 @@ swashy	0
 swathy	0	
 swearerswear	0	
 sweater	0	
+sweathband	0	
 sweatiness	0	
 sweatinghouse	0	
 sweatingsickness	0	
@@ -72748,6 +74027,7 @@ tabrere	0
 tabularisation	0	
 tabularise	0	
 tabulation	0	
+tacautac	0	
 tachygrapnic	0	
 tachylitic	0	
 tachymetry	0	
@@ -72762,6 +74042,7 @@ tactility	0
 taction	0	
 tactless	0	
 tactual	0	
+taen	0	
 taffety	0	
 tagend	0	
 tagger	0	
@@ -72812,6 +74093,7 @@ tallower	0
 tallowface	0	
 tallowtree	0	
 tallowy	0	
+tallyho	0	
 tallyman	0	
 tallyshop	0	
 tallysystem	0	
@@ -72827,8 +74109,11 @@ tamburin	0
 tamilic	0	
 tamine	0	
 tamis	0	
+tammynorie	0	
+tamoshanter	0	
 tamperer	0	
 tamponing	0	
+tamtam	0	
 tanagra	0	
 tanballs	0	
 tanbed	0	
@@ -72863,6 +74148,7 @@ tantity	0
 tantrist	0	
 tanyard	0	
 tanzib	0	
+taotai	0	
 tapbolt	0	
 tapcinder	0	
 tapeline	0	
@@ -72884,6 +74170,7 @@ tappithen	0
 taproom	0	
 taproot	0	
 tapsieteerie	0	
+tarafern	0	
 taraxacine	0	
 tardamente	0	
 tardily	0	
@@ -72916,12 +74203,14 @@ tartness	0
 tartralic	0	
 tartuffish	0	
 tartuffism	0	
+tarwater	0	
 tascall	0	
 tasimetry	0	
 tasker	0	
 tasking	0	
 taskmaster	0	
 taskmistress	0	
+tasselgentle	0	
 tastable	0	
 tastelessness	0	
 tastily	0	
@@ -72974,7 +74263,9 @@ taxingmaster	0
 taxonomer	0	
 taxonomic	0	
 taxpayer	0	
+tbandage	0	
 tcart	0	
+tcloth	0	
 teabread	0	
 teacaddy	0	
 teacake	0	
@@ -73030,6 +74321,7 @@ tedder	0
 tediosity	0	
 teemful	0	
 teemless	0	
+teetee	0	
 teetotalism	0	
 tegmental	0	
 tegminal	0	
@@ -73093,6 +74385,7 @@ tenaciousness	0
 tenantable	0	
 tenantfarmer	0	
 tenantless	0	
+tenantright	0	
 tendance	0	
 tenderfoot	0	
 tenderhearted	0	
@@ -73225,6 +74518,10 @@ terrorsmitten	0
 terrorstrike	0	
 tersion	0	
 tertiaries	0	
+terutero	0	
+terzarima	0	
+terzetto	0	
+tesholama	0	
 tessellar	0	
 tessellate	0	
 tessellation	0	
@@ -73600,6 +74897,7 @@ thusness	0
 thuswise	0	
 thwartingly	0	
 thwartly	0	
+thyinewood	0	
 thymol	0	
 thymy	0	
 thyrsoid	0	
@@ -73632,6 +74930,7 @@ tideway	0
 tidily	0	
 tidiness	0	
 tiebeam	0	
+tiercelgentle	0	
 tierceron	0	
 tiercet	0	
 tierod	0	
@@ -73650,6 +74949,8 @@ tilery	0
 tilestone	0	
 tillable	0	
 tillerchain	0	
+tillievallie	0	
+tillyvally	0	
 timbered	0	
 timbering	0	
 timberman	0	
@@ -73687,6 +74988,7 @@ timonise	0
 timoroso	0	
 timorsome	0	
 timous	0	
+timwhisky	0	
 tinchil	0	
 tinctorial	0	
 tinderbox	0	
@@ -73736,6 +75038,7 @@ tirevaliant	0
 tirewoman	0	
 tiringhouse	0	
 tirliewhirlie	0	
+tirralirra	0	
 tirrivie	0	
 tissuepaper	0	
 titanian	0	
@@ -73760,6 +75063,8 @@ titlepage	0
 titlesheet	0	
 titlonym	0	
 titman	0	
+titree	0	
+tittatto	0	
 titteration	0	
 titterer	0	
 tittlebat	0	
@@ -73790,13 +75095,16 @@ tobaccostopper	0
 tobogganer	0	
 tobogganist	0	
 toboggin	0	
+tobrake	0	
 toccatella	0	
 tocherless	0	
+today	0	
 toddler	0	
 toddyladle	0	
 toddypalm	0	
 toddystick	0	
 todlowrie	0	
+todo	0	
 toecap	0	
 toenail	0	
 toftman	0	
@@ -73827,6 +75135,8 @@ toller	0
 tolletan	0	
 tollhouse	0	
 tollman	0	
+tollol	0	
+tollolish	0	
 tolsey	0	
 toltecan	0	
 toluene	0	
@@ -73840,9 +75150,13 @@ tomfoolish	0
 tomial	0	
 tommyshop	0	
 tomnoddy	0	
+tomorrow	0	
 tompon	0	
+tomtom	0	
 tomtrot	0	
+toname	0	
 tonelesstone	0	
+tongabean	0	
 tongueless	0	
 tonguelet	0	
 tongueshaped	0	
@@ -73850,8 +75164,11 @@ tonguester	0
 tonguetied	0	
 tonguework	0	
 tonicity	0	
+tonight	0	
 tonish	0	
 tonishly	0	
+tonkabean	0	
+tonquinbean	0	
 tonsilitic	0	
 tonsilitis	0	
 tonsillar	0	
@@ -73909,6 +75226,7 @@ torchbearer	0
 torcher	0	
 torching	0	
 torchstaves	0	
+torent	0	
 toreumatography	0	
 toreumatology	0	
 toreutes	0	
@@ -73961,7 +75279,9 @@ totemism	0
 totemist	0	
 totemistic	0	
 toteroad	0	
+tother	0	
 totipalmation	0	
+totorne	0	
 totteringly	0	
 tottery	0	
 tottie	0	
@@ -74005,6 +75325,7 @@ townmeeting	0
 townspeople	0	
 towntalk	0	
 towny	0	
+toworne	0	
 towy	0	
 toxemia	0	
 toxemic	0	
@@ -74019,6 +75340,7 @@ toyish	0
 toyishness	0	
 toyshop	0	
 toysome	0	
+tplate	0	
 trabea	0	
 trabeation	0	
 trabeculate	0	
@@ -74085,6 +75407,7 @@ trainband	0
 trainbearer	0	
 trainingcollege	0	
 trainmile	0	
+trainoil	0	
 trainrailway	0	
 traitorly	0	
 traitorousness	0	
@@ -74173,6 +75496,8 @@ transposal	0
 transposer	0	
 transpositional	0	
 transpositor	0	
+transshape	0	
+transship	0	
 transubstantiationalist	0	
 transudatory	0	
 transumption	0	
@@ -74211,6 +75536,7 @@ traverser	0
 traversetable	0	
 traversingplatform	0	
 trawler	0	
+traytrip	0	
 treacher	0	
 treacherousness	0	
 treachour	0	
@@ -74226,6 +75552,7 @@ treasurechest	0
 treasurecity	0	
 treasurehouse	0	
 treasurership	0	
+treasuretrove	0	
 treasurybench	0	
 treatable	0	
 treater	0	
@@ -74260,6 +75587,7 @@ trenchercap	0
 trencherfriend	0	
 trencherknight	0	
 trenchermate	0	
+trenteetquarante	0	
 trepanation	0	
 trepanner	0	
 tressured	0	
@@ -74319,10 +75647,12 @@ tricklet	0
 trickly	0	
 trickscene	0	
 tricksiness	0	
+tricktrack	0	
 trickwig	0	
 tricoloured	0	
 triconsonantic	0	
 tricrotous	0	
+trictrac	0	
 tricuspidate	0	
 tridented	0	
 triduan	0	
@@ -74432,8 +75762,10 @@ trivalved	0
 trivialise	0	
 trivialism	0	
 trivialness	0	
+triweekly	0	
 trochanterian	0	
 trochantinian	0	
+trochiform	0	
 trochiscus	0	
 trochiterian	0	
 trochitic	0	
@@ -74442,6 +75774,7 @@ troggin	0
 troglodytism	0	
 trogonoid	0	
 troking	0	
+trollmydame	0	
 trolloping	0	
 trollopy	0	
 trombonist	0	
@@ -74456,9 +75789,11 @@ tropist	0
 tropologic	0	
 tropologise	0	
 tropology	0	
+trotcosy	0	
 trothplight	0	
 trothring	0	
 troublemirth	0	
+trousdeloup	0	
 trousered	0	
 trousering	0	
 troutbasket	0	
@@ -74468,6 +75803,7 @@ troutlet	0
 troutrod	0	
 troutspoon	0	
 troutstream	0	
+troyweight	0	
 truancy	0	
 trucebreaker	0	
 truceless	0	
@@ -74534,6 +75870,8 @@ tryhouse	0
 tryptone	0	
 tryster	0	
 trystingplace	0	
+tsquare	0	
+tsungtuh	0	
 tuart	0	
 tubage	0	
 tubal	0	
@@ -74568,6 +75906,7 @@ tugboat	0
 tugger	0	
 tugofwar	0	
 tuitionary	0	
+tulawork	0	
 tulipeared	0	
 tulipomania	0	
 tuliptree	0	
@@ -74583,7 +75922,9 @@ tumbleweed	0
 tumbly	0	
 tumefaction	0	
 tumidness	0	
+tumpline	0	
 tumpy	0	
+tumtum	0	
 tumular	0	
 tumulate	0	
 tumulosity	0	
@@ -74602,6 +75943,7 @@ tunicata	0
 tunicle	0	
 tuningfork	0	
 tuninghammer	0	
+tunmoot	0	
 tunnage	0	
 tunnelnet	0	
 tunning	0	
@@ -74679,15 +76021,19 @@ tutelar	0
 tutiorist	0	
 tutorage	0	
 tutorship	0	
+tuttifrutti	0	
 tutuli	0	
 tutwork	0	
 tutworkman	0	
+tuwhit	0	
+tuwhoo	0	
 tuyer	0	
 tuyere	0	
 tuzzimuzzy	0	
 tuzzy	0	
 twaddler	0	
 twaddly	0	
+twalofted	0	
 twattler	0	
 twattling	0	
 tweendeck	0	
@@ -74724,8 +76070,11 @@ twister	0
 twistle	0	
 twitcher	0	
 twitteration	0	
+twitterbone	0	
+twitterboned	0	
 twitteringly	0	
 twittingly	0	
+twittwat	0	
 twodecker	0	
 twoedged	0	
 twofaced	0	
@@ -74753,6 +76102,7 @@ tyburntree	0
 tycoonate	0	
 tyeblock	0	
 tylari	0	
+tyleberry	0	
 tylotate	0	
 tylotic	0	
 tympanal	0	
@@ -74818,6 +76168,7 @@ ulcered	0
 ulcerously	0	
 ulcerousness	0	
 uliginous	0	
+ullalulla	0	
 ulling	0	
 ulmic	0	
 ulnad	0	
@@ -74834,6 +76185,11 @@ ultimo	0
 ultimogeniture	0	
 ultraism	0	
 ultramontanist	0	
+ultraprotestant	0	
+ultrareligious	0	
+ultrasensual	0	
+ultratropical	0	
+ultravirtuous	0	
 ultroneousness	0	
 ululate	0	
 ululation	0	
@@ -74888,6 +76244,8 @@ unalterability	0
 unaltered	0	
 unambiguousness	0	
 unambitiously	0	
+unamerican	0	
+unamericanise	0	
 unamiability	0	
 unamusive	0	
 unanimousness	0	
@@ -74953,6 +76311,7 @@ unbrokenness	0
 unbrotherliness	0	
 unburdened	0	
 unbury	0	
+unbusinesslike	0	
 uncandidness	0	
 uncanniness	0	
 uncanonise	0	
@@ -75055,22 +76414,38 @@ undenominationalism	0
 undepending	0	
 underaction	0	
 underbearer	0	
+underboard	0	
+underclerk	0	
+underclerkship	0	
+undercolour	0	
+undercoloured	0	
+undercraft	0	
+undercrest	0	
 underdoer	0	
+underdressed	0	
+underdriven	0	
+underexposed	0	
+undergown	0	
+undergrade	0	
 undergraduateship	0	
 underhanded	0	
 underhandedness	0	
+underhonest	0	
 underkingdom	0	
 underlayer	0	
 underletter	0	
 underminer	0	
 undernoted	0	
 underpayment	0	
+underripe	0	
+underroof	0	
 underrunning	0	
 undersecretaryship	0	
 underseller	0	
 undersetter	0	
 undersetting	0	
 undersheriffry	0	
+undersparred	0	
 understanded	0	
 understandinglyunderstands	0	
 understrapping	0	
@@ -75083,6 +76458,7 @@ undervaluation	0
 undervaluer	0	
 underwinged	0	
 underworker	0	
+underworld	0	
 underwriting	0	
 undescendable	0	
 undeservingly	0	
@@ -75136,6 +76512,8 @@ unencumberedness	0
 unended	0	
 unendingness	0	
 unendurably	0	
+unenglish	0	
+unenglished	0	
 unentangled	0	
 unentertainingness	0	
 unenvied	0	
@@ -75395,6 +76773,7 @@ unmonopolising	0
 unmoralised	0	
 unmoralising	0	
 unmorality	0	
+unmosaic	0	
 unmovable	0	
 unmovably	0	
 unmoving	0	
@@ -75744,14 +77123,21 @@ unwriting	0
 unyieldingness	0	
 upanddown	0	
 upbraidingly	0	
+upcountry	0	
 upheaping	0	
 upholster	0	
 uplandish	0	
 upperhand	0	
 upperstory	0	
 upperten	0	
+uppile	0	
 uppish	0	
 uppishness	0	
+upplough	0	
+uppluck	0	
+uppricked	0	
+upprop	0	
+upputting	0	
 upraising	0	
 uprighteously	0	
 uprising	0	
@@ -75761,9 +77147,11 @@ upsees	0
 upsetment	0	
 upsetting	0	
 upsidedown	0	
+upstroke	0	
 uptilted	0	
 upturning	0	
 upways	0	
+uralaltaic	0	
 uralitisation	0	
 uralitise	0	
 uranian	0	
@@ -75780,6 +77168,7 @@ ureal	0
 ureameter	0	
 ureametry	0	
 uredosporic	0	
+uremic	0	
 uresis	0	
 uretal	0	
 ureteritis	0	
@@ -75888,6 +77277,7 @@ vacuousness	0
 vacuumgauge	0	
 vacuumpan	0	
 vacuumtube	0	
+vademecum	0	
 vagabondise	0	
 vagabondism	0	
 vagarian	0	
@@ -76014,6 +77404,7 @@ vaudevillist	0
 vaultage	0	
 vaultinghorse	0	
 vaulty	0	
+vauntcourier	0	
 vaunter	0	
 vauntingly	0	
 vauty	0	
@@ -76118,6 +77509,7 @@ verbify	0
 verbigeration	0	
 verbomaniac	0	
 verboseness	0	
+verdeantique	0	
 verdegris	0	
 verderer	0	
 verdictspecific	0	
@@ -76160,6 +77552,7 @@ vernaculate	0
 vernaculous	0	
 vernant	0	
 vernate	0	
+verners	0	
 verruciform	0	
 verruculose	0	
 versableness	0	
@@ -76327,6 +77720,7 @@ vinegarplant	0
 vinegary	0	
 vineland	0	
 vinery	0	
+vingtetun	0	
 vinic	0	
 viniculture	0	
 viniculturist	0	
@@ -76421,6 +77815,7 @@ vitrine	0
 vitriolation	0	
 vitriolic	0	
 vitriolise	0	
+vitroditrina	0	
 vitrophyric	0	
 vituperable	0	
 vituperator	0	
@@ -76590,6 +77985,7 @@ wakener	0
 wakening	0	
 waker	0	
 wakerife	0	
+wakerobin	0	
 waketime	0	
 walkable	0	
 walkaround	0	
@@ -76601,6 +77997,8 @@ walkingtoad	0
 walkmill	0	
 walkover	0	
 wallclock	0	
+walleye	0	
+walleyed	0	
 wallfruit	0	
 walling	0	
 wallknot	0	
@@ -76628,6 +78026,8 @@ wanter	0
 wantwit	0	
 wapinschawing	0	
 wappereyed	0	
+wapperjaw	0	
+wapperjawed	0	
 warblefly	0	
 warblingly	0	
 warcry	0	
@@ -76705,6 +78105,7 @@ wastage	0
 wastebasket	0	
 wastebook	0	
 wastefulness	0	
+wastelbread	0	
 wasten	0	
 wasteness	0	
 wastepipe	0	
@@ -77116,10 +78517,14 @@ welsher	0
 welshharp	0	
 welshhook	0	
 welshrabbit	0	
+welterrace	0	
+welterstakes	0	
+welterweight	0	
 welting	0	
 wencher	0	
 wendic	0	
 wennish	0	
+wentletrap	0	
 werewolfish	0	
 werewolfism	0	
 wernerite	0	
@@ -77203,6 +78608,7 @@ wheyface	0
 wheyishness	0	
 whichhe	0	
 whichhis	0	
+whidahbird	0	
 whidder	0	
 whiffer	0	
 whiffing	0	
@@ -77235,6 +78641,7 @@ whipperin	0
 whippersnapper	0	
 whippingcheer	0	
 whippingpost	0	
+whippoorwill	0	
 whipsaw	0	
 whipsnake	0	
 whipsocket	0	
@@ -77255,6 +78662,8 @@ whiskerandoed	0
 whiskery	0	
 whiskified	0	
 whiskyfrisky	0	
+whiskyjack	0	
+whiskyjohn	0	
 whiskyliver	0	
 whisperinggallery	0	
 whisperingly	0	
@@ -77322,9 +78731,11 @@ whitewing	0
 whitingtime	0	
 whitishness	0	
 whitlowgrass	0	
+whitmonday	0	
 whitsunale	0	
 whitsunweek	0	
 whittawer	0	
+whittiewhattie	0	
 whity	0	
 whitybrown	0	
 whizzer	0	
@@ -77406,6 +78817,7 @@ wileful	0
 wiliness	0	
 willer	0	
 willinghearted	0	
+willothewisp	0	
 willowed	0	
 willowherb	0	
 willowish	0	
@@ -77413,7 +78825,9 @@ willowmachine	0
 willowwarbler	0	
 willowweed	0	
 willowy	0	
+willworship	0	
 willyard	0	
+willynilly	0	
 wimbrel	0	
 wincer	0	
 windage	0	
@@ -77518,6 +78932,7 @@ winterground	0
 winterlodge	0	
 winterly	0	
 winterquarters	0	
+wintersbark	0	
 wintersettle	0	
 wintertide	0	
 winterwheat	0	
@@ -77550,10 +78965,13 @@ wisenesswise	0
 wishbone	0	
 wishfulness	0	
 wishingcap	0	
+wishwash	0	
+wishywashy	0	
 wispy	0	
 wistly	0	
 wistto	0	
 witchdoctor	0	
+witchelm	0	
 witchen	0	
 witchesbroom	0	
 witchesbutter	0	
@@ -77563,6 +78981,7 @@ witchknot	0
 witchmeal	0	
 witchridden	0	
 witchwife	0	
+witcracker	0	
 witeless	0	
 withdrawer	0	
 witheringfloor	0	
@@ -77629,6 +79048,7 @@ wonderwork	0
 wonderworker	0	
 wonderwounded	0	
 wondrousnessbird	0	
+wongawonga	0	
 woning	0	
 wontless	0	
 woodacid	0	
@@ -77779,6 +79199,7 @@ wormholed	0
 wormpowder	0	
 wormseed	0	
 wormwheel	0	
+wornout	0	
 worrier	0	
 worriment	0	
 worrisome	0	
@@ -77795,10 +79216,12 @@ wotted	0
 wottest	0	
 wotting	0	
 wouldbe	0	
+woulfebottle	0	
 woundable	0	
 woundily	0	
 woundless	0	
 woundy	0	
+wowwow	0	
 wrackful	0	
 wranglesome	0	
 wranglingsenior	0	
@@ -77849,6 +79272,8 @@ wroughtiron	0
 wrybill	0	
 wrymouthed	0	
 wrynessmake	0	
+wychelm	0	
+wyliecoat	0	
 xanthate	0	
 xanthochroia	0	
 xanthochroic	0	
@@ -77859,6 +79284,8 @@ xenurine	0
 xerosis	0	
 xerotic	0	
 xerotripsis	0	
+xrays	0	
+xxnolle	0	
 xylocarpous	0	
 xylographic	0	
 xylophaga	0	
@@ -77888,6 +79315,7 @@ yarely	0
 yaupon	0	
 yawey	0	
 yawningly	0	
+yclad	0	
 yeanling	0	
 yearbook	0	
 yearlong	0	
@@ -77928,6 +79356,8 @@ yewtree	0
 yieldable	0	
 yieldableness	0	
 yieldingnessyield	0	
+ylevel	0	
+ymoth	0	
 yodeler	0	
 yogi	0	
 yogism	0	
@@ -77954,6 +79384,9 @@ youthsome	0
 youthy	0	
 youuns	0	
 yowling	0	
+ypointing	0	
+yravish	0	
+ytrack	0	
 yttria	0	
 yttric	0	
 yttrocerite	0	
@@ -77983,6 +79416,7 @@ zeugmatic	0
 zhobo	0	
 zigzaggery	0	
 zigzaggy	0	
+zimentwater	0	
 zincamyl	0	
 zincblende	0	
 zincbloom	0	
@@ -78002,6 +79436,7 @@ zincous	0
 zincwhite	0	
 zincworker	0	
 zingari	0	
+zingiberaceous	0	
 zionward	0	
 zirconia	0	
 zirconite	0	
@@ -78023,6 +79458,7 @@ zonoid	0
 zonula	0	
 zonular	0	
 zoochemical	0	
+zooeal	0	
 zooecia	0	
 zoogenic	0	
 zoogeographer	0	
