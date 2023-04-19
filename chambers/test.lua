@@ -68,7 +68,7 @@ end
 fp:close()
 
 for n,w in pairs(words) do -- weights between 0 and 1
-	words[n]=2+(w/maxweight)	-- we add 2 so the number of transforms is more important
+	words[n]=1+(w/maxweight)	-- we add 2 so the number of transforms is more important
 end
 
 local addletters=4		-- lower this numnber, faster we can go

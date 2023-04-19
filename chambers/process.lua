@@ -124,13 +124,15 @@ end
 local tab={}
 for word,val in pairs(freqs) do
 	if val>0 then
+		local weight=math.ceil(math.pow(val,1/2))
+		if weight>9 then weight=9 end
 		local classes={}
 		for class in pairs( words[word] or {} ) do
 			classes[#classes+1]=class
 		end
 		table.sort(classes)
 		classes=table.concat(classes," ")
-		tab[#tab+1]={word,val,classes}
+		tab[#tab+1]={word,weight,classes}
 	end
 end
 table.sort(tab,function(a,b)
