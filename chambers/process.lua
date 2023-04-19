@@ -123,13 +123,15 @@ end
 
 local tab={}
 for word,val in pairs(freqs) do
-	local classes={}
-	for class in pairs( words[word] or {} ) do
-		classes[#classes+1]=class
+	if val>0 then
+		local classes={}
+		for class in pairs( words[word] or {} ) do
+			classes[#classes+1]=class
+		end
+		table.sort(classes)
+		classes=table.concat(classes," ")
+		tab[#tab+1]={word,val,classes}
 	end
-	table.sort(classes)
-	classes=table.concat(classes," ")
-	tab[#tab+1]={word,val,classes}
 end
 table.sort(tab,function(a,b)
 	if a[2] == b[2] then
