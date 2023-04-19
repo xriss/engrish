@@ -126,3 +126,29 @@ for i,v in ipairs(tab) do
 end
 fp:close()
 
+--[[
+table.sort(tab,function(a,b)
+	return a[1]<b[1]
+end)
+local find_diff=function(last,word)
+	for i=0,#last do
+		local a=last:sub(1,#last-i)
+		local b=word:sub(1,#last-i)
+print(i,a,b)
+		if a==b then -- matched
+			return i , word:sub(#last+1-i)
+		end
+	end
+	return #last,word -- total replace
+end
+local fp=io.open("words.diff.tsv","w")
+--fp:write("eng".."\t".."weight".."\t".."class".."\n")
+local last=""
+for i,v in ipairs(tab) do
+	local word=v[1]
+	local a,b=find_diff(last,word)
+	last=word
+	fp:write(a.."\t"..b.."\n")
+end
+fp:close()
+]]
