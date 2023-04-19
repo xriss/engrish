@@ -24,6 +24,20 @@ local classes={
 
 local words={}
 local lines={}
+local alts={}
+
+local findalts=function(text,orig)
+
+--	print(text)
+	text=" "..text.." " -- make sure we start and end with whitespace
+	for word in text:gmatch("%s[A-Z%p]+%s") do
+		word=word:gsub("[^A-Z]",""):lower()
+		if #word>2 then
+			alts[word]=orig
+		end
+	end
+
+end
 
 local fp=io.open("dict.tsv","r")
 for line in fp:lines() do
@@ -36,8 +50,10 @@ for line in fp:lines() do
 		if class~="" then
 			words[word][class]=true
 		end
+		findalts(cols[3] or "",word)
 	else -- bad word
-		print("IGNORE",cols[1])
+--		print("IGNORE",cols[1])
+		findalts(cols[3] or "","")
 	end
 	lines[#lines+1]=cols[3]
 end
@@ -47,6 +63,9 @@ fp:close()
 local freqs={}
 local freqt=0
 for word in pairs(words) do
+	freqs[word]=0
+end
+for word in pairs(alts) do
 	freqs[word]=0
 end
 
@@ -105,7 +124,7 @@ end
 local tab={}
 for word,val in pairs(freqs) do
 	local classes={}
-	for class in pairs( words[word] ) do
+	for class in pairs( words[word] or {} ) do
 		classes[#classes+1]=class
 	end
 	table.sort(classes)
