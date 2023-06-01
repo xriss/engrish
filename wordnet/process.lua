@@ -35,7 +35,7 @@ for fn,it in pairs(files) do
 					freqs[wordf]=freqs[wordf]+1
 					if not words[wordf] then words[wordf]={} end
 					if class~="" then
-						words[wordf][class..f]=true
+						words[wordf][class..f:sub(-1)]=true
 					end
 				end
 			end

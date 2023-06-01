@@ -13,7 +13,7 @@ local classes={
 	["verb transitive"]       = "vt",
 	["adverb"]                = "a",
 
-	["participial adjective"] = "ving",
+	["participial adjective"] = "vg",
 	["adjective"]             = "j",
 	["conjunction"]           = "c",
 	["interjection"]          = "i",
