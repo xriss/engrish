@@ -3,33 +3,43 @@
 local wstr=require("wetgenes.string")
 
 local words={}
+local freqs={}
 
 local files={
-	["index.adj"]={		index=true,		class="a",	},
-	["index.adv"]={		index=true,		class="av",	},
-	["index.noun"]={	index=true,		class="n",	},
-	["index.sense"]={	index=true,		class="",	},
-	["index.verb"]={	index=true,		class="v",	},
-	["adj.exc"]={		exc=true,		class="a",	},
-	["adv.exc"]={		exc=true,		class="av",	},
-	["cousin.exc"]={	exc=true,		class="",	},
-	["noun.exc"]={		exc=true,		class="n",	},
-	["verb.exc"]={		exc=true,		class="v",	},
+	["data.adj"]={		index=true,		class="a",	},
+	["data.adv"]={		index=true,		class="av",	},
+	["data.noun"]={		index=true,		class="n",	},
+	["data.verb"]={		index=true,		class="v",	},
 }
 
 for fn,it in pairs(files) do
 
 	local fp=io.open("dict/"..fn,"r")
 	for line in fp:lines() do
-		local cols=wstr.split(line," ")
-		local word=cols[1]
-		local class=it.class or ""
-		word=word:gsub("[^a-z]","")
-		if word~="" and word==cols[1] then -- good word
-			if not words[word] then words[word]={} end
-			if class~="" then
-				words[word][class]=true
+		local defs=wstr.split(line,"|")[2]
+		if defs then
+			local cols=wstr.split(line," ")
+			local word=cols[5]
+			local class=it.class or ""
+			local safeword=word:gsub("[^a-z]","")
+			if safeword~="" and safeword==word then -- good word
+				if not freqs[word] then freqs[word]=0 end
+				freqs[word]=freqs[word]+1
+				if not words[safeword] then words[safeword]={} end
+				if class~="" then
+					words[safeword][class]=true
+				end
 			end
+
+			defs=string.lower(defs):gsub("%p",""):gsub("[^a-z]"," ")
+			for _,word in ipairs( wstr.split(defs," ") ) do
+				if word~="" then
+					if not freqs[word] then freqs[word]=0 end
+					freqs[word]=freqs[word]+1
+					if not words[word] then words[word]={} end
+				end
+			end
+
 		end
 	end
 	fp:close()
@@ -41,20 +51,24 @@ end
 
 
 local tab={}
-local tab={}
-for word,_ in pairs(words) do
-	local weight=0--math.ceil(math.pow(val,1/2))
-	if weight>9 then weight=9 end
-	local classes={}
-	for class in pairs( words[word] or {} ) do
-		classes[#classes+1]=class
+for word,val in pairs(freqs) do
+	if val>0 then
+		local weight=math.ceil(math.pow(val,1/2))
+		if weight>9 then weight=9 end
+		local classes={}
+		for class in pairs( words[word] or {} ) do
+			classes[#classes+1]=class
+		end
+		table.sort(classes)
+		classes=table.concat(classes," ")
+		tab[#tab+1]={word,weight,classes}
 	end
-	table.sort(classes)
-	classes=table.concat(classes," ")
-	tab[#tab+1]={word,weight,classes}
 end
 table.sort(tab,function(a,b)
-	return a[1]<b[1]
+	if a[2] == b[2] then
+		return a[1]<b[1]
+	end
+	return a[2]>b[2]
 end)
 
 

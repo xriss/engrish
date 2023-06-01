@@ -3,6 +3,7 @@
 local wstr=require("wetgenes.string")
 
 local words={}
+local weights={}
 
 local files={
 	["../chambers/words.tsv"]={		},
@@ -15,7 +16,10 @@ for fn,it in pairs(files) do
 	for line in fp:lines() do
 		local cols=wstr.split(line,"\t")
 		local word=cols[1]
+		local weight=tonumber( cols[2] ) or 0
 		local classs=cols[3]
+
+		if not weights[word] then weights[word]=weight end
 
 		if not words[word] then words[word]={} end
 		for _,class in ipairs( wstr.split(classs," ") ) do
@@ -35,7 +39,7 @@ end
 local tab={}
 local tab={}
 for word,_ in pairs(words) do
-	local weight=0--math.ceil(math.pow(val,1/2))
+	local weight=weights[word] or 0--math.ceil(math.pow(val,1/2))
 	if weight>9 then weight=9 end
 	local classes={}
 	for class in pairs( words[word] or {} ) do
@@ -46,7 +50,10 @@ for word,_ in pairs(words) do
 	tab[#tab+1]={word,weight,classes}
 end
 table.sort(tab,function(a,b)
-	return a[1]<b[1]
+	if a[2] == b[2] then
+		return a[1]<b[1]
+	end
+	return a[2]>b[2]
 end)
 
 
