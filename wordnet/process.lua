@@ -6,10 +6,10 @@ local words={}
 local freqs={}
 
 local files={
-	["data.adj"]={		index=true,		class="a",	},
-	["data.adv"]={		index=true,		class="av",	},
-	["data.noun"]={		index=true,		class="n",	},
-	["data.verb"]={		index=true,		class="v",	},
+	["data.adj"]={		index=true,		class="j",	inflect={"er","ist"},	},
+	["data.adv"]={		index=true,		class="a",	inflect={},				},
+	["data.noun"]={		index=true,		class="n",	inflect={"s"},			},
+	["data.verb"]={		index=true,		class="v",	inflect={"s","ing"},	},
 }
 
 for fn,it in pairs(files) do
@@ -25,9 +25,18 @@ for fn,it in pairs(files) do
 			if safeword~="" and safeword==word then -- good word
 				if not freqs[word] then freqs[word]=0 end
 				freqs[word]=freqs[word]+1
-				if not words[safeword] then words[safeword]={} end
+				if not words[word] then words[word]={} end
 				if class~="" then
-					words[safeword][class]=true
+					words[word][class]=true
+				end
+				for _,f in pairs(it.inflect) do
+					local wordf=word..f
+					if not freqs[wordf] then freqs[wordf]=0 end
+					freqs[wordf]=freqs[wordf]+1
+					if not words[wordf] then words[wordf]={} end
+					if class~="" then
+						words[wordf][class..f]=true
+					end
 				end
 			end
 

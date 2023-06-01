@@ -1,17 +1,17 @@
 #!/usr/bin/env gamecake 
 
 local classes={
-	["noun plural"]           = "np",
-	["noun singular"]         = "ns",
+	["noun plural"]           = "ns",
+	["noun singular"]         = "n",
 	["noun"]                  = "n",
 	["pronoun"]               = "pn",
 
 	["verb intransitive"]     = "vi",
 	["verb transitive"]       = "vt",
-	["adverb"]                = "av",
+	["adverb"]                = "a",
 
-	["participial adjective"] = "pa",
-	["adjective"]             = "a",
+	["participial adjective"] = "pj",
+	["adjective"]             = "j",
 	["conjunction"]           = "c",
 	["interjection"]          = "i",
 	["preposition"]           = "p",
