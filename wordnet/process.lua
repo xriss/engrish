@@ -4,6 +4,7 @@ local wstr=require("wetgenes.string")
 
 local words={}
 local freqs={}
+local defs={}
 
 local files={
 	["data.adj"]={		index=true,		class="j",	inflect={"er","ist"},	},
@@ -16,13 +17,21 @@ for fn,it in pairs(files) do
 
 	local fp=io.open("dict/"..fn,"r")
 	for line in fp:lines() do
-		local defs=wstr.split(line,"|")[2]
-		if defs then
+		local def=wstr.split(line,"|")[2]
+		if def then
+			def=def:gsub("%s+"," ") -- replace all whitespace with a single space
+			def=def:match("^%s*(.-)%s*$") -- trim
+			def=it.class..": "..def
 			local cols=wstr.split(line," ")
 			local word=cols[5]
 			local class=it.class or ""
 			local safeword=word:gsub("[^a-z]","")
 			if safeword~="" and safeword==word then -- good word
+				if defs[word] then
+					defs[word]=defs[word].." "..def -- definition
+				else
+					defs[word]=def -- definition
+				end
 				if not freqs[word] then freqs[word]=0 end
 				freqs[word]=freqs[word]+1
 				if not words[word] then words[word]={} end
@@ -42,12 +51,12 @@ for fn,it in pairs(files) do
 ]]
 			end
 
-			defs=string.lower(defs):gsub("%p",""):gsub("[^a-z]"," ")
-			for _,word in ipairs( wstr.split(defs," ") ) do
+			def=string.lower(def):gsub("%p",""):gsub("[^a-z]"," ")
+			for _,word in ipairs( wstr.split(def," ") ) do
 				if word~="" then
 					if not freqs[word] then freqs[word]=0 end
 					freqs[word]=freqs[word]+1
-					if not words[word] then words[word]={} end
+--					if not words[word] then words[word]={} end
 				end
 			end
 
@@ -62,18 +71,21 @@ end
 
 
 local tab={}
-for word,val in pairs(freqs) do
-	if val>0 then
+for word in pairs(words) do
+	local val=freqs[word] or 0
+--	if val>0 then
 		local weight=math.ceil(math.pow(val,1/2))
 		if weight>9 then weight=9 end
+		if weight<0 then weight=0 end
 		local classes={}
 		for class in pairs( words[word] or {} ) do
 			classes[#classes+1]=class
 		end
 		table.sort(classes)
 		classes=table.concat(classes," ")
-		tab[#tab+1]={word,weight,classes}
-	end
+		local def=defs[word] or ""
+		tab[#tab+1]={word,weight,classes,def}
+--	end
 end
 table.sort(tab,function(a,b)
 	if a[2] == b[2] then
@@ -86,6 +98,6 @@ end)
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do
-	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
+	fp:write(table.concat(v,"\t").."\n")
 end
 fp:close()
