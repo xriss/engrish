@@ -24,9 +24,9 @@ for fn,it in pairs(files) do
 			def=it.class..": "..def
 			local cols=wstr.split(line," ")
 			local class=it.class or ""
-			for idx=5,100,2 do
+			for idx=5,#cols,2 do
 				local word=cols[idx]
-				if word:find("%d") then break end -- break on digits
+				if word:find("%d") and #word==3 then break end -- break on 000 digits
 				local safeword=word:gsub("[^a-z]","")
 				if safeword~="" and safeword==word then -- good word
 					if defs[word] then

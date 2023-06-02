@@ -970,10 +970,11 @@ hundred	9	j n
 hunting	9	n
 husband	9	n v
 hydrogen	9	n
-i	9	n
+i	9	j n
 ice	9	n v
 idea	9	n
 identified	9	j
+ii	9	j
 ill	9	a j n
 illegal	9	j
 illness	9	n
@@ -2116,7 +2117,7 @@ usual	9	j
 usually	9	a
 uterus	9	n
 utter	9	j v
-v	9	n
+v	9	j n
 valley	9	n
 valuable	9	j n
 value	9	n v
@@ -2824,7 +2825,7 @@ winning	8	j n
 witness	8	n v
 woods	8	n
 woolly	8	j
-x	8	n
+x	8	j n
 youth	8	n
 zero	8	j n v
 zone	8	n v
@@ -4187,6 +4188,7 @@ humorous	6	j
 hydrocarbon	6	n
 hydrolysis	6	n
 igneous	6	j
+iii	6	j
 illumination	6	n
 illusion	6	n
 impairment	6	n
@@ -6744,6 +6746,7 @@ verdict	5	n
 vertically	5	a
 vest	5	n v
 vicious	5	j
+viii	5	j
 violate	5	v
 violinist	5	n
 viscera	5	n
@@ -7327,6 +7330,7 @@ chute	4	n v
 cider	4	n
 ciliary	4	j
 cinema	4	n
+cipher	4	n v
 circulatory	4	j
 circumference	4	n
 cite	4	n v
@@ -7766,6 +7770,7 @@ doubtful	4	j
 douse	4	v
 downfall	4	n
 downhill	4	a j n
+dozen	4	j n
 drab	4	j n
 drafting	4	n
 dragging	4	j
@@ -8494,6 +8499,7 @@ isomer	4	n
 isomeric	4	j
 issuing	4	n
 itinerant	4	j n
+iv	4	j
 jade	4	j n v
 jagged	4	j
 jaundice	4	n v
@@ -8514,7 +8520,7 @@ jumper	4	n
 jungle	4	n
 juniper	4	n
 jurisprudence	4	n
-k	4	n
+k	4	j n
 kangaroo	4	n
 keeper	4	n
 ketone	4	n
@@ -8532,7 +8538,7 @@ knob	4	n
 knocking	4	n
 knotted	4	j
 knowledgeable	4	j
-l	4	n
+l	4	j n
 la	4	n
 labeled	4	j
 labored	4	j
@@ -8636,7 +8642,7 @@ lush	4	j n
 luster	4	n
 luxurious	4	j
 lysis	4	n
-m	4	n
+m	4	j n
 mackerel	4	n
 madness	4	n
 mafia	4	n
@@ -10131,6 +10137,7 @@ viewer	4	n
 viewers	4	n
 viewing	4	n
 viewpoint	4	n
+vii	4	j
 villain	4	n
 viola	4	n
 violated	4	j
@@ -10224,6 +10231,7 @@ wrinkle	4	n v
 wrongly	4	a
 wrought	4	j
 xerophytic	4	j
+xiv	4	j
 yawn	4	n v
 yawning	4	j n
 yes	4	n
@@ -11297,7 +11305,6 @@ ciliate	3	j n
 ciliated	3	j
 cinch	3	n v
 cinchona	3	n
-cipher	3	n v
 circuitous	3	j
 circularize	3	v
 circumpolar	3	j
@@ -14346,6 +14353,7 @@ mycelium	3	n
 myocardial	3	j
 myocardium	3	n
 myopia	3	n
+myriad	3	j n
 myrtle	3	n
 mysteriously	3	a
 mystic	3	j n
@@ -14551,6 +14559,7 @@ occasional	3	j
 occluded	3	j
 oceangoing	3	j
 ocher	3	j n
+octet	3	n
 ode	3	n
 odyssey	3	n
 offence	3	n
@@ -15308,6 +15317,7 @@ quickening	3	n
 quiescent	3	j
 quill	3	n
 quinine	3	n
+quintet	3	n
 quintillion	3	n
 quit	3	v
 quits	3	j
@@ -15912,6 +15922,7 @@ sentient	3	j
 sepal	3	n
 separatism	3	n
 separative	3	j
+septet	3	n
 septic	3	j
 sepulchral	3	j
 sequential	3	j
@@ -15937,6 +15948,7 @@ seventeen	3	j n
 sever	3	v
 severed	3	j
 sextant	3	n
+sextet	3	n
 sexy	3	j
 shabbily	3	a
 shabby	3	j
@@ -16721,6 +16733,7 @@ thorium	3	n
 thornless	3	j
 thoroughfare	3	n
 thoroughgoing	3	j
+thou	3	n
 thoughtfully	3	a
 thoughtfulness	3	n
 thoughtless	3	j
@@ -16886,6 +16899,8 @@ trilateral	3	j n
 trillionth	3	j n
 trillium	3	n
 trimmings	3	n
+trio	3	n
+triplet	3	n
 tripod	3	n
 tripper	3	n
 trite	3	j
@@ -17312,6 +17327,7 @@ vex	3	v
 vexation	3	n
 vexed	3	j
 vexing	3	j
+vi	3	j
 viable	3	j
 vicar	3	n
 vicarious	3	j
@@ -17557,6 +17573,8 @@ wretchedness	3	n
 wrongfully	3	a
 wry	3	j
 xerographic	3	j
+xiii	3	j
+xvi	3	j
 xylem	3	n
 yacht	3	n v
 yak	3	n v
@@ -18343,6 +18361,7 @@ androgen	2	n
 androgenesis	2	n
 androgynous	2	j
 andryala	2	n
+ane	2	j
 anecdotic	2	j
 anechoic	2	j
 anemometrical	2	j
@@ -24600,6 +24619,7 @@ fitfully	2	a
 fitter	2	j n
 fittingly	2	a
 fivefold	2	j
+fivesome	2	n
 fixedly	2	a
 fixer	2	n
 fixings	2	n
@@ -24901,6 +24921,7 @@ foully	2	a
 fount	2	n
 fountainhead	2	n
 fourhanded	2	j
+fourscore	2	j n
 foursome	2	n
 fourthly	2	a
 fovea	2	n
@@ -26524,6 +26545,7 @@ ignorantly	2	a
 iguanodon	2	n
 ijtihad	2	n
 ikon	2	n
+il	2	j
 ilama	2	n
 ileitis	2	n
 ilium	2	n
@@ -27389,6 +27411,7 @@ iterative	2	j n
 itinerary	2	n
 iva	2	n
 ivied	2	j
+ix	2	j
 ixodid	2	n
 izzard	2	n
 jabber	2	n v
@@ -27979,7 +28002,7 @@ lexically	2	a
 lexicography	2	n
 lexicology	2	n
 lexicostatistic	2	j
-li	2	n
+li	2	j n
 liaison	2	n
 liana	2	n
 libation	2	n
@@ -28297,6 +28320,7 @@ luxe	2	j
 luxuriantly	2	a
 luxuriate	2	v
 lwei	2	n
+lx	2	j n
 lyceum	2	n
 lychnis	2	n
 lye	2	n
@@ -28880,6 +28904,7 @@ midplane	2	n
 midpoint	2	n
 midriff	2	n
 midships	2	a
+midsummer	2	n
 midterm	2	n
 midweek	2	a n
 midweekly	2	j
@@ -29383,7 +29408,6 @@ myosis	2	n
 myositis	2	n
 myotic	2	j n
 myotonia	2	n
-myriad	2	j n
 myrmecophagous	2	j
 myrrh	2	n
 mysophobia	2	n
@@ -29963,7 +29987,6 @@ octahedron	2	n
 octal	2	j
 octane	2	n
 octant	2	n
-octet	2	n
 octette	2	n
 octogenarian	2	j n
 octopus	2	n
@@ -32155,7 +32178,7 @@ quartette	2	n
 quartzite	2	n
 quash	2	v
 quasiparticle	2	n
-quaternary	2	j
+quaternary	2	j n
 quaternate	2	j
 quatrain	2	n
 quaver	2	n v
@@ -32200,9 +32223,9 @@ quince	2	n
 quincentenary	2	j n
 quincentennial	2	j n
 quinidine	2	n
+quint	2	n
 quintal	2	n
 quintessence	2	n
-quintet	2	n
 quintette	2	n
 quintillionth	2	j n
 quintuple	2	j n v
@@ -32976,6 +32999,7 @@ ribbing	2	n
 ribbonfish	2	n
 ribbonwood	2	n
 riblike	2	j
+riboflavin	2	n
 ricebird	2	n
 richweed	2	n
 ricin	2	n
@@ -33728,7 +33752,6 @@ sepia	2	n
 sepsis	2	n
 sept	2	n
 septal	2	j
-septet	2	n
 septette	2	n
 septicemic	2	j
 septillion	2	n
@@ -33789,7 +33812,6 @@ sexism	2	n
 sexist	2	j n
 sexless	2	j
 sexploitation	2	n
-sextet	2	n
 sextette	2	n
 sexualize	2	v
 sforzando	2	n
@@ -35657,6 +35679,7 @@ tenebrous	2	j
 tenement	2	n
 tenfold	2	a j
 tenge	2	n
+tenner	2	n
 tenno	2	n
 tenpins	2	n
 tenpounder	2	n
@@ -35685,7 +35708,7 @@ terminable	2	j
 terminative	2	j
 terminological	2	j
 tern	2	n
-ternary	2	j
+ternary	2	j n
 ternate	2	j
 terpene	2	n
 terpsichorean	2	j n
@@ -35800,6 +35823,7 @@ thermostatically	2	a
 thesaurus	2	n
 thespian	2	j n
 theurgy	2	n
+thiamine	2	n
 thicket	2	n
 thickspread	2	j
 thievery	2	n
@@ -35828,6 +35852,8 @@ thrasher	2	n
 thready	2	j
 threateningly	2	a
 threepenny	2	j
+threescore	2	j n
+threesome	2	n
 thresher	2	n
 threshing	2	n
 thrice	2	a
@@ -36223,6 +36249,7 @@ treponema	2	n
 tress	2	n
 trestle	2	n
 trestlework	2	n
+trey	2	n
 triangulation	2	n
 triazine	2	n
 tribalism	2	n
@@ -36258,15 +36285,14 @@ trimer	2	n
 trimester	2	n
 trimly	2	a
 trimmer	2	n
+trine	2	n
 trinket	2	n
 trinucleate	2	j
-trio	2	n
 triode	2	n
 trioxide	2	n
 tripartite	2	j
 tripe	2	n
 tripinnatifid	2	j
-triplet	2	n
 tripletail	2	n
 triplex	2	j
 triplicate	2	n v
@@ -38308,6 +38334,9 @@ xeric	2	j
 xerography	2	n
 xerophyte	2	n
 xerox	2	n v
+xi	2	j n
+xii	2	j
+xv	2	j
 xylophone	2	n
 yachting	2	n
 yack	2	n v
@@ -38775,6 +38804,7 @@ adenopathy	1	n
 adenosis	1	n
 adenovirus	1	n
 adequateness	1	n
+adermin	1	n
 adesite	1	n
 adience	1	n
 adient	1	j
@@ -39516,6 +39546,7 @@ anestric	1	j
 anestrum	1	n
 aneuploid	1	j
 aneuploidy	1	n
+aneurin	1	n
 aneurism	1	n
 aneurismal	1	j
 aneurismatic	1	j
@@ -42755,6 +42786,7 @@ childbed	1	n
 childishness	1	n
 childlessness	1	n
 childly	1	j
+chiliad	1	n
 chiliasm	1	n
 chiliast	1	n
 chiliastic	1	j
@@ -42958,6 +42990,7 @@ cinematography	1	n
 cinerarium	1	n
 cingulum	1	n
 cinnamene	1	n
+cinque	1	n
 ciprofloxacin	1	n
 circularisation	1	n
 circularization	1	n
@@ -43158,6 +43191,7 @@ coatroom	1	n
 coattail	1	n
 coaxal	1	j
 coaxer	1	n
+cobalamin	1	n
 cobaltite	1	n
 cobber	1	n
 cobbling	1	n
@@ -44287,6 +44321,7 @@ cwm	1	n
 cyanamid	1	n
 cyanite	1	n
 cyanobacterial	1	j
+cyanocobalamin	1	n
 cyanogen	1	n
 cyanohydrin	1	n
 cyanophyte	1	j
@@ -44666,6 +44701,7 @@ dehiscence	1	n
 dehumanisation	1	n
 dehumanised	1	j
 dehumidify	1	v
+dehydroretinol	1	n
 deice	1	v
 deicer	1	n
 deific	1	j
@@ -45919,6 +45955,7 @@ egression	1	n
 eidetic	1	j
 eidos	1	n
 eigenvalue	1	n
+eighter	1	n
 eightfold	1	j
 eightpence	1	n
 eightpenny	1	j
@@ -46165,6 +46202,7 @@ enlarger	1	n
 enlistee	1	n
 enlivener	1	n
 enmesh	1	v
+ennead	1	n
 ennui	1	n
 enolic	1	j
 enologist	1	n
@@ -47077,7 +47115,6 @@ fittingness	1	n
 fivepence	1	n
 fiver	1	n
 fives	1	n
-fivesome	1	n
 fizzy	1	j
 flab	1	n
 flabbergast	1	v
@@ -48794,10 +48831,12 @@ henroost	1	n
 hep	1	j
 hepadnavirus	1	n
 hepatocarcinoma	1	n
+hepatoflavin	1	n
 hepatoma	1	n
 hepatomegaly	1	n
 hepatotoxic	1	j
 hepatotoxin	1	n
+heptad	1	n
 heptagon	1	n
 heraldist	1	j
 herbalist	1	n
@@ -48855,6 +48894,7 @@ heth	1	n
 heulandite	1	n
 hewer	1	n
 hexachlorophene	1	n
+hexad	1	n
 hexagram	1	n
 hexangular	1	j
 hexapod	1	n
@@ -49473,6 +49513,7 @@ ianfu	1	n
 iatrogenic	1	j
 ibex	1	n
 ibidem	1	a
+ic	1	j
 icebox	1	n
 icecap	1	n
 icefall	1	n
@@ -49547,6 +49588,9 @@ illume	1	v
 illumine	1	v
 illusional	1	j
 illustriousness	1	n
+ilx	1	j
+ilxx	1	j
+ilxxx	1	j
 imaginativeness	1	n
 imagism	1	n
 imaret	1	n
@@ -50317,6 +50361,8 @@ itinerate	1	v
 itineration	1	n
 itraconazole	1	n
 ivorybill	1	n
+ixc	1	j
+ixl	1	j
 izar	1	n
 jabberer	1	n
 jabbering	1	n
@@ -50818,6 +50864,7 @@ lacrimatory	1	j
 lactalbumin	1	n
 lactifuge	1	n
 lactobacillus	1	n
+lactoflavin	1	n
 lactogen	1	n
 lactogenic	1	j
 lactosuria	1	n
@@ -50852,6 +50899,7 @@ laird	1	n
 lakefront	1	n
 lakeshore	1	n
 lakeside	1	n
+lakh	1	n
 lally	1	n
 lallygag	1	v
 lamasery	1	n
@@ -51226,6 +51274,8 @@ ligne	1	n
 lignify	1	v
 lignosae	1	n
 ligule	1	n
+lii	1	j
+liii	1	j
 likeliness	1	n
 liken	1	v
 likening	1	n
@@ -51343,6 +51393,7 @@ littler	1	j
 liturgics	1	n
 liturgiology	1	n
 liturgist	1	n
+liv	1	j
 liveable	1	j
 livedo	1	n
 liveness	1	n
@@ -51570,7 +51621,36 @@ luxuria	1	n
 luxuriance	1	n
 luxuriation	1	n
 luxuriousness	1	n
-lx	1	n
+lv	1	j
+lvi	1	j
+lvii	1	j
+lviii	1	j
+lxi	1	j
+lxii	1	j
+lxiii	1	j
+lxiv	1	j
+lxv	1	j
+lxvi	1	j
+lxvii	1	j
+lxviii	1	j
+lxx	1	j
+lxxi	1	j
+lxxii	1	j
+lxxiii	1	j
+lxxiv	1	j
+lxxv	1	j
+lxxvi	1	j
+lxxvii	1	j
+lxxviii	1	j
+lxxx	1	j
+lxxxi	1	j
+lxxxii	1	j
+lxxxiii	1	j
+lxxxiv	1	j
+lxxxv	1	j
+lxxxvi	1	j
+lxxxvii	1	j
+lxxxviii	1	j
 lycaenid	1	n
 lycanthrope	1	n
 lycanthropy	1	n
@@ -52069,6 +52149,7 @@ meerestone	1	n
 meeter	1	n
 meetinghouse	1	n
 mefloquine	1	n
+meg	1	n
 megabat	1	n
 megabit	1	n
 megacardia	1	n
@@ -52148,6 +52229,7 @@ memorise	1	v
 memoriser	1	n
 memorizer	1	n
 memsahib	1	n
+menadione	1	n
 menage	1	n
 mendaciously	1	a
 mendacity	1	n
@@ -53483,6 +53565,7 @@ nimiety	1	n
 ninepence	1	n
 ninepenny	1	j
 ninepin	1	n
+niner	1	n
 ninjitsu	1	n
 ninny	1	n
 ninon	1	n
@@ -53764,6 +53847,7 @@ noticeability	1	n
 noticeableness	1	n
 notornis	1	n
 notturno	1	n
+nought	1	n
 noumenon	1	n
 novate	1	v
 novation	1	n
@@ -53916,11 +54000,13 @@ oceanology	1	n
 ocelot	1	n
 ochlocracy	1	n
 ocotillo	1	n
+octad	1	n
 octagonal	1	j
 octameter	1	n
 octangular	1	j
 octavo	1	n
 octillion	1	n
+octonary	1	n
 octopod	1	n
 octoroon	1	n
 octosyllable	1	n
@@ -53978,6 +54064,7 @@ oftener	1	a
 oftenness	1	n
 oftentimes	1	a
 ofttimes	1	a
+ogdoad	1	n
 ogee	1	n
 ogive	1	n
 ogle	1	v
@@ -54455,6 +54542,7 @@ overzealous	1	j
 oviform	1	j
 ovine	1	j
 oviraptorid	1	n
+ovoflavin	1	n
 ovotestis	1	n
 owlclaws	1	n
 owlet	1	n
@@ -55040,6 +55128,7 @@ penoncel	1	n
 penpusher	1	n
 pensioner	1	n
 pentacle	1	n
+pentad	1	n
 pentaerythritol	1	n
 pentagram	1	n
 pentahedron	1	n
@@ -55399,6 +55488,7 @@ phyllo	1	n
 phylloclad	1	n
 phylloclade	1	n
 phyllodial	1	j
+phylloquinone	1	n
 phylogenesis	1	n
 physiatrics	1	n
 physicalism	1	n
@@ -55417,6 +55507,7 @@ phytochemistry	1	n
 phytohormone	1	n
 phytologist	1	n
 phytology	1	n
+phytonadione	1	n
 phytophagic	1	j
 phytophagous	1	j
 phytophilous	1	j
@@ -56646,6 +56737,9 @@ pyramidical	1	j
 pyramiding	1	n
 pyretic	1	j
 pyrexia	1	n
+pyridoxal	1	n
+pyridoxamine	1	n
+pyridoxine	1	n
 pyrilamine	1	n
 pyrites	1	n
 pyrochemical	1	j
@@ -56738,6 +56832,9 @@ quasar	1	n
 quat	1	n
 quatercentenary	1	n
 quatercentennial	1	n
+quatern	1	n
+quaternion	1	n
+quaternity	1	n
 quattrocento	1	n
 quayage	1	n
 queenfish	1	n
@@ -56769,7 +56866,6 @@ quinone	1	n
 quinquefoliate	1	j
 quinquennium	1	n
 quinsy	1	n
-quint	1	n
 quintessential	1	j
 quintipara	1	n
 quintupling	1	n
@@ -56830,6 +56926,7 @@ radioprotection	1	n
 radioscopy	1	n
 radiosensitivity	1	n
 radiotherapist	1	n
+radiothorium	1	n
 radome	1	n
 raetam	1	n
 raffinose	1	n
@@ -57337,6 +57434,7 @@ reticle	1	n
 reticulocyte	1	n
 retinitis	1	n
 retinoblastoma	1	n
+retinol	1	n
 retiree	1	n
 retractor	1	n
 retranslate	1	v
@@ -58353,6 +58451,7 @@ seppuku	1	n
 septate	1	j
 septation	1	n
 septectomy	1	n
+septenary	1	n
 septicaemia	1	n
 septrional	1	j
 septuagenarian	1	n
@@ -58427,6 +58526,7 @@ sett	1	n
 setterwort	1	n
 settlings	1	n
 settlor	1	n
+sevener	1	n
 sevensome	1	n
 sewed	1	j
 sewellel	1	n
@@ -58438,6 +58538,7 @@ sext	1	n
 sextillion	1	n
 sexton	1	n
 sextuple	1	j
+sextuplet	1	n
 sexualise	1	v
 sezession	1	n
 sgraffito	1	n
@@ -58761,6 +58862,7 @@ sirocco	1	n
 sirrah	1	n
 sirup	1	n
 sis	1	n
+sise	1	n
 sisham	1	n
 siskin	1	n
 sissified	1	j
@@ -58769,6 +58871,7 @@ sissoo	1	n
 sissu	1	n
 sissyish	1	j
 sisterlike	1	j
+sixer	1	n
 sixpence	1	n
 sixpenny	1	j
 sixsome	1	n
@@ -60537,7 +60640,6 @@ tenebrious	1	j
 tenesmus	1	n
 tenet	1	n
 tenia	1	n
-tenner	1	n
 tenonitis	1	n
 tenorist	1	n
 tenoroon	1	n
@@ -60574,6 +60676,7 @@ tercel	1	n
 tercelet	1	n
 tercentenary	1	n
 tercentennial	1	n
+tercet	1	n
 teredinid	1	n
 teredo	1	n
 terefah	1	j
@@ -60581,6 +60684,7 @@ tergiversator	1	n
 teriyaki	1	n
 termer	1	n
 terminator	1	n
+ternion	1	n
 terpsichore	1	n
 terrarium	1	n
 terrasse	1	v
@@ -60594,6 +60698,7 @@ territorialization	1	n
 terry	1	n
 terrycloth	1	n
 tertigravida	1	n
+terzetto	1	n
 tessella	1	n
 tesseract	1	n
 testatrix	1	n
@@ -60614,6 +60719,7 @@ tetracaine	1	n
 tetrachlorethylene	1	n
 tetrachloroethylene	1	n
 tetrachloromethane	1	n
+tetrad	1	n
 tetrafluoroethylene	1	n
 tetragon	1	n
 tetragonal	1	j
@@ -60702,6 +60808,7 @@ thermotherapy	1	n
 thermotropism	1	n
 theta	1	n
 thiabendazole	1	n
+thiamin	1	n
 thiazide	1	n
 thiazine	1	n
 thickhead	1	n
@@ -60747,8 +60854,6 @@ threadfin	1	n
 threadfish	1	n
 threadworm	1	n
 threepence	1	n
-threescore	1	n
-threesome	1	n
 threnody	1	n
 threonine	1	n
 thriftshop	1	n
@@ -61209,7 +61314,6 @@ trepidation	1	n
 trepidly	1	a
 trespasser	1	n
 trews	1	n
-trey	1	n
 triacetate	1	n
 triage	1	n
 triamcinolone	1	n
@@ -61461,6 +61565,7 @@ twistwood	1	n
 twitterer	1	n
 twopence	1	n
 twopenny	1	j
+twoscore	1	j
 tympan	1	n
 tympani	1	n
 tympanist	1	n
@@ -63273,6 +63378,15 @@ xanthophyl	1	n
 xanthopsia	1	n
 xanthosis	1	n
 xanthous	1	j
+xc	1	j
+xci	1	j
+xcii	1	j
+xciii	1	j
+xciv	1	j
+xcv	1	j
+xcvi	1	j
+xcvii	1	j
+xcviii	1	j
 xenogeneic	1	j
 xenogenesis	1	n
 xenograft	1	n
@@ -63288,7 +63402,37 @@ xerophthalmus	1	n
 xeroradiography	1	n
 xerostomia	1	n
 xerotes	1	n
-xi	1	n
+xix	1	j
+xl	1	j
+xli	1	j
+xlii	1	j
+xliii	1	j
+xliv	1	j
+xlv	1	j
+xlvi	1	j
+xlvii	1	j
+xlviii	1	j
+xvii	1	j
+xviii	1	j
+xx	1	j
+xxi	1	j
+xxii	1	j
+xxiii	1	j
+xxiv	1	j
+xxix	1	j
+xxv	1	j
+xxvi	1	j
+xxvii	1	j
+xxviii	1	j
+xxx	1	j
+xxxi	1	j
+xxxii	1	j
+xxxiii	1	j
+xxxiv	1	j
+xxxv	1	j
+xxxvi	1	j
+xxxvii	1	j
+xxxviii	1	j
 xylene	1	n
 xylol	1	n
 xylophonist	1	n
