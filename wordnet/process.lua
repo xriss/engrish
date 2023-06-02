@@ -23,21 +23,23 @@ for fn,it in pairs(files) do
 			def=def:match("^%s*(.-)%s*$") -- trim
 			def=it.class..": "..def
 			local cols=wstr.split(line," ")
-			local word=cols[5]
 			local class=it.class or ""
-			local safeword=word:gsub("[^a-z]","")
-			if safeword~="" and safeword==word then -- good word
-				if defs[word] then
-					defs[word]=defs[word].." "..def -- definition
-				else
-					defs[word]=def -- definition
-				end
-				if not freqs[word] then freqs[word]=0 end
-				freqs[word]=freqs[word]+1
-				if not words[word] then words[word]={} end
-				if class~="" then
-					words[word][class]=true
-				end
+			for idx=5,100,2 do
+				local word=cols[idx]
+				if word:find("%d") then break end -- break on digits
+				local safeword=word:gsub("[^a-z]","")
+				if safeword~="" and safeword==word then -- good word
+					if defs[word] then
+						defs[word]=defs[word].." "..def -- definition
+					else
+						defs[word]=def -- definition
+					end
+					if not freqs[word] then freqs[word]=0 end
+					freqs[word]=freqs[word]+1
+					if not words[word] then words[word]={} end
+					if class~="" then
+						words[word][class]=true
+					end
 --[[
 				for _,f in pairs(it.inflect) do
 					local wordf=word..f
@@ -49,10 +51,11 @@ for fn,it in pairs(files) do
 					end
 				end
 ]]
+				end
 			end
-
-			def=string.lower(def):gsub("%p",""):gsub("[^a-z]"," ")
-			for _,word in ipairs( wstr.split(def," ") ) do
+			
+			local sdef=string.lower(def):gsub("%p",""):gsub("[^a-z]"," ")
+			for _,word in ipairs( wstr.split(sdef," ") ) do
 				if word~="" then
 					if not freqs[word] then freqs[word]=0 end
 					freqs[word]=freqs[word]+1
@@ -98,6 +101,12 @@ end)
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do
-	fp:write(table.concat(v,"\t").."\n")
+	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
+end
+fp:close()
+
+local fp=io.open("dicts.tsv","w")
+for i,v in ipairs(tab) do
+	fp:write(v[1].."\t"..v[4].."\n")
 end
 fp:close()
