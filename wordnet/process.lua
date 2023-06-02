@@ -29,6 +29,7 @@ for fn,it in pairs(files) do
 				if class~="" then
 					words[word][class]=true
 				end
+--[[
 				for _,f in pairs(it.inflect) do
 					local wordf=word..f
 					if not freqs[wordf] then freqs[wordf]=0 end
@@ -38,6 +39,7 @@ for fn,it in pairs(files) do
 						words[wordf][class..f:sub(-1)]=true
 					end
 				end
+]]
 			end
 
 			defs=string.lower(defs):gsub("%p",""):gsub("[^a-z]"," ")
