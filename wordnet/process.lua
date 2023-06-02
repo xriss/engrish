@@ -57,9 +57,18 @@ for fn,it in pairs(files) do
 			local sdef=string.lower(def):gsub("%p",""):gsub("[^a-z]"," ")
 			for _,word in ipairs( wstr.split(sdef," ") ) do
 				if word~="" then
+					local skip=false
+					for _,en in pairs({"s","ed","en","ing","er","ist"}) do
+						if en == word:sub(#word+1-#en) then
+							local v=word:sub(1,#word-#en)
+							if words[v] then skip=true end -- not this word, probably
+						end
+					end
 					if not freqs[word] then freqs[word]=0 end
 					freqs[word]=freqs[word]+1
---					if not words[word] then words[word]={} end
+					if not skip then
+						if not words[word] then words[word]={} end
+					end
 				end
 			end
 
