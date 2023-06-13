@@ -4,19 +4,23 @@ local wstr=require("wetgenes.string")
 
 
 local classes={
-	["noun plural"]           = "ns",
 	["noun singular"]         = "n",
 	["noun"]                  = "n",
-	["pronoun"]               = "pn",
 
-	["verb intransitive"]     = "vi",
-	["verb transitive"]       = "vt",
+	["verb intransitive"]     = "v",
+	["verb transitive"]       = "v",
+
+	["adjective"]             = "j",
+
 	["adverb"]                = "a",
 
-	["participial adjective"] = "vg",
-	["adjective"]             = "j",
+	["noun plural"]           = "m",	-- m is two ns
+	
+	["pronoun"]               = "i",	-- i is literally a pronoun
+	["interjection"]          = "o",	-- o is literally an interjection
+
+	["participial adjective"] = "g",	-- i do not even
 	["conjunction"]           = "c",
-	["interjection"]          = "i",
 	["preposition"]           = "p",
 }
 
