@@ -13,19 +13,29 @@ local files={
 for fn,it in pairs(files) do
 
 	local fp=io.open(fn,"r")
+	local weight=0
+	local fweights={}
 	for line in fp:lines() do
+		weight=weight+1
 		local cols=wstr.split(line,"\t")
 		local word=cols[1]
-		local weight=tonumber( cols[2] ) or 0
-		local classs=cols[3]
+--		local weight=tonumber( cols[2] ) or 0
+		local classs=cols[2]
 
-		if not weights[word] then weights[word]=weight end
+		if not fweights[word] then fweights[word]=weight end
 
 		if not words[word] then words[word]={} end
-		for _,class in ipairs( wstr.split(classs," ") ) do
-			if class~="" then
-				words[word][class]=true
+		if classs then
+			for _,class in ipairs( wstr.split(classs," ") ) do
+				if class~="" then
+					words[word][class]=true
+				end
 			end
+		end
+	end
+	for n,v in pairs(fweights) do -- guess the weight
+		if not weights[n] then
+			weights[n]=math.floor(10-(9*(v/weight)))
 		end
 	end
 	fp:close()
@@ -59,7 +69,7 @@ end)
 
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
-for i,v in ipairs(tab) do
-	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
+for i,v in ipairs(tab) do -- v[2] can be recalculated
+	fp:write(v[1].."\t"..v[3].."\n")
 end
 fp:close()

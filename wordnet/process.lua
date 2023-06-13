@@ -109,8 +109,8 @@ end)
 
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
-for i,v in ipairs(tab) do
-	fp:write(v[1].."\t"..v[2].."\t"..v[3].."\n")
+for i,v in ipairs(tab) do -- v[2] can be reconstructed
+	fp:write(v[1].."\t"..v[3].."\n")
 end
 fp:close()
 
