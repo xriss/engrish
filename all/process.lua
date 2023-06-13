@@ -26,8 +26,9 @@ for fn,it in pairs(files) do
 
 		if not words[word] then words[word]={} end
 		if classs then
-			for _,class in ipairs( wstr.split(classs," ") ) do
-				if class~="" then
+			for i=1,#classs do
+				local class=classs:sub(i,i)
+				if class~="" and class~=" " then
 					words[word][class]=true
 				end
 			end
@@ -56,7 +57,7 @@ for word,_ in pairs(words) do
 		classes[#classes+1]=class
 	end
 	table.sort(classes)
-	classes=table.concat(classes," ")
+	classes=table.concat(classes,"")
 	tab[#tab+1]={word,weight,classes}
 end
 table.sort(tab,function(a,b)
@@ -70,6 +71,10 @@ end)
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do -- v[2] can be recalculated
-	fp:write(v[1].."\t"..v[3].."\n")
+	fp:write(v[1])
+	if v[3] ~= "" then
+		fp:write("\t"..v[3])
+	end
+	fp:write("\n")
 end
 fp:close()
