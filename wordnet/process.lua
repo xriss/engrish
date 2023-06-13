@@ -94,7 +94,7 @@ for word in pairs(words) do
 			classes[#classes+1]=class
 		end
 		table.sort(classes)
-		classes=table.concat(classes," ")
+		classes=table.concat(classes,"")
 		local def=defs[word] or ""
 		tab[#tab+1]={word,weight,classes,def}
 --	end
@@ -110,7 +110,11 @@ end)
 local fp=io.open("words.tsv","w")
 --fp:write("eng".."\t".."weight".."\t".."class".."\n")
 for i,v in ipairs(tab) do -- v[2] can be reconstructed
-	fp:write(v[1].."\t"..v[3].."\n")
+	fp:write(v[1])
+	if v[3] ~= "" then
+		fp:write("\t"..v[3])
+	end
+	fp:write("\n")
 end
 fp:close()
 
